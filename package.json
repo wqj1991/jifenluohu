@@ -1,0 +1,39 @@
+{
+  "name": "luohu",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n web,api -c cyan,magenta \"vite\" \"node server/index.mjs\"",
+    "dev:web": "vite",
+    "dev:api": "node server/index.mjs",
+    "build": "tsc -b && vite build",
+    "seed": "node server/seed.mjs",
+    "prices:import": "node scripts/import_prices.mjs",
+    "fc:probe": "node scripts/fc/run.mjs probe",
+    "fc:fetch": "node scripts/fc/run.mjs fetch",
+    "fc:fetch-biz": "node scripts/fc/run.mjs fetch --biz",
+    "fc:import": "node scripts/import_prices.mjs",
+    "fc:login": "node scripts/fc/run.mjs login"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "fastify": "^5.2.1",
+    "@fastify/cors": "^10.0.2",
+    "lucide-react": "^0.469.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}

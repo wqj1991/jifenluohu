@@ -1,0 +1,8752 @@
+[
+ {
+  "id": "79114",
+  "name": "一栋洋房",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 50485,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/79114/"
+ },
+ {
+  "id": "580289",
+  "name": "国锐金嵿",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2016,
+  "price": 49880,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/580289/"
+ },
+ {
+  "id": "368999",
+  "name": "中建国际港",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2013,
+  "price": 37803,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/368999/"
+ },
+ {
+  "id": "230457",
+  "name": "保利茉莉公馆",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2012,
+  "price": 43672,
+  "online": 35,
+  "url": "https://m.anjuke.com/bj/community/230457/"
+ },
+ {
+  "id": "83203",
+  "name": "清城南区",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2004,
+  "price": 36977,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/83203/"
+ },
+ {
+  "id": "52512",
+  "name": "香海园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 37429,
+  "online": 35,
+  "url": "https://m.anjuke.com/bj/community/52512/"
+ },
+ {
+  "id": "578195",
+  "name": "金域东郡",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2016,
+  "price": 57665,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/578195/"
+ },
+ {
+  "id": "730474",
+  "name": "北京城建海梓府",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2017,
+  "price": 56918,
+  "online": 45,
+  "url": "https://m.anjuke.com/bj/community/730474/"
+ },
+ {
+  "id": "50974",
+  "name": "康盛园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2005,
+  "price": 31500,
+  "online": 50,
+  "url": "https://m.anjuke.com/bj/community/50974/"
+ },
+ {
+  "id": "850149",
+  "name": "新里西斯莱公馆",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2012,
+  "price": 40931,
+  "online": 65,
+  "url": "https://m.anjuke.com/bj/community/850149/"
+ },
+ {
+  "id": "76980",
+  "name": "新安里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 21717,
+  "online": 72,
+  "url": "https://m.anjuke.com/bj/community/76980/"
+ },
+ {
+  "id": "53009",
+  "name": "彩虹新城",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2009,
+  "price": 36090,
+  "online": 50,
+  "url": "https://m.anjuke.com/bj/community/53009/"
+ },
+ {
+  "id": "429814",
+  "name": "鸿坤理想城礼域府",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2012,
+  "price": 43631,
+  "online": 68,
+  "url": "https://m.anjuke.com/bj/community/429814/"
+ },
+ {
+  "id": "656562",
+  "name": "亦庄金茂悦(北区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2016,
+  "price": 56669,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/656562/"
+ },
+ {
+  "id": "867866",
+  "name": "首开康乃馨城",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2012,
+  "price": 27116,
+  "online": 56,
+  "url": "https://m.anjuke.com/bj/community/867866/"
+ },
+ {
+  "id": "420271",
+  "name": "旭辉紫郡",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2012,
+  "price": 47021,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/420271/"
+ },
+ {
+  "id": "50495",
+  "name": "枣园小区",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 1996,
+  "price": 26356,
+  "online": 66,
+  "url": "https://m.anjuke.com/bj/community/50495/"
+ },
+ {
+  "id": "454074",
+  "name": "保利春天里",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": 31372,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/454074/"
+ },
+ {
+  "id": "546088",
+  "name": "和成璟园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 42907,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/546088/"
+ },
+ {
+  "id": "916324",
+  "name": "瀛海家园和园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2015,
+  "price": 26891,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/916324/"
+ },
+ {
+  "id": "51229",
+  "name": "金地格林小镇(大兴)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 52464,
+  "online": 34,
+  "url": "https://m.anjuke.com/bj/community/51229/"
+ },
+ {
+  "id": "289079",
+  "name": "首邑溪谷",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2016,
+  "price": 41017,
+  "online": 83,
+  "url": "https://m.anjuke.com/bj/community/289079/"
+ },
+ {
+  "id": "218888",
+  "name": "恒盛波尔多小镇(南区)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2009,
+  "price": 14045,
+  "online": 33,
+  "url": "https://m.anjuke.com/bj/community/218888/"
+ },
+ {
+  "id": "368878",
+  "name": "华润公元九里",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2015,
+  "price": 49996,
+  "online": 42,
+  "url": "https://m.anjuke.com/bj/community/368878/"
+ },
+ {
+  "id": "50631",
+  "name": "福苑小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1998,
+  "price": 21523,
+  "online": 33,
+  "url": "https://m.anjuke.com/bj/community/50631/"
+ },
+ {
+  "id": "863372",
+  "name": "龙湖时代天街(东区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": 32180,
+  "online": 52,
+  "url": "https://m.anjuke.com/bj/community/863372/"
+ },
+ {
+  "id": "86323",
+  "name": "旭东嘉园上海沙龙",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2006,
+  "price": 49505,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/86323/"
+ },
+ {
+  "id": "76981",
+  "name": "新居里小区",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2001,
+  "price": 21809,
+  "online": 31,
+  "url": "https://m.anjuke.com/bj/community/76981/"
+ },
+ {
+  "id": "867925",
+  "name": "育新花园北里",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2015,
+  "price": 12546,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/867925/"
+ },
+ {
+  "id": "851889",
+  "name": "清城北区",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2006,
+  "price": 36459,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/851889/"
+ },
+ {
+  "id": "368931",
+  "name": "金融街金色漫香郡(北区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2012,
+  "price": 21524,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/368931/"
+ },
+ {
+  "id": "76053",
+  "name": "青岛嘉园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2003,
+  "price": 45621,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/76053/"
+ },
+ {
+  "id": "50925",
+  "name": "宣颐家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 36261,
+  "online": 36,
+  "url": "https://m.anjuke.com/bj/community/50925/"
+ },
+ {
+  "id": "594458",
+  "name": "格林云墅",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2016,
+  "price": 24771,
+  "online": 44,
+  "url": "https://m.anjuke.com/bj/community/594458/"
+ },
+ {
+  "id": "117789",
+  "name": "郁花园二里",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2002,
+  "price": 34178,
+  "online": 27,
+  "url": "https://m.anjuke.com/bj/community/117789/"
+ },
+ {
+  "id": "848799",
+  "name": "育新花园中里",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2005,
+  "price": 12730,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/848799/"
+ },
+ {
+  "id": "875747",
+  "name": "金地格林小镇(大兴区别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 48672,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/875747/"
+ },
+ {
+  "id": "122733",
+  "name": "独墅逸致",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2006,
+  "price": 37776,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/122733/"
+ },
+ {
+  "id": "850872",
+  "name": "芳源里",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2002,
+  "price": 34358,
+  "online": 48,
+  "url": "https://m.anjuke.com/bj/community/850872/"
+ },
+ {
+  "id": "734339",
+  "name": "育新花园西里",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2012,
+  "price": 12746,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/734339/"
+ },
+ {
+  "id": "200635",
+  "name": "郁花园三里",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2009,
+  "price": 39944,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/200635/"
+ },
+ {
+  "id": "509430",
+  "name": "时代龙和大道",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2007,
+  "price": 32855,
+  "online": 50,
+  "url": "https://m.anjuke.com/bj/community/509430/"
+ },
+ {
+  "id": "594472",
+  "name": "蓝桥驿苑",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2014,
+  "price": 16984,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/594472/"
+ },
+ {
+  "id": "86189",
+  "name": "那尔水晶城",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2007,
+  "price": 34862,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/86189/"
+ },
+ {
+  "id": "848776",
+  "name": "亦庄金茂悦(南区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2016,
+  "price": 59262,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/848776/"
+ },
+ {
+  "id": "77366",
+  "name": "黄村西里社区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1976,
+  "price": 24494,
+  "online": 65,
+  "url": "https://m.anjuke.com/bj/community/77366/"
+ },
+ {
+  "id": "52125",
+  "name": "蓝天花园",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2005,
+  "price": 11962,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/52125/"
+ },
+ {
+  "id": "851691",
+  "name": "榆垡新城嘉园(A区)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2007,
+  "price": 13954,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/851691/"
+ },
+ {
+  "id": "53139",
+  "name": "原生墅康和园(别墅)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2009,
+  "price": 47462,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/53139/"
+ },
+ {
+  "id": "53458",
+  "name": "兴政家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 33077,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/53458/"
+ },
+ {
+  "id": "852123",
+  "name": "贵园南里(丙区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 35172,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/852123/"
+ },
+ {
+  "id": "534436",
+  "name": "清源西里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1997,
+  "price": 27258,
+  "online": 41,
+  "url": "https://m.anjuke.com/bj/community/534436/"
+ },
+ {
+  "id": "850039",
+  "name": "兴创屹墅",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2015,
+  "price": 66442,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/850039/"
+ },
+ {
+  "id": "368910",
+  "name": "旭辉御府",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2013,
+  "price": 46357,
+  "online": 45,
+  "url": "https://m.anjuke.com/bj/community/368910/"
+ },
+ {
+  "id": "853110",
+  "name": "中信新城(西区)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2013,
+  "price": 43860,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/853110/"
+ },
+ {
+  "id": "852361",
+  "name": "枣园尚城(北区)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2009,
+  "price": 30064,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/852361/"
+ },
+ {
+  "id": "67123",
+  "name": "绿林苑",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2001,
+  "price": 37424,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/67123/"
+ },
+ {
+  "id": "50247",
+  "name": "清逸园(东区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2006,
+  "price": 27691,
+  "online": 34,
+  "url": "https://m.anjuke.com/bj/community/50247/"
+ },
+ {
+  "id": "614767",
+  "name": "南海家园七里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": 38442,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/614767/"
+ },
+ {
+  "id": "51404",
+  "name": "卡尔生活馆(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2011,
+  "price": 42485,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/51404/"
+ },
+ {
+  "id": "51862",
+  "name": "绿茵花园别墅",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1995,
+  "price": 28239,
+  "online": 43,
+  "url": "https://m.anjuke.com/bj/community/51862/"
+ },
+ {
+  "id": "1473062",
+  "name": "滨河西里南区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 23433,
+  "online": 27,
+  "url": "https://m.anjuke.com/bj/community/1473062/"
+ },
+ {
+  "id": "51845",
+  "name": "长新花园别墅",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 32407,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/51845/"
+ },
+ {
+  "id": "51496",
+  "name": "听涛雅苑",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 42022,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/51496/"
+ },
+ {
+  "id": "55938",
+  "name": "大雄郁金香舍",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 50194,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/55938/"
+ },
+ {
+  "id": "50690",
+  "name": "兴华园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2003,
+  "price": 29858,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/50690/"
+ },
+ {
+  "id": "407539",
+  "name": "金融街融汇",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2006,
+  "price": 28448,
+  "online": 42,
+  "url": "https://m.anjuke.com/bj/community/407539/"
+ },
+ {
+  "id": "52904",
+  "name": "首邑上城",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2007,
+  "price": 36435,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/52904/"
+ },
+ {
+  "id": "178331",
+  "name": "世嘉博苑",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2009,
+  "price": 38802,
+  "online": 28,
+  "url": "https://m.anjuke.com/bj/community/178331/"
+ },
+ {
+  "id": "369051",
+  "name": "富力盛悦居",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2013,
+  "price": 51744,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/369051/"
+ },
+ {
+  "id": "84782",
+  "name": "枣园东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2001,
+  "price": 25772,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/84782/"
+ },
+ {
+  "id": "57548",
+  "name": "境界家园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 40936,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/57548/"
+ },
+ {
+  "id": "996604",
+  "name": "卡尔生活馆",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 46897,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/996604/"
+ },
+ {
+  "id": "915025",
+  "name": "中铁华侨城和园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2020,
+  "price": 43695,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/915025/"
+ },
+ {
+  "id": "81626",
+  "name": "兴都苑小区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2015,
+  "price": 27720,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/81626/"
+ },
+ {
+  "id": "852865",
+  "name": "首座御园(一期)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2013,
+  "price": 26619,
+  "online": 40,
+  "url": "https://m.anjuke.com/bj/community/852865/"
+ },
+ {
+  "id": "996605",
+  "name": "富力丹麦小镇",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2012,
+  "price": 19300,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/996605/"
+ },
+ {
+  "id": "614762",
+  "name": "南海家园二里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 37402,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/614762/"
+ },
+ {
+  "id": "77749",
+  "name": "团河苑小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 20497,
+  "online": 38,
+  "url": "https://m.anjuke.com/bj/community/77749/"
+ },
+ {
+  "id": "452346",
+  "name": "三合南里(南区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 26352,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/452346/"
+ },
+ {
+  "id": "51664",
+  "name": "星岛假日",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 43784,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/51664/"
+ },
+ {
+  "id": "75426",
+  "name": "富强西里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 24848,
+  "online": 37,
+  "url": "https://m.anjuke.com/bj/community/75426/"
+ },
+ {
+  "id": "849455",
+  "name": "康宜家园南区",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2005,
+  "price": 24290,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/849455/"
+ },
+ {
+  "id": "614765",
+  "name": "南海家园三里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": 35355,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/614765/"
+ },
+ {
+  "id": "77756",
+  "name": "兴政西里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1985,
+  "price": 24875,
+  "online": 57,
+  "url": "https://m.anjuke.com/bj/community/77756/"
+ },
+ {
+  "id": "79123",
+  "name": "金惠园三里",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2007,
+  "price": 35418,
+  "online": 38,
+  "url": "https://m.anjuke.com/bj/community/79123/"
+ },
+ {
+  "id": "120839",
+  "name": "瑞海二区(瑞海家园二区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2004,
+  "price": 29879,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/120839/"
+ },
+ {
+  "id": "75881",
+  "name": "大雄城市花园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1997,
+  "price": 37266,
+  "online": 28,
+  "url": "https://m.anjuke.com/bj/community/75881/"
+ },
+ {
+  "id": "761425",
+  "name": "国韵村",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2017,
+  "price": 43161,
+  "online": 32,
+  "url": "https://m.anjuke.com/bj/community/761425/"
+ },
+ {
+  "id": "289085",
+  "name": "金地仰山(东区)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2012,
+  "price": 46736,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/289085/"
+ },
+ {
+  "id": "852994",
+  "name": "鸿坤林语墅",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2017,
+  "price": 58891,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/852994/"
+ },
+ {
+  "id": "55972",
+  "name": "新康家园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 41139,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/55972/"
+ },
+ {
+  "id": "952583",
+  "name": "中国铁建花语金郡",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2019,
+  "price": 42515,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/952583/"
+ },
+ {
+  "id": "614766",
+  "name": "南海家园六里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2013,
+  "price": 38628,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/614766/"
+ },
+ {
+  "id": "76466",
+  "name": "瑞海家园(五区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2006,
+  "price": 27827,
+  "online": 55,
+  "url": "https://m.anjuke.com/bj/community/76466/"
+ },
+ {
+  "id": "848154",
+  "name": "熙悦春天",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2019,
+  "price": 28396,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/848154/"
+ },
+ {
+  "id": "80993",
+  "name": "敬贤里",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1994,
+  "price": 26794,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/80993/"
+ },
+ {
+  "id": "952533",
+  "name": "清源佳园",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2019,
+  "price": 23750,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/952533/"
+ },
+ {
+  "id": "848158",
+  "name": "天宫院小区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2012,
+  "price": 24042,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/848158/"
+ },
+ {
+  "id": "850599",
+  "name": "东亚康和名居",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2012,
+  "price": 29831,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/850599/"
+ },
+ {
+  "id": "51666",
+  "name": "Dearvilla",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 85631,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/51666/"
+ },
+ {
+  "id": "60130",
+  "name": "富源里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 39370,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/60130/"
+ },
+ {
+  "id": "51701",
+  "name": "一品亦庄",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 40472,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/51701/"
+ },
+ {
+  "id": "217470",
+  "name": "明悦湾",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2012,
+  "price": 23727,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/217470/"
+ },
+ {
+  "id": "50498",
+  "name": "金荣园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1995,
+  "price": 23106,
+  "online": 55,
+  "url": "https://m.anjuke.com/bj/community/50498/"
+ },
+ {
+  "id": "205931",
+  "name": "滨河西里(北区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 23767,
+  "online": 27,
+  "url": "https://m.anjuke.com/bj/community/205931/"
+ },
+ {
+  "id": "87151",
+  "name": "阳光乐府",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 30756,
+  "online": 27,
+  "url": "https://m.anjuke.com/bj/community/87151/"
+ },
+ {
+  "id": "952532",
+  "name": "康宜家园北区",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2016,
+  "price": 23896,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/952532/"
+ },
+ {
+  "id": "242995",
+  "name": "三羊里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2010,
+  "price": 30266,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/242995/"
+ },
+ {
+  "id": "720993",
+  "name": "中冶德贤公馆",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2017,
+  "price": 46805,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/720993/"
+ },
+ {
+  "id": "853188",
+  "name": "住总兴康家园",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2005,
+  "price": 25132,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/853188/"
+ },
+ {
+  "id": "57598",
+  "name": "贵园东里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2003,
+  "price": 44995,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/57598/"
+ },
+ {
+  "id": "57460",
+  "name": "秀水花园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 33473,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/57460/"
+ },
+ {
+  "id": "801749",
+  "name": "永旭嘉园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2016,
+  "price": 24210,
+  "online": 48,
+  "url": "https://m.anjuke.com/bj/community/801749/"
+ },
+ {
+  "id": "53253",
+  "name": "恒盛波尔多小镇(北区)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2012,
+  "price": 14692,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/53253/"
+ },
+ {
+  "id": "146808",
+  "name": "亦庄北岸",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2008,
+  "price": 32085,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/146808/"
+ },
+ {
+  "id": "852008",
+  "name": "原生墅康和园(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2008,
+  "price": 39167,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/852008/"
+ },
+ {
+  "id": "368982",
+  "name": "红木林(南区)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2013,
+  "price": 45327,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/368982/"
+ },
+ {
+  "id": "119950",
+  "name": "兴海家园日苑",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2008,
+  "price": 30549,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/119950/"
+ },
+ {
+  "id": "53333",
+  "name": "鹿鸣苑(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 35527,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/53333/"
+ },
+ {
+  "id": "50254",
+  "name": "同兴园小区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 27241,
+  "online": 28,
+  "url": "https://m.anjuke.com/bj/community/50254/"
+ },
+ {
+  "id": "852366",
+  "name": "枣园尚城(南区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 29229,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/852366/"
+ },
+ {
+  "id": "224323",
+  "name": "博悦府",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2010,
+  "price": 33484,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/224323/"
+ },
+ {
+  "id": "57609",
+  "name": "灵秀山庄",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 30485,
+  "online": 38,
+  "url": "https://m.anjuke.com/bj/community/57609/"
+ },
+ {
+  "id": "80357",
+  "name": "兴海家园月苑",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2006,
+  "price": 29878,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/80357/"
+ },
+ {
+  "id": "594475",
+  "name": "众美城",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 18525,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/594475/"
+ },
+ {
+  "id": "368964",
+  "name": "中信新城(东区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2013,
+  "price": 44708,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/368964/"
+ },
+ {
+  "id": "655032",
+  "name": "紫禁壹号院南院(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2015,
+  "price": 130883,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/655032/"
+ },
+ {
+  "id": "570296",
+  "name": "旧宫新苑(南区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2012,
+  "price": 29303,
+  "online": 34,
+  "url": "https://m.anjuke.com/bj/community/570296/"
+ },
+ {
+  "id": "926507",
+  "name": "首开龙湖天琅(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2018,
+  "price": 25444,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/926507/"
+ },
+ {
+  "id": "369006",
+  "name": "恒盛小镇艺墅",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2004,
+  "price": 16601,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/369006/"
+ },
+ {
+  "id": "119396",
+  "name": "观音寺北里小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1997,
+  "price": 21540,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/119396/"
+ },
+ {
+  "id": "324325",
+  "name": "东亚马赛公馆",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2012,
+  "price": 37330,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/324325/"
+ },
+ {
+  "id": "849346",
+  "name": "骏城",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 31441,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/849346/"
+ },
+ {
+  "id": "51130",
+  "name": "华昱家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2002,
+  "price": 34217,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/51130/"
+ },
+ {
+  "id": "78107",
+  "name": "建兴家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2003,
+  "price": 31452,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/78107/"
+ },
+ {
+  "id": "81249",
+  "name": "滨河西里(中区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 23428,
+  "online": 27,
+  "url": "https://m.anjuke.com/bj/community/81249/"
+ },
+ {
+  "id": "214729",
+  "name": "润枫锦尚",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2011,
+  "price": 31917,
+  "online": 28,
+  "url": "https://m.anjuke.com/bj/community/214729/"
+ },
+ {
+  "id": "52888",
+  "name": "博客雅居",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2008,
+  "price": 42900,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/52888/"
+ },
+ {
+  "id": "614764",
+  "name": "南海家园五里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2013,
+  "price": 35939,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/614764/"
+ },
+ {
+  "id": "852916",
+  "name": "红木林(北区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2013,
+  "price": 46275,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/852916/"
+ },
+ {
+  "id": "875816",
+  "name": "经开壹中心",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": 2016,
+  "price": 44452,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/875816/"
+ },
+ {
+  "id": "98800",
+  "name": "金华园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2001,
+  "price": 22634,
+  "online": 40,
+  "url": "https://m.anjuke.com/bj/community/98800/"
+ },
+ {
+  "id": "129681",
+  "name": "双高花园小区",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": 2004,
+  "price": 29314,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/129681/"
+ },
+ {
+  "id": "51332",
+  "name": "观音寺小区",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 1997,
+  "price": 20280,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/51332/"
+ },
+ {
+  "id": "641330",
+  "name": "通泰国际公馆",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": 2016,
+  "price": 43154,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/641330/"
+ },
+ {
+  "id": "730699",
+  "name": "恒大未来城(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2019,
+  "price": 25237,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/730699/"
+ },
+ {
+  "id": "379306",
+  "name": "黄村中里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 28360,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/379306/"
+ },
+ {
+  "id": "76083",
+  "name": "育龙家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2002,
+  "price": 30234,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/76083/"
+ },
+ {
+  "id": "50368",
+  "name": "兴涛园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2013,
+  "price": 39567,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/50368/"
+ },
+ {
+  "id": "77155",
+  "name": "车站南里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2001,
+  "price": 20098,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/77155/"
+ },
+ {
+  "id": "1006060",
+  "name": "瀛海家园瑞园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2014,
+  "price": 28004,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/1006060/"
+ },
+ {
+  "id": "848793",
+  "name": "金融街金色漫香郡(南区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2012,
+  "price": 23652,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/848793/"
+ },
+ {
+  "id": "467576",
+  "name": "九龙家园(北区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1999,
+  "price": 32403,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/467576/"
+ },
+ {
+  "id": "849861",
+  "name": "理想家园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2013,
+  "price": 26927,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/849861/"
+ },
+ {
+  "id": "57608",
+  "name": "美然绿色家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 29716,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/57608/"
+ },
+ {
+  "id": "50428",
+  "name": "泰中花园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2012,
+  "price": 23161,
+  "online": 50,
+  "url": "https://m.anjuke.com/bj/community/50428/"
+ },
+ {
+  "id": "1010323",
+  "name": "金茂逸墅",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2017,
+  "price": 61817,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/1010323/"
+ },
+ {
+  "id": "79278",
+  "name": "兴水家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2006,
+  "price": 21767,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/79278/"
+ },
+ {
+  "id": "53594",
+  "name": "鸿坤理想城曦望山",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2014,
+  "price": 44376,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/53594/"
+ },
+ {
+  "id": "81145",
+  "name": "车站北里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1998,
+  "price": 23802,
+  "online": 83,
+  "url": "https://m.anjuke.com/bj/community/81145/"
+ },
+ {
+  "id": "188301",
+  "name": "盛芳茗苑",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2007,
+  "price": 39242,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/188301/"
+ },
+ {
+  "id": "57454",
+  "name": "兴海园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2004,
+  "price": 28913,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/57454/"
+ },
+ {
+  "id": "867867",
+  "name": "育新花园南里",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2014,
+  "price": 12597,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/867867/"
+ },
+ {
+  "id": "853112",
+  "name": "中海北京世家",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2019,
+  "price": 55796,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/853112/"
+ },
+ {
+  "id": "995296",
+  "name": "远洋天著云庭",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 45704,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/995296/"
+ },
+ {
+  "id": "852117",
+  "name": "瀛景园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 40929,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/852117/"
+ },
+ {
+  "id": "80830",
+  "name": "星光佳园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2003,
+  "price": 31600,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/80830/"
+ },
+ {
+  "id": "52281",
+  "name": "康隆园(翡翠城五期)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2007,
+  "price": 47317,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/52281/"
+ },
+ {
+  "id": "520479",
+  "name": "海悦公馆",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2014,
+  "price": 23920,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/520479/"
+ },
+ {
+  "id": "875356",
+  "name": "枫丹壹号(一期)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2014,
+  "price": 49463,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/875356/"
+ },
+ {
+  "id": "79790",
+  "name": "枣园北里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2004,
+  "price": 26667,
+  "online": 34,
+  "url": "https://m.anjuke.com/bj/community/79790/"
+ },
+ {
+  "id": "850045",
+  "name": "大雄城市花园(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2001,
+  "price": 43200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/850045/"
+ },
+ {
+  "id": "1155097",
+  "name": "金麟府",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2020,
+  "price": 53231,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/1155097/"
+ },
+ {
+  "id": "51538",
+  "name": "兴丰家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2003,
+  "price": 30689,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/51538/"
+ },
+ {
+  "id": "1071392",
+  "name": "和悦华锦(一期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2021,
+  "price": 51605,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/1071392/"
+ },
+ {
+  "id": "852118",
+  "name": "星岛嘉园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2001,
+  "price": 36000,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/852118/"
+ },
+ {
+  "id": "453770",
+  "name": "盛嘉华苑",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2012,
+  "price": 24212,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/453770/"
+ },
+ {
+  "id": "943634",
+  "name": "华远和煦里",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2016,
+  "price": 13487,
+  "online": 54,
+  "url": "https://m.anjuke.com/bj/community/943634/"
+ },
+ {
+  "id": "184957",
+  "name": "海子角南里小区",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 1998,
+  "price": 20219,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/184957/"
+ },
+ {
+  "id": "51577",
+  "name": "美利新世界",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 35031,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/51577/"
+ },
+ {
+  "id": "57451",
+  "name": "玉璟园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2005,
+  "price": 30933,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/57451/"
+ },
+ {
+  "id": "60318",
+  "name": "云龙家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 31859,
+  "online": 33,
+  "url": "https://m.anjuke.com/bj/community/60318/"
+ },
+ {
+  "id": "952535",
+  "name": "理想城(八期)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2019,
+  "price": 29037,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/952535/"
+ },
+ {
+  "id": "848022",
+  "name": "泰河园三里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 33460,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/848022/"
+ },
+ {
+  "id": "79413",
+  "name": "永华北里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 21728,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/79413/"
+ },
+ {
+  "id": "55933",
+  "name": "小康家园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2003,
+  "price": 26795,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/55933/"
+ },
+ {
+  "id": "60144",
+  "name": "清欣园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1995,
+  "price": 25429,
+  "online": 40,
+  "url": "https://m.anjuke.com/bj/community/60144/"
+ },
+ {
+  "id": "80086",
+  "name": "兴海家园星苑",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2004,
+  "price": 33132,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/80086/"
+ },
+ {
+  "id": "51403",
+  "name": "瑞康家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 31839,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/51403/"
+ },
+ {
+  "id": "851363",
+  "name": "富力丹麦小镇(别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2003,
+  "price": 24301,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/851363/"
+ },
+ {
+  "id": "573159",
+  "name": "首地浣溪谷",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2014,
+  "price": 20523,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/573159/"
+ },
+ {
+  "id": "941336",
+  "name": "三合南里(西区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 26477,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/941336/"
+ },
+ {
+  "id": "182603",
+  "name": "富强东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 24089,
+  "online": 41,
+  "url": "https://m.anjuke.com/bj/community/182603/"
+ },
+ {
+  "id": "1006061",
+  "name": "瀛海家园融园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2014,
+  "price": 27633,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/1006061/"
+ },
+ {
+  "id": "849654",
+  "name": "莱茵河畔(贵园北里丁区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2003,
+  "price": 39875,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/849654/"
+ },
+ {
+  "id": "51762",
+  "name": "德茂佳苑",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 24090,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/51762/"
+ },
+ {
+  "id": "324318",
+  "name": "三槐家园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2011,
+  "price": 29257,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/324318/"
+ },
+ {
+  "id": "76473",
+  "name": "同福园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 22350,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/76473/"
+ },
+ {
+  "id": "121163",
+  "name": "丽园东里",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2004,
+  "price": 31266,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/121163/"
+ },
+ {
+  "id": "585401",
+  "name": "中南湾",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2013,
+  "price": 40585,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/585401/"
+ },
+ {
+  "id": "852116",
+  "name": "贵园北里(甲区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1999,
+  "price": 39294,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/852116/"
+ },
+ {
+  "id": "1367508",
+  "name": "鹿鸣苑",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 40000,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1367508/"
+ },
+ {
+  "id": "850558",
+  "name": "罗奇营小区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2008,
+  "price": 21924,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/850558/"
+ },
+ {
+  "id": "51110",
+  "name": "月桂庄园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2003,
+  "price": 38612,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/51110/"
+ },
+ {
+  "id": "119925",
+  "name": "观音寺新区",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2014,
+  "price": 27327,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/119925/"
+ },
+ {
+  "id": "75420",
+  "name": "翰林庭院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 33015,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/75420/"
+ },
+ {
+  "id": "265336",
+  "name": "康泰园",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2011,
+  "price": 26972,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/265336/"
+ },
+ {
+  "id": "1464983",
+  "name": "中海京叁號院",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2023,
+  "price": 60913,
+  "online": 48,
+  "url": "https://m.anjuke.com/bj/community/1464983/"
+ },
+ {
+  "id": "119070",
+  "name": "观音寺南里",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2008,
+  "price": 21624,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/119070/"
+ },
+ {
+  "id": "411183",
+  "name": "朗润园(二期)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2015,
+  "price": 48960,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/411183/"
+ },
+ {
+  "id": "797348",
+  "name": "红星楼小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2006,
+  "price": 26628,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/797348/"
+ },
+ {
+  "id": "368942",
+  "name": "悦廷",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2013,
+  "price": 48199,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/368942/"
+ },
+ {
+  "id": "860798",
+  "name": "绿地海珀云翡",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2019,
+  "price": 41106,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/860798/"
+ },
+ {
+  "id": "573161",
+  "name": "葛洲坝紫郡府(北区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2015,
+  "price": 48972,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/573161/"
+ },
+ {
+  "id": "75734",
+  "name": "红星北里小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1998,
+  "price": 26547,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/75734/"
+ },
+ {
+  "id": "995293",
+  "name": "远洋天著澜湾",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 42953,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/995293/"
+ },
+ {
+  "id": "727293",
+  "name": "中国水电云立方",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": 32245,
+  "online": 32,
+  "url": "https://m.anjuke.com/bj/community/727293/"
+ },
+ {
+  "id": "605488",
+  "name": "富力华庭苑(西区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 18948,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/605488/"
+ },
+ {
+  "id": "598865",
+  "name": "住总万科橙",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": 33273,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/598865/"
+ },
+ {
+  "id": "208310",
+  "name": "艺苑桐城",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2010,
+  "price": 34253,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/208310/"
+ },
+ {
+  "id": "52079",
+  "name": "润龙家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 31834,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/52079/"
+ },
+ {
+  "id": "52689",
+  "name": "紫君庭中央公馆",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2008,
+  "price": 25400,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/52689/"
+ },
+ {
+  "id": "989990",
+  "name": "双河南里尚城(北区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2019,
+  "price": 24127,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/989990/"
+ },
+ {
+  "id": "186200",
+  "name": "龙景湾丙区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2004,
+  "price": 25746,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/186200/"
+ },
+ {
+  "id": "118817",
+  "name": "三合南里(东区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 23457,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/118817/"
+ },
+ {
+  "id": "614763",
+  "name": "南海家园四里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": 36538,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/614763/"
+ },
+ {
+  "id": "78036",
+  "name": "怡兴园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2004,
+  "price": 30946,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/78036/"
+ },
+ {
+  "id": "52752",
+  "name": "滨河坊",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2001,
+  "price": 23812,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/52752/"
+ },
+ {
+  "id": "80782",
+  "name": "车站中里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1998,
+  "price": 24173,
+  "online": 44,
+  "url": "https://m.anjuke.com/bj/community/80782/"
+ },
+ {
+  "id": "941337",
+  "name": "三合南里(北区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 25893,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/941337/"
+ },
+ {
+  "id": "81295",
+  "name": "双河南里小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 22149,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/81295/"
+ },
+ {
+  "id": "952522",
+  "name": "首创悦都汇",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2016,
+  "price": 16986,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/952522/"
+ },
+ {
+  "id": "119412",
+  "name": "同庆园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 28800,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/119412/"
+ },
+ {
+  "id": "77365",
+  "name": "黄村东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1995,
+  "price": 22502,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/77365/"
+ },
+ {
+  "id": "51080",
+  "name": "上林苑",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2003,
+  "price": 24502,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/51080/"
+ },
+ {
+  "id": "67147",
+  "name": "德茂小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1986,
+  "price": 26194,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/67147/"
+ },
+ {
+  "id": "943624",
+  "name": "双河北里尚城(西区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": 26754,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/943624/"
+ },
+ {
+  "id": "1295659",
+  "name": "亦庄金茂府",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2020,
+  "price": 71047,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/1295659/"
+ },
+ {
+  "id": "878808",
+  "name": "一品嘉园(东区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2012,
+  "price": 14905,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/878808/"
+ },
+ {
+  "id": "50676",
+  "name": "星瑞家园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2001,
+  "price": 29552,
+  "online": 38,
+  "url": "https://m.anjuke.com/bj/community/50676/"
+ },
+ {
+  "id": "850507",
+  "name": "鹿海园一里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 34367,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/850507/"
+ },
+ {
+  "id": "850502",
+  "name": "鹿海园三里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2005,
+  "price": 37123,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/850502/"
+ },
+ {
+  "id": "121132",
+  "name": "辛店小区",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 1995,
+  "price": 21780,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/121132/"
+ },
+ {
+  "id": "1204683",
+  "name": "棠颂璟庐",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2020,
+  "price": 57968,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1204683/"
+ },
+ {
+  "id": "372703",
+  "name": "椿蓉园",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2000,
+  "price": 14842,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/372703/"
+ },
+ {
+  "id": "1030222",
+  "name": "南海雅苑",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2015,
+  "price": 23565,
+  "online": 35,
+  "url": "https://m.anjuke.com/bj/community/1030222/"
+ },
+ {
+  "id": "869154",
+  "name": "远洋天著悦山",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 39579,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/869154/"
+ },
+ {
+  "id": "1426912",
+  "name": "中海墅(东区别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2003,
+  "price": 74178,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1426912/"
+ },
+ {
+  "id": "51956",
+  "name": "香留园B区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 39605,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/51956/"
+ },
+ {
+  "id": "614761",
+  "name": "南海家园一里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 35659,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/614761/"
+ },
+ {
+  "id": "848762",
+  "name": "金科嘉苑(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2017,
+  "price": 29360,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/848762/"
+ },
+ {
+  "id": "77708",
+  "name": "滨河东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 22156,
+  "online": 33,
+  "url": "https://m.anjuke.com/bj/community/77708/"
+ },
+ {
+  "id": "848937",
+  "name": "庑殿家苑(A区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 30885,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/848937/"
+ },
+ {
+  "id": "85992",
+  "name": "可可家园",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2006,
+  "price": 35348,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/85992/"
+ },
+ {
+  "id": "915009",
+  "name": "兴创荣墅",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2019,
+  "price": 21800,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/915009/"
+ },
+ {
+  "id": "117902",
+  "name": "金惠园二里",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 1998,
+  "price": 31711,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/117902/"
+ },
+ {
+  "id": "290347",
+  "name": "德林园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2004,
+  "price": 33862,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/290347/"
+ },
+ {
+  "id": "79827",
+  "name": "兴政东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1996,
+  "price": 21240,
+  "online": 40,
+  "url": "https://m.anjuke.com/bj/community/79827/"
+ },
+ {
+  "id": "77536",
+  "name": "郁花园一里",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": 1998,
+  "price": 30829,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/77536/"
+ },
+ {
+  "id": "851804",
+  "name": "宇丰苑",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2007,
+  "price": 22190,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/851804/"
+ },
+ {
+  "id": "86877",
+  "name": "兴华中里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1994,
+  "price": 34069,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/86877/"
+ },
+ {
+  "id": "116082",
+  "name": "宏盛家园(东区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2005,
+  "price": 32388,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/116082/"
+ },
+ {
+  "id": "52855",
+  "name": "成和园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2008,
+  "price": 29122,
+  "online": 49,
+  "url": "https://m.anjuke.com/bj/community/52855/"
+ },
+ {
+  "id": "51137",
+  "name": "香留园A区(别墅)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 50500,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/51137/"
+ },
+ {
+  "id": "80076",
+  "name": "宏大南园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2006,
+  "price": 28655,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/80076/"
+ },
+ {
+  "id": "76464",
+  "name": "瑞海家园(三区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2004,
+  "price": 31055,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/76464/"
+ },
+ {
+  "id": "1006063",
+  "name": "瀛海家园畅园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2014,
+  "price": 26156,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1006063/"
+ },
+ {
+  "id": "79021",
+  "name": "林校北里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1994,
+  "price": 26299,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/79021/"
+ },
+ {
+  "id": "81090",
+  "name": "旧宫北里",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2002,
+  "price": 30663,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/81090/"
+ },
+ {
+  "id": "1006062",
+  "name": "瀛海家园逸园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2014,
+  "price": 27615,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/1006062/"
+ },
+ {
+  "id": "116049",
+  "name": "宏福园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 27164,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/116049/"
+ },
+ {
+  "id": "571350",
+  "name": "众美光合原筑",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2014,
+  "price": 34400,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/571350/"
+ },
+ {
+  "id": "852111",
+  "name": "星岛嘉园米兰天空",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2001,
+  "price": 44800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/852111/"
+ },
+ {
+  "id": "80836",
+  "name": "宏大北园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2008,
+  "price": 27198,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/80836/"
+ },
+ {
+  "id": "407705",
+  "name": "云河墅",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2013,
+  "price": 58978,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/407705/"
+ },
+ {
+  "id": "61254",
+  "name": "天宝家园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2003,
+  "price": 47465,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/61254/"
+ },
+ {
+  "id": "175417",
+  "name": "清逸西园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2008,
+  "price": 26896,
+  "online": 20,
+  "url": "https://m.anjuke.com/bj/community/175417/"
+ },
+ {
+  "id": "55969",
+  "name": "浉城百丽(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 48323,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/55969/"
+ },
+ {
+  "id": "726923",
+  "name": "首开保利熙悦诚郡",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2016,
+  "price": 50231,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/726923/"
+ },
+ {
+  "id": "369037",
+  "name": "金色漫香林(五期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": 45497,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/369037/"
+ },
+ {
+  "id": "653733",
+  "name": "东晶国际公寓",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 44054,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/653733/"
+ },
+ {
+  "id": "1285461",
+  "name": "中海寰宇时代(一期)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2022,
+  "price": 58500,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1285461/"
+ },
+ {
+  "id": "988903",
+  "name": "棠颂别墅",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2018,
+  "price": 71621,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/988903/"
+ },
+ {
+  "id": "850471",
+  "name": "隆盛园(东区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2004,
+  "price": 13907,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/850471/"
+ },
+ {
+  "id": "308731",
+  "name": "一品嘉园(西区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2014,
+  "price": 15260,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/308731/"
+ },
+ {
+  "id": "57455",
+  "name": "宇航小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1996,
+  "price": 29200,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/57455/"
+ },
+ {
+  "id": "61481",
+  "name": "福星花园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1995,
+  "price": 35876,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/61481/"
+ },
+ {
+  "id": "848264",
+  "name": "天堂河(南区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2007,
+  "price": 18810,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/848264/"
+ },
+ {
+  "id": "851062",
+  "name": "亦园",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2015,
+  "price": 53672,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/851062/"
+ },
+ {
+  "id": "79347",
+  "name": "义和庄东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2002,
+  "price": 19539,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/79347/"
+ },
+ {
+  "id": "81002",
+  "name": "晓康东里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2009,
+  "price": 28467,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/81002/"
+ },
+ {
+  "id": "1157969",
+  "name": "首创远洋禧瑞天著(西区)",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": 2021,
+  "price": 44182,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/1157969/"
+ },
+ {
+  "id": "570295",
+  "name": "旧宫新苑(北区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2012,
+  "price": 32501,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/570295/"
+ },
+ {
+  "id": "51050",
+  "name": "佳和园小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2002,
+  "price": 29727,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/51050/"
+ },
+ {
+  "id": "1183997",
+  "name": "中海云筑(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2020,
+  "price": 23220,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/1183997/"
+ },
+ {
+  "id": "52643",
+  "name": "润星家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 33424,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/52643/"
+ },
+ {
+  "id": "594473",
+  "name": "鑫苑鑫都汇",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": 33614,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/594473/"
+ },
+ {
+  "id": "875360",
+  "name": "兴盛街187号院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2009,
+  "price": 26477,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/875360/"
+ },
+ {
+  "id": "993240",
+  "name": "万源北路7号院(大兴)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2013,
+  "price": 30200,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/993240/"
+ },
+ {
+  "id": "1257221",
+  "name": "金隅学府",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2022,
+  "price": 48600,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1257221/"
+ },
+ {
+  "id": "79576",
+  "name": "宏大中园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2006,
+  "price": 31559,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/79576/"
+ },
+ {
+  "id": "875773",
+  "name": "康隆园(翡翠城五期别墅)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2017,
+  "price": 42749,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/875773/"
+ },
+ {
+  "id": "76026",
+  "name": "九龙山庄南区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 25600,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/76026/"
+ },
+ {
+  "id": "1084101",
+  "name": "首座御园(三期)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2015,
+  "price": 25272,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/1084101/"
+ },
+ {
+  "id": "81287",
+  "name": "清源东里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1998,
+  "price": 30214,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/81287/"
+ },
+ {
+  "id": "80622",
+  "name": "康乐园(大兴)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1996,
+  "price": 23460,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/80622/"
+ },
+ {
+  "id": "988904",
+  "name": "兴盛街189号院",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2009,
+  "price": 29184,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/988904/"
+ },
+ {
+  "id": "1265538",
+  "name": "棠颂雅苑",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2018,
+  "price": 28603,
+  "online": 23,
+  "url": "https://m.anjuke.com/bj/community/1265538/"
+ },
+ {
+  "id": "852109",
+  "name": "贵园北里(戊区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1998,
+  "price": 41071,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/852109/"
+ },
+ {
+  "id": "76027",
+  "name": "九龙山庄三区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 28000,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/76027/"
+ },
+ {
+  "id": "74753",
+  "name": "清乐园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2002,
+  "price": 25697,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/74753/"
+ },
+ {
+  "id": "50782",
+  "name": "清和园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1997,
+  "price": 25205,
+  "online": 48,
+  "url": "https://m.anjuke.com/bj/community/50782/"
+ },
+ {
+  "id": "80779",
+  "name": "锦华园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 25027,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/80779/"
+ },
+ {
+  "id": "52394",
+  "name": "燕景佳园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 31400,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/52394/"
+ },
+ {
+  "id": "379176",
+  "name": "新源时代小区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2013,
+  "price": 23507,
+  "online": 21,
+  "url": "https://m.anjuke.com/bj/community/379176/"
+ },
+ {
+  "id": "81284",
+  "name": "南湖园社区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1983,
+  "price": 23272,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/81284/"
+ },
+ {
+  "id": "80484",
+  "name": "林校中里",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2004,
+  "price": 21350,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/80484/"
+ },
+ {
+  "id": "565897",
+  "name": "旧宫清逸园甲区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1995,
+  "price": 19900,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/565897/"
+ },
+ {
+  "id": "121719",
+  "name": "义和庄北里",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2007,
+  "price": 21506,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/121719/"
+ },
+ {
+  "id": "1189581",
+  "name": "兴盛锦苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2005,
+  "price": 24859,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1189581/"
+ },
+ {
+  "id": "852833",
+  "name": "首开璞瑅墅",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": 2014,
+  "price": 17573,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/852833/"
+ },
+ {
+  "id": "1261631",
+  "name": "鸿坤理想城六期",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2005,
+  "price": 28163,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1261631/"
+ },
+ {
+  "id": "995295",
+  "name": "远洋天著云庭(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 52000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/995295/"
+ },
+ {
+  "id": "77360",
+  "name": "海子角西里",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2009,
+  "price": 17626,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/77360/"
+ },
+ {
+  "id": "1548476",
+  "name": "首创远洋禧瑞天著(东区)",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": 2018,
+  "price": 45080,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/1548476/"
+ },
+ {
+  "id": "79906",
+  "name": "菊源里小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2001,
+  "price": 32621,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/79906/"
+ },
+ {
+  "id": "943626",
+  "name": "新兴家园(东区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2014,
+  "price": 15590,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/943626/"
+ },
+ {
+  "id": "1322446",
+  "name": "枫丹壹号(二期)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2016,
+  "price": 68539,
+  "online": 25,
+  "url": "https://m.anjuke.com/bj/community/1322446/"
+ },
+ {
+  "id": "945846",
+  "name": "力宝诗礼庭",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 26238,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/945846/"
+ },
+ {
+  "id": "80446",
+  "name": "新凤小区",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2005,
+  "price": 17713,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/80446/"
+ },
+ {
+  "id": "915006",
+  "name": "北京经开汀塘",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": 2019,
+  "price": 49663,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/915006/"
+ },
+ {
+  "id": "1102585",
+  "name": "城建兴悦居",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2018,
+  "price": 26405,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/1102585/"
+ },
+ {
+  "id": "849369",
+  "name": "金色漫香林(一期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2009,
+  "price": 41357,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/849369/"
+ },
+ {
+  "id": "77372",
+  "name": "金华里",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": 1998,
+  "price": 25361,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/77372/"
+ },
+ {
+  "id": "875742",
+  "name": "兴创屹墅(别墅)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2013,
+  "price": 65334,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/875742/"
+ },
+ {
+  "id": "1419970",
+  "name": "兴瀛嘉苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2009,
+  "price": 22747,
+  "online": 33,
+  "url": "https://m.anjuke.com/bj/community/1419970/"
+ },
+ {
+  "id": "851261",
+  "name": "赢海庄园",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2006,
+  "price": 33874,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/851261/"
+ },
+ {
+  "id": "1184000",
+  "name": "颐璟万和",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2020,
+  "price": 32929,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/1184000/"
+ },
+ {
+  "id": "1470971",
+  "name": "兴创荣墅(别墅)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2020,
+  "price": 20809,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1470971/"
+ },
+ {
+  "id": "1588454",
+  "name": "紫禁壹号院北院(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2015,
+  "price": 76610,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1588454/"
+ },
+ {
+  "id": "1426913",
+  "name": "中海墅(东区)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2019,
+  "price": 48636,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1426913/"
+ },
+ {
+  "id": "118880",
+  "name": "御园A区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 15365,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/118880/"
+ },
+ {
+  "id": "875738",
+  "name": "听涛雅苑(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2000,
+  "price": 36931,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/875738/"
+ },
+ {
+  "id": "1377387",
+  "name": "住总如院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2021,
+  "price": 19183,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/1377387/"
+ },
+ {
+  "id": "943636",
+  "name": "联港嘉园D区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2013,
+  "price": 19619,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/943636/"
+ },
+ {
+  "id": "1191125",
+  "name": "大兴金茂悦",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2021,
+  "price": 25200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1191125/"
+ },
+ {
+  "id": "1429912",
+  "name": "居善园",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 1990,
+  "price": 14683,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/1429912/"
+ },
+ {
+  "id": "1049912",
+  "name": "龙景湾甲区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2004,
+  "price": 21223,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1049912/"
+ },
+ {
+  "id": "1391093",
+  "name": "金悦府",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2021,
+  "price": 31717,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1391093/"
+ },
+ {
+  "id": "1049914",
+  "name": "龙景湾乙区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2002,
+  "price": 21625,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1049914/"
+ },
+ {
+  "id": "1049915",
+  "name": "龙景湾乙区(别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2002,
+  "price": 38880,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1049915/"
+ },
+ {
+  "id": "1283456",
+  "name": "北京城建宽院国誉府",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2020,
+  "price": 22998,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/1283456/"
+ },
+ {
+  "id": "1582394",
+  "name": "德宏景苑东区",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 25444,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1582394/"
+ },
+ {
+  "id": "77237",
+  "name": "漪景园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2002,
+  "price": 22475,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/77237/"
+ },
+ {
+  "id": "852992",
+  "name": "鸿坤理想城大满贯",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2011,
+  "price": 27454,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/852992/"
+ },
+ {
+  "id": "849359",
+  "name": "辰翰府",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 37906,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/849359/"
+ },
+ {
+  "id": "952538",
+  "name": "金色漫香林(二期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2008,
+  "price": 37977,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/952538/"
+ },
+ {
+  "id": "1293497",
+  "name": "榆垡新城嘉园(B区)",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2014,
+  "price": 14094,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1293497/"
+ },
+ {
+  "id": "248861",
+  "name": "泰河园一里(一区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2011,
+  "price": 36858,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/248861/"
+ },
+ {
+  "id": "230340",
+  "name": "金色漫香林(四期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2011,
+  "price": 41194,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/230340/"
+ },
+ {
+  "id": "875748",
+  "name": "金华园(别墅)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1999,
+  "price": 24600,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/875748/"
+ },
+ {
+  "id": "1029319",
+  "name": "鸿坤理想城五期",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2009,
+  "price": 29109,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1029319/"
+ },
+ {
+  "id": "119962",
+  "name": "丽园(C区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 35774,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/119962/"
+ },
+ {
+  "id": "120182",
+  "name": "丽园(B区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 36965,
+  "online": 31,
+  "url": "https://m.anjuke.com/bj/community/120182/"
+ },
+ {
+  "id": "174664",
+  "name": "林枫家园",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2002,
+  "price": 31928,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/174664/"
+ },
+ {
+  "id": "995294",
+  "name": "远洋天著澜湾(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 57965,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/995294/"
+ },
+ {
+  "id": "1049913",
+  "name": "龙景湾甲区(别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2002,
+  "price": 26603,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1049913/"
+ },
+ {
+  "id": "1057678",
+  "name": "金色漫香林(三期)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2010,
+  "price": 42993,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1057678/"
+ },
+ {
+  "id": "1175145",
+  "name": "朗润园(一期)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2014,
+  "price": 62304,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1175145/"
+ },
+ {
+  "id": "943617",
+  "name": "佟馨家园A区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": 25478,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/943617/"
+ },
+ {
+  "id": "1075250",
+  "name": "首座御园(二期2号院)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2015,
+  "price": 23018,
+  "online": 35,
+  "url": "https://m.anjuke.com/bj/community/1075250/"
+ },
+ {
+  "id": "852457",
+  "name": "海子角绿色庄园",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2004,
+  "price": 26872,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/852457/"
+ },
+ {
+  "id": "851586",
+  "name": "有德家苑5号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2016,
+  "price": 27813,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/851586/"
+ },
+ {
+  "id": "1102584",
+  "name": "万和斐丽(别墅)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2021,
+  "price": 27000,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1102584/"
+ },
+ {
+  "id": "1426900",
+  "name": "路劲御合院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": 22168,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1426900/"
+ },
+ {
+  "id": "850012",
+  "name": "联港嘉园C区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": 22794,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/850012/"
+ },
+ {
+  "id": "1019349",
+  "name": "天同11号",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2016,
+  "price": 33347,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1019349/"
+ },
+ {
+  "id": "1029320",
+  "name": "庑殿家苑(C区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2015,
+  "price": 29792,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1029320/"
+ },
+ {
+  "id": "1088831",
+  "name": "瀛海朗苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2019,
+  "price": 24656,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/1088831/"
+ },
+ {
+  "id": "1422759",
+  "name": "住总兴创如遇",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": 17500,
+  "online": 17,
+  "url": "https://m.anjuke.com/bj/community/1422759/"
+ },
+ {
+  "id": "1429909",
+  "name": "雅善园",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2009,
+  "price": 15284,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1429909/"
+ },
+ {
+  "id": "943625",
+  "name": "新兴家园(西区)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2005,
+  "price": 17581,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/943625/"
+ },
+ {
+  "id": "1029321",
+  "name": "紫宸苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2016,
+  "price": 37941,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1029321/"
+ },
+ {
+  "id": "1149112",
+  "name": "鸿坤理想城(四期)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2009,
+  "price": 31029,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1149112/"
+ },
+ {
+  "id": "1261592",
+  "name": "中信新城两限区",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2013,
+  "price": 29515,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/1261592/"
+ },
+ {
+  "id": "1532690",
+  "name": "红星养鸡场宿舍楼",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 1975,
+  "price": 32000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1532690/"
+ },
+ {
+  "id": "1061897",
+  "name": "龙景湾丁区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2006,
+  "price": 16295,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1061897/"
+ },
+ {
+  "id": "1251889",
+  "name": "龙湖时代天街(西区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": 28210,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/1251889/"
+ },
+ {
+  "id": "85167",
+  "name": "隆盛园(西区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2004,
+  "price": 12431,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/85167/"
+ },
+ {
+  "id": "863555",
+  "name": "御园C区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 16316,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/863555/"
+ },
+ {
+  "id": "863554",
+  "name": "御园B区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 15157,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/863554/"
+ },
+ {
+  "id": "1261679",
+  "name": "三合佳苑",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2016,
+  "price": 27033,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/1261679/"
+ },
+ {
+  "id": "1660183",
+  "name": "鸿坤理想城派郡(20号院)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 39298,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1660183/"
+ },
+ {
+  "id": "852862",
+  "name": "首座御园(二期1号院)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2015,
+  "price": 25524,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/852862/"
+ },
+ {
+  "id": "852128",
+  "name": "贵园南里(甲区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 38691,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/852128/"
+ },
+ {
+  "id": "50689",
+  "name": "康颐园小区",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2000,
+  "price": 28274,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/50689/"
+ },
+ {
+  "id": "52150",
+  "name": "菊源南里小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2003,
+  "price": 28721,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/52150/"
+ },
+ {
+  "id": "80964",
+  "name": "三中西巷15,17号",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2007,
+  "price": 32713,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/80964/"
+ },
+ {
+  "id": "51178",
+  "name": "丽园(A区)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2005,
+  "price": 35765,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/51178/"
+ },
+ {
+  "id": "850011",
+  "name": "联港嘉园A区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2012,
+  "price": 23778,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/850011/"
+ },
+ {
+  "id": "553538",
+  "name": "林海园",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2000,
+  "price": 15833,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/553538/"
+ },
+ {
+  "id": "848029",
+  "name": "泰河园一里(二区)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2011,
+  "price": 42000,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/848029/"
+ },
+ {
+  "id": "848025",
+  "name": "泰河园四里(一区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2015,
+  "price": 37412,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/848025/"
+ },
+ {
+  "id": "848179",
+  "name": "天华园二里一区",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 38533,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/848179/"
+ },
+ {
+  "id": "848263",
+  "name": "天堂河(东区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2007,
+  "price": 20029,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/848263/"
+ },
+ {
+  "id": "848261",
+  "name": "天堂河(北区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2007,
+  "price": 18149,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/848261/"
+ },
+ {
+  "id": "50598",
+  "name": "梅园(大兴公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1998,
+  "price": 43615,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/50598/"
+ },
+ {
+  "id": "851584",
+  "name": "有德家苑2号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2016,
+  "price": 27587,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/851584/"
+ },
+ {
+  "id": "51325",
+  "name": "幻星家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2003,
+  "price": 31231,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/51325/"
+ },
+ {
+  "id": "51587",
+  "name": "双河北里小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2007,
+  "price": 24801,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/51587/"
+ },
+ {
+  "id": "50116",
+  "name": "长兴公寓",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1998,
+  "price": 23506,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/50116/"
+ },
+ {
+  "id": "863557",
+  "name": "御园E区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2007,
+  "price": 14630,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/863557/"
+ },
+ {
+  "id": "863556",
+  "name": "御园D区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 15944,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/863556/"
+ },
+ {
+  "id": "938045",
+  "name": "龙兴家园",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2008,
+  "price": 18200,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/938045/"
+ },
+ {
+  "id": "943622",
+  "name": "海子角小区",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 1996,
+  "price": 21482,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/943622/"
+ },
+ {
+  "id": "995297",
+  "name": "远洋天著悦山(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2016,
+  "price": 52505,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/995297/"
+ },
+ {
+  "id": "1021713",
+  "name": "首创美澜湾(C区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2018,
+  "price": 26318,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1021713/"
+ },
+ {
+  "id": "1029280",
+  "name": "明发雅苑",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2016,
+  "price": 26082,
+  "online": 29,
+  "url": "https://m.anjuke.com/bj/community/1029280/"
+ },
+ {
+  "id": "1029281",
+  "name": "西红门路8号院",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1985,
+  "price": 23400,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1029281/"
+ },
+ {
+  "id": "1168824",
+  "name": "香留园A区",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2005,
+  "price": 35600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1168824/"
+ },
+ {
+  "id": "1204678",
+  "name": "招商雍合府(东区)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2021,
+  "price": 42000,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1204678/"
+ },
+ {
+  "id": "1261608",
+  "name": "江山风华",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2021,
+  "price": 54479,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1261608/"
+ },
+ {
+  "id": "1261678",
+  "name": "三合北巷2号院",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2016,
+  "price": 26328,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1261678/"
+ },
+ {
+  "id": "1293496",
+  "name": "榆垡新城嘉园(D区)",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2003,
+  "price": 13253,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1293496/"
+ },
+ {
+  "id": "1429910",
+  "name": "颂善园",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2019,
+  "price": 15123,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/1429910/"
+ },
+ {
+  "id": "1447347",
+  "name": "首创美澜湾(E区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2018,
+  "price": 26643,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1447347/"
+ },
+ {
+  "id": "1447348",
+  "name": "首创美澜湾(F区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2015,
+  "price": 28513,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1447348/"
+ },
+ {
+  "id": "1447346",
+  "name": "首创美澜湾(D区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2015,
+  "price": 27716,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/1447346/"
+ },
+ {
+  "id": "378291",
+  "name": "九龙家园(南区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2001,
+  "price": 33200,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/378291/"
+ },
+ {
+  "id": "78972",
+  "name": "九龙东区(九龙山庄东区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2003,
+  "price": 26422,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/78972/"
+ },
+ {
+  "id": "430047",
+  "name": "康庄路50号院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2012,
+  "price": 30250,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/430047/"
+ },
+ {
+  "id": "849501",
+  "name": "康庄东巷8号院",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2012,
+  "price": 29400,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/849501/"
+ },
+ {
+  "id": "440954",
+  "name": "康庄中巷4号院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2012,
+  "price": 27501,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/440954/"
+ },
+ {
+  "id": "115175",
+  "name": "康达园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2003,
+  "price": 31143,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/115175/"
+ },
+ {
+  "id": "869058",
+  "name": "林肯公园C区",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": 53705,
+  "online": 39,
+  "url": "https://m.anjuke.com/bj/community/869058/"
+ },
+ {
+  "id": "850505",
+  "name": "鹿海园五里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 43446,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/850505/"
+ },
+ {
+  "id": "249461",
+  "name": "泰河园七里",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 36713,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/249461/"
+ },
+ {
+  "id": "76467",
+  "name": "瑞海家园(一区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2004,
+  "price": 32291,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/76467/"
+ },
+ {
+  "id": "852115",
+  "name": "三合北巷5号院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2014,
+  "price": 28319,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/852115/"
+ },
+ {
+  "id": "875758",
+  "name": "龙景湾丙区(别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2004,
+  "price": 23600,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/875758/"
+ },
+ {
+  "id": "943619",
+  "name": "佟馨家园C区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2016,
+  "price": 25973,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/943619/"
+ },
+ {
+  "id": "943618",
+  "name": "佟馨家园B区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": 26142,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/943618/"
+ },
+ {
+  "id": "943620",
+  "name": "佟馨家园D区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": 23442,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/943620/"
+ },
+ {
+  "id": "952536",
+  "name": "九龙山庄(二区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1996,
+  "price": 23783,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/952536/"
+ },
+ {
+  "id": "1006068",
+  "name": "庑殿家苑B区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2015,
+  "price": 31175,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/1006068/"
+ },
+ {
+  "id": "1017515",
+  "name": "三合北巷7号院",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2014,
+  "price": 29561,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/1017515/"
+ },
+ {
+  "id": "1167677",
+  "name": "当代采育满庭春MOMA",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2017,
+  "price": 11765,
+  "online": 30,
+  "url": "https://m.anjuke.com/bj/community/1167677/"
+ },
+ {
+  "id": "1192492",
+  "name": "万和斐丽",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2022,
+  "price": 42374,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/1192492/"
+ },
+ {
+  "id": "1258921",
+  "name": "葛洲坝紫郡府(南区)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2015,
+  "price": 47224,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1258921/"
+ },
+ {
+  "id": "1261639",
+  "name": "鸿坤理想城七期",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2019,
+  "price": 24149,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1261639/"
+ },
+ {
+  "id": "1293498",
+  "name": "榆垡新城嘉园(C区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2005,
+  "price": 15700,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1293498/"
+ },
+ {
+  "id": "1300561",
+  "name": "宏盛家园(西区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2001,
+  "price": 24484,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1300561/"
+ },
+ {
+  "id": "1469042",
+  "name": "航城壹号(C区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2021,
+  "price": 33001,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1469042/"
+ },
+ {
+  "id": "50346",
+  "name": "同华园小区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2000,
+  "price": 30997,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/50346/"
+ },
+ {
+  "id": "1902522",
+  "name": "中铁兴创逸境",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": null,
+  "price": 33108,
+  "online": 95,
+  "url": "https://m.anjuke.com/bj/community/1902522/"
+ },
+ {
+  "id": "1854915",
+  "name": "德贤华府(一期)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2024,
+  "price": 30493,
+  "online": 118,
+  "url": "https://m.anjuke.com/bj/community/1854915/"
+ },
+ {
+  "id": "850208",
+  "name": "中铁五院家属楼",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2006,
+  "price": 26724,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/850208/"
+ },
+ {
+  "id": "1490103",
+  "name": "航城壹号",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2023,
+  "price": 33000,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1490103/"
+ },
+ {
+  "id": "1894837",
+  "name": "御璟星城",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 47406,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/1894837/"
+ },
+ {
+  "id": "1972759",
+  "name": "禧悦兴城",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": null,
+  "price": 27635,
+  "online": 90,
+  "url": "https://m.anjuke.com/bj/community/1972759/"
+ },
+ {
+  "id": "1615673",
+  "name": "浉城百丽(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": null,
+  "price": 39481,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1615673/"
+ },
+ {
+  "id": "1661743",
+  "name": "华远和墅",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 26905,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1661743/"
+ },
+ {
+  "id": "80784",
+  "name": "创兴公寓",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2001,
+  "price": 18900,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/80784/"
+ },
+ {
+  "id": "1147489",
+  "name": "兴源幸福城",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2018,
+  "price": 30140,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1147489/"
+ },
+ {
+  "id": "1081798",
+  "name": "金地悦风华",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2019,
+  "price": 68000,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1081798/"
+ },
+ {
+  "id": "1619416",
+  "name": "首开龙湖天琅(别墅)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 30800,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1619416/"
+ },
+ {
+  "id": "1643625",
+  "name": "中建港怡嘉园",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": null,
+  "price": 46000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1643625/"
+ },
+ {
+  "id": "1903738",
+  "name": "中骏金辉未来云城(一期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 38147,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1903738/"
+ },
+ {
+  "id": "1600112",
+  "name": "福海佳园",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": null,
+  "price": 26386,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/1600112/"
+ },
+ {
+  "id": "1639817",
+  "name": "紫禁壹号院北院",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": 2015,
+  "price": 67712,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1639817/"
+ },
+ {
+  "id": "1599941",
+  "name": "中铁兴创·逸境",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2024,
+  "price": 44900,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1599941/"
+ },
+ {
+  "id": "1900207",
+  "name": "大兴星光城(北区)",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 42435,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1900207/"
+ },
+ {
+  "id": "1087705",
+  "name": "中海云熙",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2021,
+  "price": 21218,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/1087705/"
+ },
+ {
+  "id": "1567253",
+  "name": "北京德贤华府",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2024,
+  "price": 35000,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/1567253/"
+ },
+ {
+  "id": "1896020",
+  "name": "大兴星光城(南区)",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": 41313,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1896020/"
+ },
+ {
+  "id": "849186",
+  "name": "九龙家园(东区)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2001,
+  "price": 39400,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/849186/"
+ },
+ {
+  "id": "1624693",
+  "name": "京能丽墅",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": 23600,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1624693/"
+ },
+ {
+  "id": "1654726",
+  "name": "隆兴园二里",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2020,
+  "price": 15635,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1654726/"
+ },
+ {
+  "id": "1562344",
+  "name": "兴创荣墅(新房)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": null,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1562344/"
+ },
+ {
+  "id": "1562517",
+  "name": "中骏金辉未来云城",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2024,
+  "price": 50000,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1562517/"
+ },
+ {
+  "id": "1562450",
+  "name": "和悦春风 | 東岸",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2023,
+  "price": 35500,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1562450/"
+ },
+ {
+  "id": "1700007",
+  "name": "富力华庭苑(东区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2014,
+  "price": 19950,
+  "online": 13,
+  "url": "https://m.anjuke.com/bj/community/1700007/"
+ },
+ {
+  "id": "1483110",
+  "name": "隆兴园一里",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2003,
+  "price": 15382,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1483110/"
+ },
+ {
+  "id": "1562426",
+  "name": "紫金行政公馆",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2022,
+  "price": 35000,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1562426/"
+ },
+ {
+  "id": "1654725",
+  "name": "隆兴园三里",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2020,
+  "price": 14627,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1654725/"
+ },
+ {
+  "id": "1663252",
+  "name": "双河南里尚城(南区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": null,
+  "price": 27920,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1663252/"
+ },
+ {
+  "id": "1680559",
+  "name": "康璟家园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2022,
+  "price": 28604,
+  "online": 39,
+  "url": "https://m.anjuke.com/bj/community/1680559/"
+ },
+ {
+  "id": "1832993",
+  "name": "天恒旭辉7号院",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2018,
+  "price": 15350,
+  "online": 24,
+  "url": "https://m.anjuke.com/bj/community/1832993/"
+ },
+ {
+  "id": "1699968",
+  "name": "富力丹麦小镇(D区公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2012,
+  "price": 20193,
+  "online": 38,
+  "url": "https://m.anjuke.com/bj/community/1699968/"
+ },
+ {
+  "id": "1700360",
+  "name": "富力丹麦小镇(C区公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2012,
+  "price": 23647,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1700360/"
+ },
+ {
+  "id": "1922164",
+  "name": "橡树湾(欣顺街10号院)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 43501,
+  "online": 26,
+  "url": "https://m.anjuke.com/bj/community/1922164/"
+ },
+ {
+  "id": "1800032",
+  "name": "航城壹号(D区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 18976,
+  "online": 22,
+  "url": "https://m.anjuke.com/bj/community/1800032/"
+ },
+ {
+  "id": "1641263",
+  "name": "富力丹麦小镇(D区别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2011,
+  "price": 23843,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/1641263/"
+ },
+ {
+  "id": "1562326",
+  "name": "京能·丽墅",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1562326/"
+ },
+ {
+  "id": "1641268",
+  "name": "富力丹麦小镇(A区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 23268,
+  "online": 10,
+  "url": "https://m.anjuke.com/bj/community/1641268/"
+ },
+ {
+  "id": "1641266",
+  "name": "富力丹麦小镇(B区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 28400,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1641266/"
+ },
+ {
+  "id": "1641265",
+  "name": "富力丹麦小镇(C区别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 26000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1641265/"
+ },
+ {
+  "id": "80835",
+  "name": "红华住宅区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1985,
+  "price": 28009,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/80835/"
+ },
+ {
+  "id": "481061",
+  "name": "鸿坤理想城派郡(18号院)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2009,
+  "price": 34837,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/481061/"
+ },
+ {
+  "id": "852711",
+  "name": "正华多彩嘉园",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2017,
+  "price": 26846,
+  "online": 8,
+  "url": "https://m.anjuke.com/bj/community/852711/"
+ },
+ {
+  "id": "79189",
+  "name": "春泽园小区",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": 2001,
+  "price": 20200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/79189/"
+ },
+ {
+  "id": "1046033",
+  "name": "春泽院别墅区",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2000,
+  "price": 29600,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1046033/"
+ },
+ {
+  "id": "1526807",
+  "name": "圣和巷7号小区",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": 1995,
+  "price": 28800,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1526807/"
+ },
+ {
+  "id": "1562277",
+  "name": "住总兴创·如遇",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": 26900,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1562277/"
+ },
+ {
+  "id": "1571234",
+  "name": "和悦璞云(新房)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2024,
+  "price": 20000,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1571234/"
+ },
+ {
+  "id": "1576836",
+  "name": "合生me悦",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2024,
+  "price": 63000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1576836/"
+ },
+ {
+  "id": "1599822",
+  "name": "住总首开保利熙悦雲上",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2024,
+  "price": 62800,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1599822/"
+ },
+ {
+  "id": "1882726",
+  "name": "合生me悦(南区)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2024,
+  "price": 49136,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1882726/"
+ },
+ {
+  "id": "1893427",
+  "name": "中海兴叁號院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": 52941,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1893427/"
+ },
+ {
+  "id": "1656343",
+  "name": "橡树湾",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2026,
+  "price": 55000,
+  "online": 15,
+  "url": "https://m.anjuke.com/bj/community/1656343/"
+ },
+ {
+  "id": "2006375",
+  "name": "招商玺",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2026,
+  "price": 65582,
+  "online": 12,
+  "url": "https://m.anjuke.com/bj/community/2006375/"
+ },
+ {
+  "id": "1900893",
+  "name": "招商序",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2028,
+  "price": 68000,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1900893/"
+ },
+ {
+  "id": "1981387",
+  "name": "亦庄国贤府",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 51000,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1981387/"
+ },
+ {
+  "id": "1982076",
+  "name": "晓月和风(东区)",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": 36750,
+  "online": 18,
+  "url": "https://m.anjuke.com/bj/community/1982076/"
+ },
+ {
+  "id": "1844163",
+  "name": "京玺",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 46800,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1844163/"
+ },
+ {
+  "id": "1949055",
+  "name": "中建玖玥府",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2026,
+  "price": 50732,
+  "online": 55,
+  "url": "https://m.anjuke.com/bj/community/1949055/"
+ },
+ {
+  "id": "1948897",
+  "name": "晓月和风(北区)",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": 46737,
+  "online": 5,
+  "url": "https://m.anjuke.com/bj/community/1948897/"
+ },
+ {
+  "id": "1944047",
+  "name": "金地仰山(西区)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2012,
+  "price": 39434,
+  "online": 14,
+  "url": "https://m.anjuke.com/bj/community/1944047/"
+ },
+ {
+  "id": "1929112",
+  "name": "首创禧悦兴城",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2026,
+  "price": 31000,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/1929112/"
+ },
+ {
+  "id": "1562413",
+  "name": "首开保利熙悦林语",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2021,
+  "price": null,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1562413/"
+ },
+ {
+  "id": "1815541",
+  "name": "兴城之星",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 50000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1815541/"
+ },
+ {
+  "id": "1984989",
+  "name": "新航城世界映",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": 2027,
+  "price": 24000,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1984989/"
+ },
+ {
+  "id": "51267",
+  "name": "先锋公寓",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 2003,
+  "price": 23366,
+  "online": 7,
+  "url": "https://m.anjuke.com/bj/community/51267/"
+ },
+ {
+  "id": "1639816",
+  "name": "紫禁壹号院南院",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": null,
+  "price": 62221,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1639816/"
+ },
+ {
+  "id": "1550939",
+  "name": "和悦璞云",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": 2024,
+  "price": 19264,
+  "online": 35,
+  "url": "https://m.anjuke.com/bj/community/1550939/"
+ },
+ {
+  "id": "1956976",
+  "name": "颐和公馆(北区)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 39511,
+  "online": 19,
+  "url": "https://m.anjuke.com/bj/community/1956976/"
+ },
+ {
+  "id": "1973450",
+  "name": "颐和公馆(南区)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 38350,
+  "online": 16,
+  "url": "https://m.anjuke.com/bj/community/1973450/"
+ },
+ {
+  "id": "1240220",
+  "name": "兴辰大厦",
+  "district": "大兴",
+  "bizcircle": "兴丰大街",
+  "build_year": 2002,
+  "price": 27600,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1240220/"
+ },
+ {
+  "id": "1989952",
+  "name": "兴城之星璟园",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 36043,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1989952/"
+ },
+ {
+  "id": "1699789",
+  "name": "瀛海府",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 47790,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1699789/"
+ },
+ {
+  "id": "1513446",
+  "name": "和锦诚园(新房)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2023,
+  "price": 65000,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1513446/"
+ },
+ {
+  "id": "1990668",
+  "name": "双河北里尚城(东区)",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": null,
+  "price": 27721,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1990668/"
+ },
+ {
+  "id": "1507348",
+  "name": "中南湾(新房)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2013,
+  "price": 52000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1507348/"
+ },
+ {
+  "id": "1991386",
+  "name": "绿城·朗月和风",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": 2028,
+  "price": 48000,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1991386/"
+ },
+ {
+  "id": "1810085",
+  "name": "中建·玖玥府",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2026,
+  "price": 66000,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1810085/"
+ },
+ {
+  "id": "1995433",
+  "name": "壹品联投·未来元著",
+  "district": "大兴",
+  "bizcircle": "同兴园",
+  "build_year": 2028,
+  "price": 55000,
+  "online": 9,
+  "url": "https://m.anjuke.com/bj/community/1995433/"
+ },
+ {
+  "id": "1874980",
+  "name": "橡树湾(欣顺街39号院)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2023,
+  "price": 43189,
+  "online": 11,
+  "url": "https://m.anjuke.com/bj/community/1874980/"
+ },
+ {
+  "id": "1906902",
+  "name": "和锦诚园(5号院)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2022,
+  "price": 44282,
+  "online": 6,
+  "url": "https://m.anjuke.com/bj/community/1906902/"
+ },
+ {
+  "id": "1562394",
+  "name": "京投发展·臻御府",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2022,
+  "price": 67702,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1562394/"
+ },
+ {
+  "id": "869011",
+  "name": "i立方小区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869011/"
+ },
+ {
+  "id": "795890",
+  "name": "保利春天派",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/795890/"
+ },
+ {
+  "id": "51663",
+  "name": "风景翠园",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2002,
+  "price": 44200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/51663/"
+ },
+ {
+  "id": "292178",
+  "name": "北空住宅小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2009,
+  "price": 25600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/292178/"
+ },
+ {
+  "id": "79518",
+  "name": "广德苑小区",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2003,
+  "price": 43286,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/79518/"
+ },
+ {
+  "id": "852125",
+  "name": "贵园南里(丁区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 47400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/852125/"
+ },
+ {
+  "id": "214429",
+  "name": "国际e庄",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2010,
+  "price": 14300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/214429/"
+ },
+ {
+  "id": "869037",
+  "name": "君安国际",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869037/"
+ },
+ {
+  "id": "115125",
+  "name": "旧宫西里",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1998,
+  "price": 27600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/115125/"
+ },
+ {
+  "id": "869041",
+  "name": "林肯公园(B区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869041/"
+ },
+ {
+  "id": "869040",
+  "name": "林肯公园A区",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869040/"
+ },
+ {
+  "id": "204258",
+  "name": "林肯公寓",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2010,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/204258/"
+ },
+ {
+  "id": "869059",
+  "name": "龙熙旭辉6号院",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2017,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/869059/"
+ },
+ {
+  "id": "850879",
+  "name": "美利国际",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/850879/"
+ },
+ {
+  "id": "205472",
+  "name": "兴盛国际",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2009,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/205472/"
+ },
+ {
+  "id": "420529",
+  "name": "田园适家",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2006,
+  "price": 15300,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/420529/"
+ },
+ {
+  "id": "79705",
+  "name": "佟家园小区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 1997,
+  "price": 25000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/79705/"
+ },
+ {
+  "id": "851886",
+  "name": "清城国际中心",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/851886/"
+ },
+ {
+  "id": "508635",
+  "name": "航天星汉小区",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2011,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/508635/"
+ },
+ {
+  "id": "580267",
+  "name": "鸿坤林语墅(别墅)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2013,
+  "price": 55000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/580267/"
+ },
+ {
+  "id": "431279",
+  "name": "原乡假日",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2002,
+  "price": 7300,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/431279/"
+ },
+ {
+  "id": "513330",
+  "name": "溪水园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2008,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/513330/"
+ },
+ {
+  "id": "168658",
+  "name": "尚景城",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2005,
+  "price": 21200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/168658/"
+ },
+ {
+  "id": "869035",
+  "name": "华远西红世",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869035/"
+ },
+ {
+  "id": "585403",
+  "name": "悦廷mini悦",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2013,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/585403/"
+ },
+ {
+  "id": "869141",
+  "name": "兴创D标",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2011,
+  "price": null,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/869141/"
+ },
+ {
+  "id": "189169",
+  "name": "鑫瑞庄园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2005,
+  "price": 11900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/189169/"
+ },
+ {
+  "id": "61121",
+  "name": "金泰公寓",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": 36800,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/61121/"
+ },
+ {
+  "id": "853151",
+  "name": "众美MIMO公馆",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/853151/"
+ },
+ {
+  "id": "649621",
+  "name": "大东新村",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 1996,
+  "price": 7000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/649621/"
+ },
+ {
+  "id": "80815",
+  "name": "大东公社",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 9600,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/80815/"
+ },
+ {
+  "id": "850108",
+  "name": "大庄新村",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2015,
+  "price": 24400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/850108/"
+ },
+ {
+  "id": "867854",
+  "name": "中冀斯巴鲁大厦",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2002,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/867854/"
+ },
+ {
+  "id": "867877",
+  "name": "绿地财富中心",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2013,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/867877/"
+ },
+ {
+  "id": "867874",
+  "name": "嘉悦广场",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2013,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/867874/"
+ },
+ {
+  "id": "867871",
+  "name": "国融国际",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2008,
+  "price": 37000,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/867871/"
+ },
+ {
+  "id": "867875",
+  "name": "城乡世纪广场莫尔空间",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2015,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/867875/"
+ },
+ {
+  "id": "875716",
+  "name": "榆垡小城镇(别墅)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2003,
+  "price": 19000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/875716/"
+ },
+ {
+  "id": "875714",
+  "name": "赢海庄园(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2004,
+  "price": 44200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/875714/"
+ },
+ {
+  "id": "875743",
+  "name": "兴涛园(别墅)",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": 2013,
+  "price": 43800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/875743/"
+ },
+ {
+  "id": "915010",
+  "name": "旭辉一合相(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2017,
+  "price": 58000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/915010/"
+ },
+ {
+  "id": "875778",
+  "name": "果岭假日(别墅)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2014,
+  "price": 31000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/875778/"
+ },
+ {
+  "id": "1006065",
+  "name": "星光公寓",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2000,
+  "price": 24000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1006065/"
+ },
+ {
+  "id": "1015471",
+  "name": "世界之花假日广场",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1015471/"
+ },
+ {
+  "id": "1015770",
+  "name": "泰禾中央广场",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1015770/"
+ },
+ {
+  "id": "1021711",
+  "name": "观海苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2012,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1021711/"
+ },
+ {
+  "id": "1263737",
+  "name": "格雷众创园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1263737/"
+ },
+ {
+  "id": "1062704",
+  "name": "中海北京世家(别墅)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2019,
+  "price": 59500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1062704/"
+ },
+ {
+  "id": "1069814",
+  "name": "四季盛景园",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2020,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1069814/"
+ },
+ {
+  "id": "1077973",
+  "name": "熙悦林语A区(保利首开乐尚N+公寓A区)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2021,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1077973/"
+ },
+ {
+  "id": "1079327",
+  "name": "西红门路6号院",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1079327/"
+ },
+ {
+  "id": "1079294",
+  "name": "平客集文创园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1079294/"
+ },
+ {
+  "id": "1080597",
+  "name": "星光影视园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1080597/"
+ },
+ {
+  "id": "1089190",
+  "name": "富力盛悦居(商住楼)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1089190/"
+ },
+ {
+  "id": "1100980",
+  "name": "国融国际(商住楼)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1999,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1100980/"
+ },
+ {
+  "id": "1169893",
+  "name": "空港新苑5号院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2005,
+  "price": 11800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1169893/"
+ },
+ {
+  "id": "1169883",
+  "name": "空港新苑14号院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2005,
+  "price": 12200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1169883/"
+ },
+ {
+  "id": "1169886",
+  "name": "空港新苑12号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2005,
+  "price": 13700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1169886/"
+ },
+ {
+  "id": "1169888",
+  "name": "空港新苑10号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2002,
+  "price": 13600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1169888/"
+ },
+ {
+  "id": "1169887",
+  "name": "空港新苑11号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2000,
+  "price": 12400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1169887/"
+ },
+ {
+  "id": "1193699",
+  "name": "熙兆大厦",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1193699/"
+ },
+ {
+  "id": "1200399",
+  "name": "王立庄工业园区",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1200399/"
+ },
+ {
+  "id": "1202337",
+  "name": "林肯时代",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2019,
+  "price": null,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1202337/"
+ },
+ {
+  "id": "1204977",
+  "name": "威公馆",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2003,
+  "price": 18400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1204977/"
+ },
+ {
+  "id": "1215264",
+  "name": "金色漫香林(别墅)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2010,
+  "price": 37600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1215264/"
+ },
+ {
+  "id": "1218503",
+  "name": "城乡科技文创园",
+  "district": "大兴",
+  "bizcircle": "高米店",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1218503/"
+ },
+ {
+  "id": "1255288",
+  "name": "鹅房村住房",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 20000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1255288/"
+ },
+ {
+  "id": "1256991",
+  "name": "前苑上村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1256991/"
+ },
+ {
+  "id": "1257000",
+  "name": "中国杂技团家属楼",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1999,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1257000/"
+ },
+ {
+  "id": "1257616",
+  "name": "王各庄村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 5000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1257616/"
+ },
+ {
+  "id": "1258013",
+  "name": "庞各庄镇赵村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4750,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1258013/"
+ },
+ {
+  "id": "1258174",
+  "name": "黎明村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4750,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1258174/"
+ },
+ {
+  "id": "1258177",
+  "name": "经房小区",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": 2000,
+  "price": 14900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1258177/"
+ },
+ {
+  "id": "1258180",
+  "name": "潘铁营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1258180/"
+ },
+ {
+  "id": "1258924",
+  "name": "瑞公馆",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2015,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1258924/"
+ },
+ {
+  "id": "1260945",
+  "name": "沙子营村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 6800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1260945/"
+ },
+ {
+  "id": "1261700",
+  "name": "康庄路23号院",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2005,
+  "price": 21800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1261700/"
+ },
+ {
+  "id": "1261602",
+  "name": "西红门一村住房",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 16200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1261602/"
+ },
+ {
+  "id": "1262105",
+  "name": "北泗上村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1262105/"
+ },
+ {
+  "id": "1261651",
+  "name": "金洲御府",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": 1995,
+  "price": 18000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1261651/"
+ },
+ {
+  "id": "1262132",
+  "name": "中铁大都家属院",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2005,
+  "price": 36400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1262132/"
+ },
+ {
+  "id": "1262139",
+  "name": "朱庄村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1262139/"
+ },
+ {
+  "id": "1262150",
+  "name": "铜佛寺村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1262150/"
+ },
+ {
+  "id": "1265546",
+  "name": "兴华东里",
+  "district": "大兴",
+  "bizcircle": "兴丰大街",
+  "build_year": 1995,
+  "price": 18300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1265546/"
+ },
+ {
+  "id": "1265517",
+  "name": "西沙窝村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1265517/"
+ },
+ {
+  "id": "1265518",
+  "name": "驿嘉公寓",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 9000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1265518/"
+ },
+ {
+  "id": "1273109",
+  "name": "兴华南路1号院",
+  "district": "大兴",
+  "bizcircle": "兴丰大街",
+  "build_year": 2000,
+  "price": 18000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1273109/"
+ },
+ {
+  "id": "1282966",
+  "name": "大东新村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1282966/"
+ },
+ {
+  "id": "1282967",
+  "name": "大皮营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1282967/"
+ },
+ {
+  "id": "1283499",
+  "name": "北田各庄村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1283499/"
+ },
+ {
+  "id": "1284210",
+  "name": "团河南村住房",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": null,
+  "price": 9900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1284210/"
+ },
+ {
+  "id": "1284208",
+  "name": "三间房村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 10700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1284208/"
+ },
+ {
+  "id": "1284213",
+  "name": "西庄村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 6100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1284213/"
+ },
+ {
+  "id": "1284460",
+  "name": "大兴国基创新园",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1284460/"
+ },
+ {
+  "id": "1285093",
+  "name": "尚庄村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 7000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1285093/"
+ },
+ {
+  "id": "1286398",
+  "name": "礼贤家园",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2005,
+  "price": 8900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1286398/"
+ },
+ {
+  "id": "1289667",
+  "name": "和顺场村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1289667/"
+ },
+ {
+  "id": "1289740",
+  "name": "魏庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1289740/"
+ },
+ {
+  "id": "1289881",
+  "name": "东白塔村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5450,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1289881/"
+ },
+ {
+  "id": "1289880",
+  "name": "东北台村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1289880/"
+ },
+ {
+  "id": "1289872",
+  "name": "后安定村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 5000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1289872/"
+ },
+ {
+  "id": "1290068",
+  "name": "东枣林村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 6500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1290068/"
+ },
+ {
+  "id": "1296131",
+  "name": "北章客村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1296131/"
+ },
+ {
+  "id": "1297895",
+  "name": "太子务村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1297895/"
+ },
+ {
+  "id": "1298678",
+  "name": "张公垡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5350,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1298678/"
+ },
+ {
+  "id": "1298689",
+  "name": "前辛庄村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 7800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1298689/"
+ },
+ {
+  "id": "1300552",
+  "name": "大练庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4750,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1300552/"
+ },
+ {
+  "id": "1302713",
+  "name": "礼贤镇东安村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1302713/"
+ },
+ {
+  "id": "1307872",
+  "name": "梨花村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 6500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1307872/"
+ },
+ {
+  "id": "1309513",
+  "name": "北曹各庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 6500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1309513/"
+ },
+ {
+  "id": "1311329",
+  "name": "长子营镇赵县营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1311329/"
+ },
+ {
+  "id": "1311694",
+  "name": "西义堂村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1311694/"
+ },
+ {
+  "id": "1312892",
+  "name": "六合庄村住房",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 4950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1312892/"
+ },
+ {
+  "id": "1313570",
+  "name": "解州营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1313570/"
+ },
+ {
+  "id": "1313914",
+  "name": "狼垡二村住房",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": null,
+  "price": 14300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1313914/"
+ },
+ {
+  "id": "1313922",
+  "name": "大生庄村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 16600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1313922/"
+ },
+ {
+  "id": "1425739",
+  "name": "金业大街9号院",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1425739/"
+ },
+ {
+  "id": "1314254",
+  "name": "西黑垡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5150,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1314254/"
+ },
+ {
+  "id": "1314692",
+  "name": "前甫村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5150,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1314692/"
+ },
+ {
+  "id": "1314899",
+  "name": "北臧村镇西大营村住房",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 6100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1314899/"
+ },
+ {
+  "id": "1314913",
+  "name": "庞各庄李家巷村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1314913/"
+ },
+ {
+  "id": "1315310",
+  "name": "采育镇沙窝店村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 9700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1315310/"
+ },
+ {
+  "id": "1315305",
+  "name": "礼贤镇龙头村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4650,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1315305/"
+ },
+ {
+  "id": "1316229",
+  "name": "黄村镇狼各庄村住房",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 9400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1316229/"
+ },
+ {
+  "id": "1316732",
+  "name": "和悦春风(东区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2022,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1316732/"
+ },
+ {
+  "id": "1317050",
+  "name": "青云店垡上村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1317050/"
+ },
+ {
+  "id": "1317046",
+  "name": "青云店镇南大红门村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 5650,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1317046/"
+ },
+ {
+  "id": "1317057",
+  "name": "安定镇车站村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1317057/"
+ },
+ {
+  "id": "1317062",
+  "name": "北臧村镇马村村住房",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 7500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1317062/"
+ },
+ {
+  "id": "1318049",
+  "name": "庞各庄镇西高各庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1318049/"
+ },
+ {
+  "id": "1317980",
+  "name": "北臧村镇赵家场村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1317980/"
+ },
+ {
+  "id": "1318366",
+  "name": "采育镇大同营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1318366/"
+ },
+ {
+  "id": "1318796",
+  "name": "庞各庄镇常各庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1318796/"
+ },
+ {
+  "id": "1318785",
+  "name": "采育镇后甫村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1318785/"
+ },
+ {
+  "id": "1319251",
+  "name": "长子营镇赤鲁村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1319251/"
+ },
+ {
+  "id": "1319259",
+  "name": "庞各庄镇梨园村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1319259/"
+ },
+ {
+  "id": "1320015",
+  "name": "庞各庄镇西中堡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1320015/"
+ },
+ {
+  "id": "1320888",
+  "name": "北臧村镇梨园村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1320888/"
+ },
+ {
+  "id": "1321999",
+  "name": "黄村镇孙村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 10700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1321999/"
+ },
+ {
+  "id": "1322848",
+  "name": "青云店镇东赵村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 11300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1322848/"
+ },
+ {
+  "id": "1322829",
+  "name": "西红门镇新三余村住房",
+  "district": "大兴",
+  "bizcircle": "同兴园",
+  "build_year": null,
+  "price": 15400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1322829/"
+ },
+ {
+  "id": "1365703",
+  "name": "中国铁建培训中心",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 1998,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1365703/"
+ },
+ {
+  "id": "1367379",
+  "name": "青云店镇垡上营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1367379/"
+ },
+ {
+  "id": "1373369",
+  "name": "安定镇西芦村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1373369/"
+ },
+ {
+  "id": "1373949",
+  "name": "黄村镇立垡村住房",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 4950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1373949/"
+ },
+ {
+  "id": "1374583",
+  "name": "庞各庄镇民生新村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 10600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1374583/"
+ },
+ {
+  "id": "1378219",
+  "name": "金时大街9号院",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1378219/"
+ },
+ {
+  "id": "1383095",
+  "name": "凤河营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1383095/"
+ },
+ {
+  "id": "1396901",
+  "name": "寿保庄村住房",
+  "district": "大兴",
+  "bizcircle": "同兴园",
+  "build_year": null,
+  "price": 12600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1396901/"
+ },
+ {
+  "id": "1409426",
+  "name": "怡家苑公寓",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1995,
+  "price": 20400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1409426/"
+ },
+ {
+  "id": "1411325",
+  "name": "新城熙红印",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2022,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1411325/"
+ },
+ {
+  "id": "1414942",
+  "name": "西红门十村住房",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": 16800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1414942/"
+ },
+ {
+  "id": "1416565",
+  "name": "龙湖熙悦宸著",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2023,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1416565/"
+ },
+ {
+  "id": "1435712",
+  "name": "北高各庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1435712/"
+ },
+ {
+  "id": "1439468",
+  "name": "万科天地(一期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2018,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1439468/"
+ },
+ {
+  "id": "1465453",
+  "name": "北臧村镇巴园子村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1465453/"
+ },
+ {
+  "id": "1466336",
+  "name": "大狼垡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 9300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1466336/"
+ },
+ {
+  "id": "1467120",
+  "name": "李家务村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1467120/"
+ },
+ {
+  "id": "1467622",
+  "name": "后苑上村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1467622/"
+ },
+ {
+  "id": "1468530",
+  "name": "马各庄村住房(大兴)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4650,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1468530/"
+ },
+ {
+  "id": "1469044",
+  "name": "东义堂村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1469044/"
+ },
+ {
+  "id": "1468966",
+  "name": "小黑垡村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1468966/"
+ },
+ {
+  "id": "1469858",
+  "name": "康营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1469858/"
+ },
+ {
+  "id": "1470524",
+  "name": "钥匙头村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1470524/"
+ },
+ {
+  "id": "1471208",
+  "name": "广佛寺村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1471208/"
+ },
+ {
+  "id": "1471552",
+  "name": "长子营镇周营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 8400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1471552/"
+ },
+ {
+  "id": "1472197",
+  "name": "赵庄子村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 5600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1472197/"
+ },
+ {
+  "id": "1474059",
+  "name": "北李渠村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 6500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1474059/"
+ },
+ {
+  "id": "1475354",
+  "name": "潞城营一村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1475354/"
+ },
+ {
+  "id": "1475899",
+  "name": "小谷店村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1475899/"
+ },
+ {
+  "id": "1477974",
+  "name": "南顿垡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1477974/"
+ },
+ {
+  "id": "1478807",
+  "name": "刘家铺村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1478807/"
+ },
+ {
+  "id": "1481231",
+  "name": "四各庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1481231/"
+ },
+ {
+  "id": "1483106",
+  "name": "穆园子村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1483106/"
+ },
+ {
+  "id": "1483493",
+  "name": "周园子村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 14700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1483493/"
+ },
+ {
+  "id": "1483103",
+  "name": "南辛店一村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 9700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1483103/"
+ },
+ {
+  "id": "1486740",
+  "name": "昕升村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1486740/"
+ },
+ {
+  "id": "1488309",
+  "name": "中海云筑(别墅)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2020,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1488309/"
+ },
+ {
+  "id": "1488722",
+  "name": "利市营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1488722/"
+ },
+ {
+  "id": "1489232",
+  "name": "东黑垡村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 4700,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1489232/"
+ },
+ {
+  "id": "1492103",
+  "name": "东沙窝村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 8500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1492103/"
+ },
+ {
+  "id": "1546563",
+  "name": "敬贤家园北里A区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2009,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1546563/"
+ },
+ {
+  "id": "1547171",
+  "name": "绿地海珀云翡(新房)",
+  "district": "大兴",
+  "bizcircle": "枣园",
+  "build_year": 2019,
+  "price": 72500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1547171/"
+ },
+ {
+  "id": "1562232",
+  "name": "路劲御合院(新房)",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2022,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1562232/"
+ },
+ {
+  "id": "1584313",
+  "name": "空港贵苑1号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 13000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1584313/"
+ },
+ {
+  "id": "1588456",
+  "name": "润棠瀛海",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1588456/"
+ },
+ {
+  "id": "1588665",
+  "name": "熙悦林语B区(保利首开乐尚N+公寓B区)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1588665/"
+ },
+ {
+  "id": "1591881",
+  "name": "空港荣苑2号院",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1591881/"
+ },
+ {
+  "id": "1600568",
+  "name": "芳源里(别墅)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": 29800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1600568/"
+ },
+ {
+  "id": "1600959",
+  "name": "志远庄村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 7500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1600959/"
+ },
+ {
+  "id": "1602199",
+  "name": "庑殿路29号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1602199/"
+ },
+ {
+  "id": "1619417",
+  "name": "首开龙湖天琅(商住楼)",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1619417/"
+ },
+ {
+  "id": "1623183",
+  "name": "空港荣苑4号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1623183/"
+ },
+ {
+  "id": "1630853",
+  "name": "中海兴叁號院(新房)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2024,
+  "price": 73000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1630853/"
+ },
+ {
+  "id": "1640327",
+  "name": "苑南村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5950,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1640327/"
+ },
+ {
+  "id": "1640612",
+  "name": "龙景湾三区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 27800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1640612/"
+ },
+ {
+  "id": "1653652",
+  "name": "万科天地(三期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1653652/"
+ },
+ {
+  "id": "1654578",
+  "name": "中建鄂旅投·星光里",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2024,
+  "price": 29000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1654578/"
+ },
+ {
+  "id": "1655353",
+  "name": "空港合苑2号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 13100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1655353/"
+ },
+ {
+  "id": "1655364",
+  "name": "空港富苑4号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 14500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1655364/"
+ },
+ {
+  "id": "1655360",
+  "name": "空港荣苑3号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 14300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1655360/"
+ },
+ {
+  "id": "1655361",
+  "name": "空港富苑2号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 14500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1655361/"
+ },
+ {
+  "id": "1655359",
+  "name": "空港雅苑2号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 14300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1655359/"
+ },
+ {
+  "id": "1659819",
+  "name": "绿宸幸福里",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2020,
+  "price": 5400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1659819/"
+ },
+ {
+  "id": "1659774",
+  "name": "绿宸迎宾华府",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2023,
+  "price": 9000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1659774/"
+ },
+ {
+  "id": "1663579",
+  "name": "集贤雅苑南区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1663579/"
+ },
+ {
+  "id": "1670143",
+  "name": "招商臻珑府东区",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1670143/"
+ },
+ {
+  "id": "1672240",
+  "name": "中海寰宇时代寰宇府",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2021,
+  "price": 46000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1672240/"
+ },
+ {
+  "id": "1686649",
+  "name": "福兴雅苑",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1686649/"
+ },
+ {
+  "id": "1695902",
+  "name": "风景翠园(公寓住宅)",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": null,
+  "price": 36600,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1695902/"
+ },
+ {
+  "id": "1711828",
+  "name": "保利首开熙悦新语",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1711828/"
+ },
+ {
+  "id": "1735700",
+  "name": "兴创国际中心",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2019,
+  "price": 37000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1735700/"
+ },
+ {
+  "id": "1763124",
+  "name": "中建壹品·湖北文旅·星光里|星筑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2026,
+  "price": 29000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1763124/"
+ },
+ {
+  "id": "1792949",
+  "name": "汇贤家园五里20号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1792949/"
+ },
+ {
+  "id": "1799626",
+  "name": "汇贤家园二里15号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1799626/"
+ },
+ {
+  "id": "1800031",
+  "name": "航城壹号(A区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 22000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1800031/"
+ },
+ {
+  "id": "1806952",
+  "name": "金鼎欣盛家园(29号院)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1806952/"
+ },
+ {
+  "id": "1811577",
+  "name": "汇贤家园二里16号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1811577/"
+ },
+ {
+  "id": "1817889",
+  "name": "CCB建融家园(绿地智汇健康城)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1817889/"
+ },
+ {
+  "id": "1827011",
+  "name": "旭辉一合相",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": 2017,
+  "price": 30600,
+  "online": 3,
+  "url": "https://m.anjuke.com/bj/community/1827011/"
+ },
+ {
+  "id": "1828008",
+  "name": "敬贤家园中里E区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828008/"
+ },
+ {
+  "id": "1828015",
+  "name": "敬贤家园北里B区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828015/"
+ },
+ {
+  "id": "1828298",
+  "name": "汇贤家园一里9号院",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828298/"
+ },
+ {
+  "id": "1828272",
+  "name": "敬贤家园北里C区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828272/"
+ },
+ {
+  "id": "1828275",
+  "name": "敬贤家园北里E区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828275/"
+ },
+ {
+  "id": "1828278",
+  "name": "敬贤家园中里D区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828278/"
+ },
+ {
+  "id": "1828277",
+  "name": "敬贤家园中里C区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828277/"
+ },
+ {
+  "id": "1828280",
+  "name": "敬贤家园南里A区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828280/"
+ },
+ {
+  "id": "1828283",
+  "name": "敬贤家园南里D区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828283/"
+ },
+ {
+  "id": "1828284",
+  "name": "敬贤家园南里F区",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828284/"
+ },
+ {
+  "id": "1828444",
+  "name": "汇贤家园一里13号院",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1828444/"
+ },
+ {
+  "id": "1835343",
+  "name": "田家窑村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1835343/"
+ },
+ {
+  "id": "1836633",
+  "name": "汇贤家园三里17号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1836633/"
+ },
+ {
+  "id": "1836961",
+  "name": "德寿寺南路1号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1836961/"
+ },
+ {
+  "id": "1836790",
+  "name": "大兴发展·云璟悦",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 30000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1836790/"
+ },
+ {
+  "id": "1837278",
+  "name": "黄村西里(商业)",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1837278/"
+ },
+ {
+  "id": "1845886",
+  "name": "汇贤家园三里23号院",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 23600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1845886/"
+ },
+ {
+  "id": "1847617",
+  "name": "郁花园三里15号楼",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1847617/"
+ },
+ {
+  "id": "1853316",
+  "name": "滨海恒大文化旅游城",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": 2023,
+  "price": 4455,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1853316/"
+ },
+ {
+  "id": "1854043",
+  "name": "黄村西大街62号-78号楼",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1854043/"
+ },
+ {
+  "id": "1855883",
+  "name": "埝坛华庭(西区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1855883/"
+ },
+ {
+  "id": "1856784",
+  "name": "埝坛华庭(北区)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1856784/"
+ },
+ {
+  "id": "1856791",
+  "name": "埝坛华庭(东区)",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1856791/"
+ },
+ {
+  "id": "1875864",
+  "name": "大臧村住房",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": 11500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1875864/"
+ },
+ {
+  "id": "1881948",
+  "name": "滨河西里南区127号楼",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1881948/"
+ },
+ {
+  "id": "1882186",
+  "name": "丽园(A区别墅)",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 44600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1882186/"
+ },
+ {
+  "id": "1903408",
+  "name": "瀛海镇YZ00-0802-1401地块",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1903408/"
+ },
+ {
+  "id": "1903328",
+  "name": "大兴西红门1号地DX04-0102-6002地块",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1903328/"
+ },
+ {
+  "id": "1903335",
+  "name": "大兴区黄村镇海子角、辛店村A片区、C片区地块",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1903335/"
+ },
+ {
+  "id": "1903347",
+  "name": "大兴芦城DX00-0403-0021、0025地块",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1903347/"
+ },
+ {
+  "id": "1906579",
+  "name": "大兴发展·梧桐府",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": 2028,
+  "price": 45000,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1906579/"
+ },
+ {
+  "id": "1906789",
+  "name": "橡树湾(欣顺街12号院)",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2024,
+  "price": 44000,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1906789/"
+ },
+ {
+  "id": "1907957",
+  "name": "天河西路21号院",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1907957/"
+ },
+ {
+  "id": "1912112",
+  "name": "庞各庄镇张新庄村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1912112/"
+ },
+ {
+  "id": "1915541",
+  "name": "青云雅苑",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1915541/"
+ },
+ {
+  "id": "1916589",
+  "name": "青云尚苑",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1916589/"
+ },
+ {
+  "id": "1916518",
+  "name": "青云嘉苑",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1916518/"
+ },
+ {
+  "id": "1917281",
+  "name": "青云博苑",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 14800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1917281/"
+ },
+ {
+  "id": "1918565",
+  "name": "佟家场东巷14号院",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1918565/"
+ },
+ {
+  "id": "1919767",
+  "name": "青云礼苑",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1919767/"
+ },
+ {
+  "id": "1920442",
+  "name": "和悦春风(西区)",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2021,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1920442/"
+ },
+ {
+  "id": "1920296",
+  "name": "和锦诚园(8号院)",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2023,
+  "price": 46800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1920296/"
+ },
+ {
+  "id": "1922484",
+  "name": "小张本村住房",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 7600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1922484/"
+ },
+ {
+  "id": "1922716",
+  "name": "民和路6号院",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1922716/"
+ },
+ {
+  "id": "1927961",
+  "name": "中骏金辉未来云城(三期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 39200,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/1927961/"
+ },
+ {
+  "id": "1932323",
+  "name": "旧宫商厦",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1932323/"
+ },
+ {
+  "id": "1934151",
+  "name": "礼贤镇中心村住房",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1934151/"
+ },
+ {
+  "id": "1940846",
+  "name": "青云店镇北店村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 10000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1940846/"
+ },
+ {
+  "id": "1942712",
+  "name": "招商雍合府(西区)",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": 49000,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1942712/"
+ },
+ {
+  "id": "1942675",
+  "name": "首创悦空间",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1942675/"
+ },
+ {
+  "id": "1951298",
+  "name": "经济开发区DX00-0302-0021、0022",
+  "district": "大兴",
+  "bizcircle": "郁花园",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1951298/"
+ },
+ {
+  "id": "1953062",
+  "name": "富兴国际中心",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1953062/"
+ },
+ {
+  "id": "1953560",
+  "name": "东南次村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 12800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1953560/"
+ },
+ {
+  "id": "1954227",
+  "name": "繁荣村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 7600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1954227/"
+ },
+ {
+  "id": "1955997",
+  "name": "青云店镇北野场村住房",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": 5200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1955997/"
+ },
+ {
+  "id": "1956733",
+  "name": "中骏金辉未来云城(四期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 37225,
+  "online": 4,
+  "url": "https://m.anjuke.com/bj/community/1956733/"
+ },
+ {
+  "id": "1957733",
+  "name": "永大路32号院",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1957733/"
+ },
+ {
+  "id": "1961833",
+  "name": "鼎坤亦庄生命科学园",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1961833/"
+ },
+ {
+  "id": "1963274",
+  "name": "兴都港7号院",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1963274/"
+ },
+ {
+  "id": "1963412",
+  "name": "御林西苑2号院",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 12400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1963412/"
+ },
+ {
+  "id": "1967909",
+  "name": "广厦路北2号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1967909/"
+ },
+ {
+  "id": "1969794",
+  "name": "小红门路28号院",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1969794/"
+ },
+ {
+  "id": "1971115",
+  "name": "中鼎路6号院",
+  "district": "大兴",
+  "bizcircle": "瀛海镇",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1971115/"
+ },
+ {
+  "id": "1972758",
+  "name": "御林东苑2号院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 7900,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1972758/"
+ },
+ {
+  "id": "1973231",
+  "name": "佟庄村住宅",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 8100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1973231/"
+ },
+ {
+  "id": "1973982",
+  "name": "春芳南路5号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 17400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1973982/"
+ },
+ {
+  "id": "1974021",
+  "name": "小刘各庄村住房",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": null,
+  "price": 8300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1974021/"
+ },
+ {
+  "id": "1975245",
+  "name": "英培街6号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 17900,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1975245/"
+ },
+ {
+  "id": "1975244",
+  "name": "万嘉街3号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 23200,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1975244/"
+ },
+ {
+  "id": "1975242",
+  "name": "芳泽东路5号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 18400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1975242/"
+ },
+ {
+  "id": "1975249",
+  "name": "春芳北路2号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 18300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1975249/"
+ },
+ {
+  "id": "1975248",
+  "name": "春芳北路5号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 21600,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1975248/"
+ },
+ {
+  "id": "1975247",
+  "name": "春芳北路1号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 19300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1975247/"
+ },
+ {
+  "id": "1975246",
+  "name": "英培街2号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 17471,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1975246/"
+ },
+ {
+  "id": "1975251",
+  "name": "春芳南路3号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": 16800,
+  "online": 1,
+  "url": "https://m.anjuke.com/bj/community/1975251/"
+ },
+ {
+  "id": "1975851",
+  "name": "兴创·沐春岚",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1975851/"
+ },
+ {
+  "id": "1975776",
+  "name": "采育镇西辛庄村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 6100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1975776/"
+ },
+ {
+  "id": "1980412",
+  "name": "北藏村镇梨园村住房",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": null,
+  "price": 5850,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1980412/"
+ },
+ {
+  "id": "1981599",
+  "name": "海子角西里16号楼",
+  "district": "大兴",
+  "bizcircle": "海子角",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1981599/"
+ },
+ {
+  "id": "1985603",
+  "name": "安定镇汤营村住房",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1985603/"
+ },
+ {
+  "id": "1985975",
+  "name": "前辛房村住房",
+  "district": "大兴",
+  "bizcircle": "大兴机场",
+  "build_year": null,
+  "price": 6300,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1985975/"
+ },
+ {
+  "id": "1986597",
+  "name": "兴业大街三段26号院",
+  "district": "大兴",
+  "bizcircle": "清源",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1986597/"
+ },
+ {
+  "id": "1995127",
+  "name": "富强东里配套楼",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1995127/"
+ },
+ {
+  "id": "1999759",
+  "name": "金鼎欣盛家园(23号院)",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 34800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/1999759/"
+ },
+ {
+  "id": "2005483",
+  "name": "长子营镇潞城营一村住房",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": 5000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2005483/"
+ },
+ {
+  "id": "2007725",
+  "name": "高米店便民商业服务中心",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2007725/"
+ },
+ {
+  "id": "2010111",
+  "name": "御林西苑6号院",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": null,
+  "price": 12500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2010111/"
+ },
+ {
+  "id": "2014050",
+  "name": "京良路甲2号院",
+  "district": "大兴",
+  "bizcircle": "兴业大街",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2014050/"
+ },
+ {
+  "id": "2014378",
+  "name": "熙悦雲上",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": null,
+  "price": 45000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2014378/"
+ },
+ {
+  "id": "2014730",
+  "name": "御林东苑6号院",
+  "district": "大兴",
+  "bizcircle": "大兴周边",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2014730/"
+ },
+ {
+  "id": "2016517",
+  "name": "榆垡镇西瓮各庄村住房",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": null,
+  "price": 5500,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2016517/"
+ },
+ {
+  "id": "2017286",
+  "name": "科创二街17号院",
+  "district": "大兴",
+  "bizcircle": "亦庄东区",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2017286/"
+ },
+ {
+  "id": "2017568",
+  "name": "凉水河一街7号院三区10B号楼",
+  "district": "大兴",
+  "bizcircle": "亦庄西区",
+  "build_year": null,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/2017568/"
+ },
+ {
+  "id": "2017523",
+  "name": "中骏金辉未来云城(二期)",
+  "district": "大兴",
+  "bizcircle": "兴华大街",
+  "build_year": null,
+  "price": 38772,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/2017523/"
+ },
+ {
+  "id": "848102",
+  "name": "柏悦华府",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2015,
+  "price": 33600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/848102/"
+ },
+ {
+  "id": "851038",
+  "name": "枫荷园",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2000,
+  "price": 18600,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/851038/"
+ },
+ {
+  "id": "869012",
+  "name": "荣京道",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869012/"
+ },
+ {
+  "id": "851770",
+  "name": "瓜乡苑小区",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 1990,
+  "price": 20000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/851770/"
+ },
+ {
+  "id": "852133",
+  "name": "贵园南里(乙区)",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 47400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/852133/"
+ },
+ {
+  "id": "52096",
+  "name": "果岭假日",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2014,
+  "price": 40000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/52096/"
+ },
+ {
+  "id": "115129",
+  "name": "旧宫东里小区",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 2001,
+  "price": 18000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/115129/"
+ },
+ {
+  "id": "869039",
+  "name": "珺悦国际",
+  "district": "大兴",
+  "bizcircle": "生物医药基地",
+  "build_year": 2014,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869039/"
+ },
+ {
+  "id": "98532",
+  "name": "九龙山庄一区",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 1998,
+  "price": 23400,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/98532/"
+ },
+ {
+  "id": "80623",
+  "name": "康顺园",
+  "district": "大兴",
+  "bizcircle": "黄村",
+  "build_year": 2003,
+  "price": 18100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/80623/"
+ },
+ {
+  "id": "81015",
+  "name": "康福园",
+  "district": "大兴",
+  "bizcircle": "旧宫",
+  "build_year": 1998,
+  "price": 31000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/81015/"
+ },
+ {
+  "id": "652194",
+  "name": "龙熙公馆",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2015,
+  "price": 9800,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/652194/"
+ },
+ {
+  "id": "523776",
+  "name": "龙熙瓦德拉玛庄园",
+  "district": "大兴",
+  "bizcircle": "庞各庄",
+  "build_year": 2016,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/523776/"
+ },
+ {
+  "id": "851129",
+  "name": "奶牛厂宿舍",
+  "district": "大兴",
+  "bizcircle": "观音寺",
+  "build_year": 1994,
+  "price": 48200,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/851129/"
+ },
+ {
+  "id": "869064",
+  "name": "天恒世界集",
+  "district": "大兴",
+  "bizcircle": "西红门",
+  "build_year": 2017,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869064/"
+ },
+ {
+  "id": "81001",
+  "name": "天尊苑",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 1996,
+  "price": 21000,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/81001/"
+ },
+ {
+  "id": "368994",
+  "name": "易居国际",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2012,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/368994/"
+ },
+ {
+  "id": "80858",
+  "name": "青云里小区",
+  "district": "大兴",
+  "bizcircle": "磁各庄",
+  "build_year": 2015,
+  "price": 8100,
+  "online": 2,
+  "url": "https://m.anjuke.com/bj/community/80858/"
+ },
+ {
+  "id": "174033",
+  "name": "荣京丽都",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2008,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/174033/"
+ },
+ {
+  "id": "869029",
+  "name": "好景国际",
+  "district": "大兴",
+  "bizcircle": "亦庄",
+  "build_year": 2011,
+  "price": null,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/869029/"
+ },
+ {
+  "id": "851686",
+  "name": "榆垡小城镇",
+  "district": "大兴",
+  "bizcircle": "新航城",
+  "build_year": 2003,
+  "price": 14100,
+  "online": 0,
+  "url": "https://m.anjuke.com/bj/community/851686/"
+ }
+]

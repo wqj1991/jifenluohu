@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+data/*.db
+data/*.db-*
+
+# 抓取凭证（链家登录态 cookie，明文，绝不入库）
+data/*.cookie
+data/cookies-*.json
+
+# 构建/类型缓存
+tsconfig.tsbuildinfo
+*.log
+
+# 设计/代理临时产物
+.impeccable

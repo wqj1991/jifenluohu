@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-02T08:45:42.900Z",
+  "district": "tongzhou",
+  "rows": [
+    {
+      "site": "5i5j",
+      "url": "https://m.5i5j.com/bj/xiaoqu/tongzhouqu/p1/",
+      "status": 200,
+      "len": 285348,
+      "verdict": {
+        "blocked": false,
+        "kind": null,
+        "evidence": "解析 40 条"
+      },
+      "parsed": 40,
+      "channel": "direct",
+      "solved": null,
+      "raw": "D:\\dsh\\cache\\tmp\\fc\\probe_5i5j_tongzhou.json"
+    }
+  ]
+}

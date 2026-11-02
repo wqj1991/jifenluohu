@@ -1,0 +1,3692 @@
+[
+ {
+  "poi_id": "B000A81HEV",
+  "name": "林肯公园C区",
+  "address": "文化园西路7号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.491451,
+  "lat": 39.804246,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJ7SUS0",
+  "name": "林肯公园",
+  "address": "北环西路8号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.493307,
+  "lat": 39.805309,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFYSXYF",
+  "name": "南海家园",
+  "address": "泰河一街与博兴八路交叉口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.490798,
+  "lat": 39.760896,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF5651O",
+  "name": "林肯公园B区",
+  "address": "北环西路(亦庄文化园地铁站B1东口步行290米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.495598,
+  "lat": 39.806364,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FX7W",
+  "name": "南海家园六里",
+  "address": "博兴八路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.494791,
+  "lat": 39.760076,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FX8C",
+  "name": "南海家园七里",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.494299,
+  "lat": 39.756993,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA8IIQ",
+  "name": "南海家园二里",
+  "address": "泰河一街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.489696,
+  "lat": 39.76301,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FVTY",
+  "name": "南海家园四里",
+  "address": "泰河二街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.484344,
+  "lat": 39.760595,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FXGR",
+  "name": "南海家园一里",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.484428,
+  "lat": 39.763282,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFVEXYO",
+  "name": "长丰园",
+  "address": "黄村镇长丰园社区1区20号楼西侧",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.289326,
+  "lat": 39.781451,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGFVDK7",
+  "name": "香海园",
+  "address": "高米店街道兴业大街3号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.318315,
+  "lat": 39.776001,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGLK10E",
+  "name": "首座御园",
+  "address": "团河苑小区对面",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.366388,
+  "lat": 39.748678,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFS36TB",
+  "name": "首座御园3期",
+  "address": "科苑路30号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.365428,
+  "lat": 39.75437,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFQ6FY9",
+  "name": "首座御园2期",
+  "address": "清泰路与东环路交叉口西200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.366402,
+  "lat": 39.749856,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8ZKTD",
+  "name": "珺悦国际",
+  "address": "中关村科技园区大兴生物医药产业基地·天华大街9号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.31342,
+  "lat": 39.686298,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83XGF",
+  "name": "枣园小区",
+  "address": "清源街道丽园路24号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.327169,
+  "lat": 39.751542,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H2Y7WQI6",
+  "name": "德贤华府",
+  "address": "林校路街道埝坛村社区兴良路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.309439,
+  "lat": 39.697514,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9LE68",
+  "name": "首开康乃馨",
+  "address": "清源街道康馨园社区丽园路30号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.3119,
+  "lat": 39.74845,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAK6JJ",
+  "name": "首邑溪谷",
+  "address": "高米店街道康邑园社区兴泰街5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.310189,
+  "lat": 39.760212,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9PHMH",
+  "name": "国锐·金嵿",
+  "address": "荣华南路1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.509022,
+  "lat": 39.790216,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A887UK",
+  "name": "保利茉莉公馆",
+  "address": "高米店街道茉莉社区兴华大街二段19号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.328861,
+  "lat": 39.774963,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHE865U",
+  "name": "龙湖时代天街东区",
+  "address": "天宫院街道兴宇社区永兴路5号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.323739,
+  "lat": 39.686403,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8VJ18",
+  "name": "荣京道",
+  "address": "亦庄地盛北街1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.496081,
+  "lat": 39.785261,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844I2",
+  "name": "金地格林小镇",
+  "address": "天宝中街2号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.49563,
+  "lat": 39.793146,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8X6HL",
+  "name": "时代·龙和大道",
+  "address": "兴丰街道黄村东里社区富强路4号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.342453,
+  "lat": 39.735135,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7QAOC",
+  "name": "上海沙龙",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.49775,
+  "lat": 39.78911,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L6XHV1ZB",
+  "name": "南街福苑",
+  "address": "万源南路与西万路交叉口东160米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.433065,
+  "lat": 39.799012,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG6H3Q2",
+  "name": "理想家园",
+  "address": "西红门镇宏业西区社区宏业路2号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.341292,
+  "lat": 39.783371,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A87JHT",
+  "name": "清和园",
+  "address": "万源北路77号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.433844,
+  "lat": 39.805689,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFNOKXX",
+  "name": "瑞海家园",
+  "address": "西红门瑞海社区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.33304,
+  "lat": 39.785532,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HAQ",
+  "name": "瑞海二区",
+  "address": "西红门镇宏业路207号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.331737,
+  "lat": 39.78655,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9PJ8V",
+  "name": "旧宫新苑南区",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.454474,
+  "lat": 39.798681,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7R5N8",
+  "name": "郁花园一里",
+  "address": "高米店街道香园路3号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.338133,
+  "lat": 39.774472,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A85UAC",
+  "name": "郁花园三里",
+  "address": "高米店街道双高路7号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.333091,
+  "lat": 39.771298,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFM4ZBB2",
+  "name": "郁花园",
+  "address": "双高路7-27号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.335928,
+  "lat": 39.774498,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HAE",
+  "name": "郁花园二里",
+  "address": "高米店街道兴丰大街7-24号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.333002,
+  "lat": 39.774539,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFQ27EE",
+  "name": "瀛海家园",
+  "address": "瀛海镇瀛坤路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.436589,
+  "lat": 39.76274,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G2S7L6XG",
+  "name": "西红门·河马公舍",
+  "address": "宏旭东路2号院西红门(河马公舍超市门口)",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.3654,
+  "lat": 39.786453,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9EUTP",
+  "name": "保利·春天里",
+  "address": "天宫院街道中里社区思邈路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.322009,
+  "lat": 39.672547,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG4ZD6O",
+  "name": "恒大未来城",
+  "address": "林校路街道永华南里社区新源大街地铁4号线义和庄站北200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.314601,
+  "lat": 39.714346,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9WZZ0",
+  "name": "鸿坤理想城礼域府",
+  "address": "西红门镇欣旺北大街10号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.342006,
+  "lat": 39.79389,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFINHHKW",
+  "name": "广安康璟家园",
+  "address": "隆华路8号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.454205,
+  "lat": 39.795797,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FXG6",
+  "name": "南海家园五里",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.489409,
+  "lat": 39.760425,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A87ECU",
+  "name": "清城南区",
+  "address": "兴丰街道兴华大街11号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.328836,
+  "lat": 39.736199,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9EUJE",
+  "name": "天宫院小区",
+  "address": "天宫院街道天宫院社区庆丰西路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.322821,
+  "lat": 39.68,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG96VFN",
+  "name": "首座御园1期",
+  "address": "兴亦路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.36686,
+  "lat": 39.744653,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XIKI",
+  "name": "金色漫香林",
+  "address": "小羊坊中路与三羊一条交叉口西北160米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.523923,
+  "lat": 39.823631,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFWN8JP",
+  "name": "庑殿家苑",
+  "address": "庑殿路18号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.432999,
+  "lat": 39.82001,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8YAMH",
+  "name": "鹿海园小区",
+  "address": "泰河路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.500616,
+  "lat": 39.758696,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9IR7K",
+  "name": "鹿海园五里",
+  "address": "亦庄泰河二街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.498765,
+  "lat": 39.756394,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XBVY",
+  "name": "鹿海园四里",
+  "address": "泰河一街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.503509,
+  "lat": 39.75831,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJQ2KLT",
+  "name": "礼贤家园",
+  "address": "青礼路与军工路交叉口东180米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.463541,
+  "lat": 39.562896,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0G662",
+  "name": "南海家园三里",
+  "address": "亦庄经济开发区泰和一街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.496083,
+  "lat": 39.762649,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8W48T",
+  "name": "亦城茗苑",
+  "address": "博兴六路泰河园五里",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.510127,
+  "lat": 39.763088,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFQ72IX",
+  "name": "金科嘉苑",
+  "address": "天宫院街道北里社区永旺路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.32399,
+  "lat": 39.683154,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XFCR",
+  "name": "金融街·融汇",
+  "address": "天宫院街道融汇社区华佗路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.322862,
+  "lat": 39.676733,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81JOK",
+  "name": "原生墅",
+  "address": "高米店街道康和园社区康庄路80号",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.325685,
+  "lat": 39.760242,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJKNOVA",
+  "name": "亦庄金茂府",
+  "address": "四海路9号院",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.484526,
+  "lat": 39.747403,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844QK",
+  "name": "清源西里小区",
+  "address": "清源街道清源路1-3号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.335119,
+  "lat": 39.744259,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFVFP9G",
+  "name": "中建·国际港",
+  "address": "清源街道国际港社区枣园路3号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.330104,
+  "lat": 39.755561,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA5E0T",
+  "name": "金域东郡",
+  "address": "千顷堂街与四合路交叉口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.487824,
+  "lat": 39.753772,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFYSLRY",
+  "name": "永旭嘉园",
+  "address": "瀛永街46号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.436283,
+  "lat": 39.754998,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HAL",
+  "name": "同兴园",
+  "address": "西红门镇同兴社区槐房西路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.364531,
+  "lat": 39.795425,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0G5MX",
+  "name": "北京城建·海梓府",
+  "address": "四海路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.484202,
+  "lat": 39.757649,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8453Z",
+  "name": "泰中花园",
+  "address": "工业开发区广茂大街5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.346453,
+  "lat": 39.761251,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83XG1",
+  "name": "兴海家园日苑",
+  "address": "西红门镇宏福路260号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.33175,
+  "lat": 39.792538,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A88E8M",
+  "name": "兴海家园",
+  "address": "西红门日月星社区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.333786,
+  "lat": 39.792587,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0GUOA2JOK",
+  "name": "洺悦湾",
+  "address": "旧宫镇承庆街1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.466401,
+  "lat": 39.806018,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83E84",
+  "name": "德茂小区",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.4343,
+  "lat": 39.781439,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G0UAM19A",
+  "name": "中海京叁号院",
+  "address": "博兴七路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.497806,
+  "lat": 39.753505,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFW4RY7",
+  "name": "车站北里小区",
+  "address": "林校路街道兴政街28号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.335923,
+  "lat": 39.72623,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAERWB",
+  "name": "福苑小区",
+  "address": "科苑路与广茂大街交叉口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.350518,
+  "lat": 39.754875,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G3P7TFWS",
+  "name": "颂善园",
+  "address": "龙善大街5号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.41876,
+  "lat": 39.676893,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A886V4",
+  "name": "住总·兴康家园",
+  "address": "清源街道康庄路52号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.309788,
+  "lat": 39.754799,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A88DJK",
+  "name": "清欣园",
+  "address": "旧宫镇旧宫西路5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.440963,
+  "lat": 39.807103,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A881OG",
+  "name": "大东新村",
+  "address": "青云店镇",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.527707,
+  "lat": 39.676692,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHQNJ5Q",
+  "name": "金茂逸墅",
+  "address": "四海路7号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.484235,
+  "lat": 39.751032,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7J6FF",
+  "name": "育龙家园",
+  "address": "旧忠路9号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.448889,
+  "lat": 39.801434,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGDUKI6",
+  "name": "天恒·世界集",
+  "address": "西红门广平大街与盛坊路交汇处西北角",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.357733,
+  "lat": 39.769982,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0I66UH2FT",
+  "name": "福海佳园",
+  "address": "观音寺街道广茂大街68号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.349951,
+  "lat": 39.751471,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IBUUVLKB",
+  "name": "橡树湾",
+  "address": "福伟路四条与福兴路交叉口西北260米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.354763,
+  "lat": 39.786878,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7OWYI",
+  "name": "芳源里",
+  "address": "南小街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.417124,
+  "lat": 39.784371,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7PL7U",
+  "name": "金惠园三里",
+  "address": "香园路28号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.325201,
+  "lat": 39.771497,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IUMLGFNW",
+  "name": "壹品兴创·御璟星城",
+  "address": "西红门四村南西路20号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.35568,
+  "lat": 39.791292,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HJK",
+  "name": "滨河西里(丽园路)",
+  "address": "清源街道办事处党群部黄村",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.339329,
+  "lat": 39.750678,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0I6LC2MOU",
+  "name": "润棠·瀛海",
+  "address": "瀛坤路与瀛元街交汇处西行100米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.437654,
+  "lat": 39.750744,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0J2OHCZ84",
+  "name": "中建·玖玥府",
+  "address": "红华路与宏福东路交叉口西南200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.357754,
+  "lat": 39.788711,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHVEACZ",
+  "name": "佟馨家园",
+  "address": "佟家场西巷与佟家场巷交叉口东120米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.313685,
+  "lat": 39.725329,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UC97",
+  "name": "宣颐家园",
+  "address": "旧宫镇小红门路28号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.452204,
+  "lat": 39.811656,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G2D7MP1L",
+  "name": "居善园",
+  "address": "龙善大街10号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.423123,
+  "lat": 39.677049,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UDZM",
+  "name": "贵园南里",
+  "address": "西环北路与亦兴西路交汇处西北方",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.48148,
+  "lat": 39.793677,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJBH92J",
+  "name": "熙悦林语",
+  "address": "旧宫五环路与德贤路交叉口东南",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.43828,
+  "lat": 39.786927,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG4PRPJ",
+  "name": "育新花园北里",
+  "address": "育胜街附近",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.63607,
+  "lat": 39.662541,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFH01I80",
+  "name": "首创·美澜湾",
+  "address": "沐新路东侧",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.371744,
+  "lat": 39.734609,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7VQIV",
+  "name": "成和园",
+  "address": "庑殿路15号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.43415,
+  "lat": 39.816215,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83XJ8",
+  "name": "康盛园",
+  "address": "高米店街道康盛园社区金星西路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.314949,
+  "lat": 39.761598,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA4O0B",
+  "name": "住总·万科橙",
+  "address": "天宫院街道新源时代中里社区天和西路2号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.32341,
+  "lat": 39.689971,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAEMAF",
+  "name": "观音寺小区",
+  "address": "观音寺街道北里社区观音寺街20号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.349124,
+  "lat": 39.727869,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844K0",
+  "name": "小康家园",
+  "address": "亦庄经济技术开发区小羊坊东路3号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.521368,
+  "lat": 39.820527,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JAZU9NK6",
+  "name": "集贤雅苑南区",
+  "address": "吉庆庄路与万吉路交叉口东南200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.437656,
+  "lat": 39.800777,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81JF8",
+  "name": "团河苑小区",
+  "address": "德仁街与福义路交叉口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.371735,
+  "lat": 39.738759,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7ZKJE",
+  "name": "灵秀山庄",
+  "address": "旧头路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.460258,
+  "lat": 39.798395,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7IYW8",
+  "name": "新居里",
+  "address": "观音寺街道团河路北",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.357972,
+  "lat": 39.74005,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8W35X",
+  "name": "联港嘉园",
+  "address": "文新南街273号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.295583,
+  "lat": 39.700189,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UE48",
+  "name": "新康家园",
+  "address": "亦庄经济技术开发区北环西路与科慧大道交叉路口东南方向",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.488516,
+  "lat": 39.799904,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83XF9",
+  "name": "富强西里",
+  "address": "兴丰街道富强路21号(清源路地铁站C东南口步行340米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.334688,
+  "lat": 39.739063,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HAP",
+  "name": "瑞海五区",
+  "address": "西红门镇宏旭路190号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.336776,
+  "lat": 39.783498,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHCWOQQ",
+  "name": "首开龙湖天琅",
+  "address": "瀛裕街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.440802,
+  "lat": 39.766291,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81KR5",
+  "name": "清逸园小区",
+  "address": "旧宫东西大街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.445377,
+  "lat": 39.803598,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG96QSM",
+  "name": "华远西红世",
+  "address": "广平大街和金西路交叉口(西红门星光视界中心对面)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.357637,
+  "lat": 39.771281,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAIZWV",
+  "name": "中冶德贤公馆",
+  "address": "德贤东路6号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.429264,
+  "lat": 39.820031,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFOBFSB",
+  "name": "保利首开·熙悦春天",
+  "address": "天宫院街道南里社区思邈路2号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.321742,
+  "lat": 39.668177,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFH55X0S",
+  "name": "滨河西里(南区)",
+  "address": "兴丰大街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.339681,
+  "lat": 39.747711,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UCCV",
+  "name": "三羊里",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.516312,
+  "lat": 39.818865,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8453H",
+  "name": "兴海家园月苑",
+  "address": "西红门镇宏福路292号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.33659,
+  "lat": 39.793457,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XRLM",
+  "name": "金融街·金色漫香郡",
+  "address": "海鑫北路18号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.400532,
+  "lat": 39.714032,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA4H0I",
+  "name": "新源时代小区",
+  "address": "天宫院街道新源时代社区纪百户街16号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.326765,
+  "lat": 39.689894,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83JC7",
+  "name": "云龙家园",
+  "address": "南场路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.434426,
+  "lat": 39.807614,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0HGXAYYII",
+  "name": "隆兴园三里",
+  "address": "隆平大街2号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.307509,
+  "lat": 39.634413,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HEL",
+  "name": "兴海园",
+  "address": "瀛海镇黄亦路与京福路交叉(瀛海地铁站B1东北口步行450米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.451221,
+  "lat": 39.764831,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHHLH1Z",
+  "name": "丽园",
+  "address": "丽园B区27号楼4号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.32015,
+  "lat": 39.75148,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AAEU9U",
+  "name": "中信新城",
+  "address": "三海子东路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.483934,
+  "lat": 39.783465,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA1WYO",
+  "name": "国韵村小区",
+  "address": "德贤东路8号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.430456,
+  "lat": 39.817919,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A887NF",
+  "name": "新里西斯莱公馆",
+  "address": "高米店街道绿地社区金星西路9号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.338123,
+  "lat": 39.76509,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83XFS",
+  "name": "首邑上城",
+  "address": "清源街道枣园东里北区社区兴丰大街(二段)29号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.334304,
+  "lat": 39.756886,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHEJ0H5",
+  "name": "亦庄金茂悦北区",
+  "address": "金茂悦北区南门",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.484486,
+  "lat": 39.754514,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7IB7O",
+  "name": "那尔水晶城",
+  "address": "清源街道滨河北里社区康庄路10号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.338504,
+  "lat": 39.756825,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A88E8F",
+  "name": "润星家园",
+  "address": "庑殿路54号",
+  "adname": "大兴区",
+  "typecode": "120302|060200",
+  "lng": 116.443858,
+  "lat": 39.816634,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7VQXL",
+  "name": "清逸西园",
+  "address": "庑殿路与旧宫东西大街交叉口西南角",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.443312,
+  "lat": 39.803387,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAEAD9",
+  "name": "波普中心",
+  "address": "清源街道兴华大街二段3号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.331358,
+  "lat": 39.748188,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AAAJAU",
+  "name": "瀛海家园三里",
+  "address": "瀛吉街与瀛坤路交叉口西140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.434403,
+  "lat": 39.763863,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0GRC5BYFQ",
+  "name": "保利绿城和锦诚园",
+  "address": "南海子公园西门100米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.440021,
+  "lat": 39.783955,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A87761",
+  "name": "清城北区",
+  "address": "兴丰街道富强路135号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.328435,
+  "lat": 39.738667,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HES",
+  "name": "赢海庄园",
+  "address": "凉水河一街37号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.489689,
+  "lat": 39.779389,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A85F30",
+  "name": "亦庄·北岸",
+  "address": "旧宫镇旧头路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.463436,
+  "lat": 39.797548,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7YNR3",
+  "name": "北京中芯花园",
+  "address": "凉水河二街泰河园四里三区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.506576,
+  "lat": 39.763864,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7HJ1M",
+  "name": "富源里",
+  "address": "亦庄开发区亦庄镇",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.476476,
+  "lat": 39.800887,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA1XM1",
+  "name": "鑫苑·鑫都汇",
+  "address": "天宫院街道新源时代西里社区永大路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.320578,
+  "lat": 39.689333,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFHVPX9",
+  "name": "瀛海家园一里融园",
+  "address": "瀛坤路3号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.43469,
+  "lat": 39.760722,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KK3SWWXI",
+  "name": "南街福苑聚德路1号院",
+  "address": "万源北路91号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.431988,
+  "lat": 39.800533,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UD2Q",
+  "name": "大雄郁金香舍",
+  "address": "亦庄开发区亦庄天宝园六里",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.501546,
+  "lat": 39.792538,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A87W1P",
+  "name": "东亚·马赛公馆",
+  "address": "清源街道康秀园社区圣和巷",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.314182,
+  "lat": 39.745274,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RH0V",
+  "name": "怡兴园",
+  "address": "林校路街道兴华南里社区兴华南路5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.329001,
+  "lat": 39.730554,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A884Y9",
+  "name": "兴盛街187号院",
+  "address": "康庄路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.316178,
+  "lat": 39.755251,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JAO155RD",
+  "name": "天恒旭辉7号院",
+  "address": "繁荣路与隆华大街交叉口东南240米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.302534,
+  "lat": 39.634397,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGKHCWB",
+  "name": "亦庄金茂悦南区",
+  "address": "亦庄北京市经济技术开发区四海路18号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.487381,
+  "lat": 39.751333,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JGRS803L",
+  "name": "敬贤家园北里",
+  "address": "知礼街与英贤路交叉口东160米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.468629,
+  "lat": 39.573053,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7VRQ9",
+  "name": "卡尔生活馆",
+  "address": "亦庄开发区荣京西街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.493632,
+  "lat": 39.78739,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFLKVYY1",
+  "name": "和悦春风",
+  "address": "永兴河与瓜乡路交汇处西南角",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.315476,
+  "lat": 39.619116,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGMEZ8H",
+  "name": "燕保·高米店家园",
+  "address": "景明路16号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.346681,
+  "lat": 39.765818,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8W7BG",
+  "name": "盛嘉华苑",
+  "address": "团河路48号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.353937,
+  "lat": 39.735602,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A868YP",
+  "name": "国际E庄",
+  "address": "亦庄镇BDA国际港经海四路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.531262,
+  "lat": 39.818701,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XFTX",
+  "name": "富力·盛悦居",
+  "address": "旧桥路1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.454254,
+  "lat": 39.805793,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G31ZVWMB",
+  "name": "首开龙湖熙悦宸著",
+  "address": "西红门二村长盛东路58号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.349854,
+  "lat": 39.794924,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFK10KUK",
+  "name": "国瑞·瑞福园",
+  "address": "瀛海镇瀛安街39号院(瀛海地铁站A西北口步行230米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.445394,
+  "lat": 39.76231,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA68C5",
+  "name": "亦庄金茂悦",
+  "address": "亦庄经济技术开发区四海路18号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.485765,
+  "lat": 39.753108,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A88DIT",
+  "name": "美利新世界",
+  "address": "旧宫宣颐路42号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.445866,
+  "lat": 39.814504,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0HAN5N0T6",
+  "name": "和悦华锦",
+  "address": "兴亦路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.493708,
+  "lat": 39.746876,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8VU98",
+  "name": "林肯公园2期",
+  "address": "天华东路与北环西路交叉口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.492221,
+  "lat": 39.805818,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJ7SUH8",
+  "name": "贵园北里",
+  "address": "贵园热力收费楼1层",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.476473,
+  "lat": 39.799358,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8D5UG",
+  "name": "庑殿家苑A区",
+  "address": "庑殿路附近",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.432525,
+  "lat": 39.821061,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF0FXC1",
+  "name": "中信新城西区",
+  "address": "鹿华路1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.482091,
+  "lat": 39.783174,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844GL",
+  "name": "滨河西里北区",
+  "address": "清源街道",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.338896,
+  "lat": 39.754494,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFAENLK",
+  "name": "铁五院",
+  "address": "清源街道康庄路9号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.337319,
+  "lat": 39.759893,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHELYN6",
+  "name": "文锦苑西区",
+  "address": "德茂街15号(德茂地铁站B2东北口步行450米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.4423,
+  "lat": 39.773742,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFFKRWK",
+  "name": "华润·公元九里",
+  "address": "高米店街道香乐园社区乐园路20号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.319403,
+  "lat": 39.765109,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGXSL1X",
+  "name": "新安里",
+  "address": "黄村镇团河路口向北",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.353539,
+  "lat": 39.739232,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFH147PH",
+  "name": "泰河园小区",
+  "address": "凉水河二街与博兴八路交叉口东南140米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.501756,
+  "lat": 39.76638,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HJZ",
+  "name": "双河北里",
+  "address": "观音寺街道团河路1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.348088,
+  "lat": 39.739641,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA71BV",
+  "name": "富力·丹麦小镇D区",
+  "address": "庞各庄",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.309375,
+  "lat": 39.628501,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8X3WN",
+  "name": "润枫·锦尚",
+  "address": "德贤路239号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.428662,
+  "lat": 39.790737,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHQ2WB7",
+  "name": "佟馨家园A区",
+  "address": "兴丰街道佟馨家园北里社区佟前路20号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.312067,
+  "lat": 39.725819,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81IQJ",
+  "name": "观音寺小区南里",
+  "address": "观音寺街道双观巷南",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.349591,
+  "lat": 39.723947,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844N3",
+  "name": "泰河园三里",
+  "address": "凉水河二街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.502105,
+  "lat": 39.765225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UW7C",
+  "name": "泰河园一里一区",
+  "address": "亦庄镇凉水河一街与博兴八路交叉路口东南角(北京电子科技职业学院西南侧)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.50282,
+  "lat": 39.768181,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844NB",
+  "name": "境界家园",
+  "address": "亦庄经济技术开发区天宝北街",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.485565,
+  "lat": 39.796299,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFHFDHT",
+  "name": "华远·和墅",
+  "address": "黄村镇",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.401674,
+  "lat": 39.703203,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFIKW9PQ",
+  "name": "金地仰山",
+  "address": "高米店街道香旺园社区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.313404,
+  "lat": 39.765219,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83JYT",
+  "name": "贵园南里丙区",
+  "address": "西环北路与亦兴西路交汇处西北方",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.483326,
+  "lat": 39.792228,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A868X7",
+  "name": "明悦湾",
+  "address": "五福堂北路1(五福堂地铁站D西南口步行210米)",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.422796,
+  "lat": 39.784606,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G0DU9KNJ",
+  "name": "瀛海家园二里",
+  "address": "瀛坤路4号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.439212,
+  "lat": 39.763637,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8WKKG",
+  "name": "鸿坤·曦望山",
+  "address": "西红门镇欣清社区欣荣南大街5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.34135,
+  "lat": 39.786202,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHFROC0",
+  "name": "芳苑小区",
+  "address": "小羊坊东路1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.529556,
+  "lat": 39.82407,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LRP9RRDM",
+  "name": "泊寓院儿(旧宫芯社区)",
+  "address": "永慕路3号院",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.457607,
+  "lat": 39.795548,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFH0RFS9",
+  "name": "清逸园东区",
+  "address": "旧宫镇旧宫东路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.447879,
+  "lat": 39.803851,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81HAB",
+  "name": "长丰园三区",
+  "address": "世界公园南3公里芦花路临73号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.291732,
+  "lat": 39.779441,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7VQXX",
+  "name": "瑞康家园",
+  "address": "兴丰街道龙河街49号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.342029,
+  "lat": 39.739248,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JUS5F4U2",
+  "name": "招商玺",
+  "address": "北京城区博兴六路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.501535,
+  "lat": 39.752703,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF6VENB",
+  "name": "天华园二里二区",
+  "address": "北京经济技术开发区亦庄经济开发区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.494427,
+  "lat": 39.801347,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJ5Y7AP",
+  "name": "海晏春秋",
+  "address": "瀛海路",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.441786,
+  "lat": 39.761705,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A9PSNR",
+  "name": "康庄路50号院",
+  "address": "康庄路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.313079,
+  "lat": 39.755754,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHHODOE",
+  "name": "清城",
+  "address": "黄村卫星城兴华大街13号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.328615,
+  "lat": 39.737297,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHVU931",
+  "name": "首座御园2期清泰路2号院",
+  "address": "海子角南街",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.366334,
+  "lat": 39.748425,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA1H65",
+  "name": "格林云墅",
+  "address": "安顺北路与盛顺街交叉口西260米",
+  "adname": "大兴区",
+  "typecode": "120301",
+  "lng": 116.401521,
+  "lat": 39.708111,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A81J9V",
+  "name": "瑞海三区",
+  "address": "西红门镇宏旭路262号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.332243,
+  "lat": 39.783776,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UVOZ",
+  "name": "丽园C区",
+  "address": "清源街道丽园南区社区圣和巷5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.320221,
+  "lat": 39.749067,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844GN",
+  "name": "听涛雅苑",
+  "address": "天华西路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.490907,
+  "lat": 39.798089,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LUAAFU81",
+  "name": "中国化学·永定东府",
+  "address": "北京市大兴区芦花路73号",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.297801,
+  "lat": 39.77149,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A88IUI",
+  "name": "远洋天著",
+  "address": "小羊坊南街与三羊二条交叉口西南200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.524674,
+  "lat": 39.81897,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFLPGDON",
+  "name": "中国铁建国际公馆",
+  "address": "博兴十路与兴海一街交叉口东100米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.490351,
+  "lat": 39.749749,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHRC645",
+  "name": "南海雅苑南区",
+  "address": "百意街1号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.478024,
+  "lat": 39.784259,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHH5Q0K",
+  "name": "兴海家园星苑",
+  "address": "西红门镇宏福路166号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.336293,
+  "lat": 39.791656,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H26UZRG1",
+  "name": "隆兴园",
+  "address": "隆昌大街北段与繁荣路交叉口东南180米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.310796,
+  "lat": 39.634538,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJMR4PX",
+  "name": "大兴金茂悦",
+  "address": "魏善庄镇龙善大街1号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.418381,
+  "lat": 39.684498,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A867F6",
+  "name": "富强东里(兴丰大街)",
+  "address": "兴丰街道兴丰大街24号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.340378,
+  "lat": 39.73992,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFADRHL",
+  "name": "丽园B区",
+  "address": "丽园路30号正北方向190米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.320135,
+  "lat": 39.751556,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L6FCABYR",
+  "name": "福兴雅苑",
+  "address": "饮马井街与饮马井西街交叉口北220米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.338089,
+  "lat": 39.716823,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8UC0H",
+  "name": "美然绿色家园",
+  "address": "旧宫镇旧忠路14号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.45397,
+  "lat": 39.801608,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFZJWJP",
+  "name": "力宝·诗礼庭",
+  "address": "北京经济技术开发区亦庄荣华中路8号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.501855,
+  "lat": 39.804891,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JGRS8MSH",
+  "name": "敬贤家园南里",
+  "address": "文礼街与贺贤路交叉口北240米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.4705,
+  "lat": 39.564138,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFJGBBPJ",
+  "name": "中海云筑",
+  "address": "庞各庄桥西1500米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.307511,
+  "lat": 39.631394,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG71AAI",
+  "name": "旭辉御府",
+  "address": "高米店街道香留园社区乐园路29号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.31441,
+  "lat": 39.767655,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFVJR2T",
+  "name": "西红门路35号院",
+  "address": "西红门路35号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.360401,
+  "lat": 39.794352,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8453U",
+  "name": "宏大北园",
+  "address": "西红门镇九龙社区欣旺北大街16号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.341151,
+  "lat": 39.800241,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFKGR3YA",
+  "name": "亦城亦景",
+  "address": "四海路4号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.487767,
+  "lat": 39.756987,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8ZJ5S",
+  "name": "和成璟园",
+  "address": "东五环大羊坊桥东南角",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.529016,
+  "lat": 39.826109,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFF3A2EA",
+  "name": "御园小区",
+  "address": "民生路3号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.321101,
+  "lat": 39.629028,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7PCOB",
+  "name": "红星北里小区(南场路)",
+  "address": "旧宫红星北里",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.425998,
+  "lat": 39.808318,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A85WWN",
+  "name": "世嘉·博苑",
+  "address": "西红门镇欣宁街67号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.326767,
+  "lat": 39.791717,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0HKB7XXBR",
+  "name": "熙悦林语D区",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.439752,
+  "lat": 39.786276,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H61ZNXVB",
+  "name": "融创公园壹号",
+  "address": "盛通街与海鑫路交叉口西南160米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.405949,
+  "lat": 39.708545,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG4PT0J",
+  "name": "花语府",
+  "address": "德茂街18号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.444534,
+  "lat": 39.774602,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H0VMY89I",
+  "name": "星光里",
+  "address": "北京城区瀛皓路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.429377,
+  "lat": 39.756888,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KU653SAX",
+  "name": "橡树湾一期东区",
+  "address": "欣星巷8号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.356731,
+  "lat": 39.786279,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHDTWYQ",
+  "name": "龙湖时代天街西区",
+  "address": "天宫院街道兴宇西里社区永兴路7号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.319445,
+  "lat": 39.685059,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H644HFMQ",
+  "name": "兴华园",
+  "address": "清源街道彩虹新城社区清源北路209号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.335592,
+  "lat": 39.747899,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IGFUWMVV",
+  "name": "有巢国际公寓社区(北京润棠瀛海店)",
+  "address": "瀛昌街与瀛坤路交叉口西南260米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.437172,
+  "lat": 39.751641,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JR7XIL8W",
+  "name": "蜂客公寓(荣京东街店)",
+  "address": "瀛海镇亦庄开发区永昌北路11号大基医疗东北门附属2号楼",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.514486,
+  "lat": 39.797365,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LRLKMBSD",
+  "name": "颐朵雅苑公寓",
+  "address": "北京经济技术开发区景园北街2号院68号楼607",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.519532,
+  "lat": 39.777406,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LD6XFABU",
+  "name": "君来旺公寓",
+  "address": "垡杨路与垡泥路交叉口西北40米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.476699,
+  "lat": 39.704767,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFIVMZX0",
+  "name": "青年公寓",
+  "address": "博兴六路与凉水河二街交叉口东北220米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.511307,
+  "lat": 39.765969,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A87BWI",
+  "name": "林肯公寓",
+  "address": "北环东路17号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.508006,
+  "lat": 39.810451,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0J19GURG5",
+  "name": "星星长安公寓(新源大街分店)",
+  "address": "新源大街泰禾中央广场(义和庄地铁站B东北口步行360米)",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.31975,
+  "lat": 39.715122,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1VXBXAK",
+  "name": "天天公寓",
+  "address": "南六环与北野场桥交叉口东北80米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.45264,
+  "lat": 39.725768,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LR3RF6N7",
+  "name": "宇轩公寓",
+  "address": "狼垡东路与富安街交叉口南300米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.28488,
+  "lat": 39.784913,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LD24J31D",
+  "name": "一号公寓",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.374017,
+  "lat": 39.754422,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHJEYBJ",
+  "name": "恒通公寓",
+  "address": "黄村镇芦丰路芦城社区东芦城村",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.298066,
+  "lat": 39.750513,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7OMX4",
+  "name": "长兴公寓",
+  "address": "兴政街14号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.34241,
+  "lat": 39.726114,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MGGO4O5K",
+  "name": "璟城公寓",
+  "address": "青云店镇北店街南一条6号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.481787,
+  "lat": 39.724343,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MG1OU1VV",
+  "name": "北店中路西二排公寓",
+  "address": "北店村西二排三号公寓",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.480887,
+  "lat": 39.722907,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MB2R18FF",
+  "name": "北辛屯村中街北二条8号公寓",
+  "address": "京福路926号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.471685,
+  "lat": 39.724538,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MATLXHF2",
+  "name": "北辛屯村南街15号公寓",
+  "address": "京福路926号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.473359,
+  "lat": 39.723171,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MATLX5J9",
+  "name": "北辛屯村中街9号公寓",
+  "address": "京福路926号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.471841,
+  "lat": 39.724065,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MA6UL3JC",
+  "name": "紫水公寓",
+  "address": "北店村3号院",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.481434,
+  "lat": 39.72419,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MA3MYKFL",
+  "name": "北辛屯村中街南二条7号公寓",
+  "address": "京福路926号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.473519,
+  "lat": 39.72349,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M6MKU3RN",
+  "name": "小哈换电北京市大兴区(洛珊)先锋公寓",
+  "address": "双河北里",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.346194,
+  "lat": 39.739498,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M1NLV272",
+  "name": "嘉和公寓",
+  "address": "北店村前街2号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.481934,
+  "lat": 39.723791,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M1HA21WH",
+  "name": "建新公寓",
+  "address": "京福路7号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.455508,
+  "lat": 39.726516,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LDYU1IW6",
+  "name": "北京建工人才公寓",
+  "address": "旧宫镇德久路1号院",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.435429,
+  "lat": 39.821958,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LAV12FUQ",
+  "name": "未来云城方隅公寓C栋",
+  "address": "弘和南路与安源巷交叉口东北120米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.325091,
+  "lat": 39.721375,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LA6H7D4T",
+  "name": "采育人才公寓",
+  "address": "育政街北京绿康源医院",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.660704,
+  "lat": 39.649908,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1Z5MUXX",
+  "name": "桐城公寓",
+  "address": "青云店镇北店村",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.481178,
+  "lat": 39.724764,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L19OIRCE",
+  "name": "富士康公寓",
+  "address": "同济中路与锦绣街交叉口西北200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.526882,
+  "lat": 39.79036,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1355QSO",
+  "name": "安心公寓圆月院",
+  "address": "霍村公园附近",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.378582,
+  "lat": 39.715911,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L06ZNM21",
+  "name": "北店村发达公寓",
+  "address": "北店村前街29号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.4785,
+  "lat": 39.722942,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KR6LH3NY",
+  "name": "采育蓝领公寓A区",
+  "address": "采育镇玉胜街采和路交口",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.660137,
+  "lat": 39.6499,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KKDZ4YL4",
+  "name": "兴安健康公寓四组团",
+  "address": "榆创路与祥和街交叉口东南约140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.334525,
+  "lat": 39.519787,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0K2UU25R2",
+  "name": "中节能首座人才公寓6号楼",
+  "address": "宏康东路37号院中国节能·北京首座",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.358696,
+  "lat": 39.781397,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JUFB9UPT",
+  "name": "北京未来云城方隅服务公寓AB座",
+  "address": "太福路与安源巷交叉口东北120米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.326232,
+  "lat": 39.720188,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0J09AU1VU",
+  "name": "方隅公寓",
+  "address": "兴华大街41号",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.325099,
+  "lat": 39.721248,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IRNLV1AE",
+  "name": "北京新航城兴航公寓A区",
+  "address": "礼贤镇西里路",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.433317,
+  "lat": 39.545355,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IRGACGS0",
+  "name": "马村锦城公寓",
+  "address": "兴良路马村",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.261825,
+  "lat": 39.693464,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IDKHJRH8",
+  "name": "兴安健康公寓二组团",
+  "address": "榆创路与祥和街交叉口东南约140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.334534,
+  "lat": 39.521234,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IDK5HX5G",
+  "name": "兴安健康公寓三组团",
+  "address": "榆创路与祥和街交叉口东南约140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.332234,
+  "lat": 39.519778,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0I375QHTY",
+  "name": "拾光悦公寓",
+  "address": "龙发大街1号院",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.397188,
+  "lat": 39.678233,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0H0713DSV",
+  "name": "煜都置城公寓",
+  "address": "富新街置城公寓",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.279415,
+  "lat": 39.790829,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0G221XHOK",
+  "name": "永浩公寓(东院)",
+  "address": "狼垡东路西150米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.288281,
+  "lat": 39.778408,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFLDDCOW",
+  "name": "大兴南航公寓",
+  "address": "礼贤镇居泰路与航泰街交汇处东南70米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.427934,
+  "lat": 39.527761,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFL9PNT2",
+  "name": "采育蓝领公寓",
+  "address": "育政街19号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.660514,
+  "lat": 39.650006,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGYZY7E",
+  "name": "绿地财富中心公寓",
+  "address": "金星西路与兴丰大街交叉口西120米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.333746,
+  "lat": 39.763755,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8VMRM",
+  "name": "运动员公寓(兴政街)",
+  "address": "兴政街2号",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.345595,
+  "lat": 39.725711,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA6S0G",
+  "name": "大东社区百合公寓",
+  "address": "青云店镇大东公社",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.534679,
+  "lat": 39.674229,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8453C",
+  "name": "星光公寓",
+  "address": "西红门镇星光社区宏旭路",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.345584,
+  "lat": 39.786684,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A844GP",
+  "name": "天华园二里东晶国际公寓",
+  "address": "亦庄开发区亦庄天华园二里三区",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.493738,
+  "lat": 39.799655,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A83X1W",
+  "name": "金泰公寓",
+  "address": "北环东路3号院1",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.505608,
+  "lat": 39.809455,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7VQIZ",
+  "name": "创兴公寓",
+  "address": "黄村镇兴政街甲12号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.343068,
+  "lat": 39.727108,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFICUROB",
+  "name": "北京信诚公寓",
+  "address": "永兴路与天华大街交叉口西北180米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.313774,
+  "lat": 39.685672,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M1A7H1PP",
+  "name": "药谷一号21号公寓楼",
+  "address": "天富大街9号",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.300481,
+  "lat": 39.683156,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1PX9XAH",
+  "name": "鑫嘉鹭职工公寓",
+  "address": "林校北路5-8号(黄村火车站地铁站C东南口步行290米)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.336275,
+  "lat": 39.722952,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KUZCOOAV",
+  "name": "北京建筑大学大兴校区硕博公寓",
+  "address": "黄鹅路与求实路交叉口东南160米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.28817,
+  "lat": 39.752057,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0I2OURSAD",
+  "name": "北京石油化工学院11号学生公寓",
+  "address": "丽园路与兴业大街交叉口东320米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.326369,
+  "lat": 39.749894,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFM4BKK5",
+  "name": "学生公寓",
+  "address": "隆顺大街与甜园路交叉口北160米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.307293,
+  "lat": 39.61884,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFHGGGOL",
+  "name": "北京石油化工学院男生公寓",
+  "address": "清源北路19号北京石油化工学院",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.324568,
+  "lat": 39.748806,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGBC2JG",
+  "name": "北京市应用高级技术学校公寓楼",
+  "address": "国家新媒体产业基地",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.34828,
+  "lat": 39.759808,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8VTLC",
+  "name": "北京石油化工学院学生公寓",
+  "address": "清源北路19号",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.323882,
+  "lat": 39.748918,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8VTGW",
+  "name": "国家教育行政学院学员公寓",
+  "address": "清源北路8号",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.326107,
+  "lat": 39.744713,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFG8VTGN",
+  "name": "国家教育行政学院专家公寓",
+  "address": "清源街道清源北路8号国家教育行政学院",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.323873,
+  "lat": 39.745633,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFGZIP3",
+  "name": "采育镇大学生村官公寓",
+  "address": "采育镇人民政府旁",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.665663,
+  "lat": 39.65227,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000AA1EI4",
+  "name": "恒安卫士安全防范技术有限公司第五项目部安检公寓",
+  "address": "科技路28号",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.447496,
+  "lat": 39.808537,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A8XT51",
+  "name": "资源集团员工公寓",
+  "address": "磁各庄桥北资源路",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.410967,
+  "lat": 39.722642,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MUF1IG3D",
+  "name": "新华公寓",
+  "address": "大张北庄村中街与黄马路交叉口西南160米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.432125,
+  "lat": 39.721225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MUCBZFJQ",
+  "name": "北京城建北方瀛海国际人才公寓",
+  "address": "四义南路与德亦路辅路交叉口东240米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.437975,
+  "lat": 39.747475,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MU69VWS8",
+  "name": "首联公寓",
+  "address": "北辛屯环路与双北路交叉口东北140米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.471482,
+  "lat": 39.722859,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MU31QE68",
+  "name": "恒润公寓9号院",
+  "address": "通久路与德贤路辅路交叉口西360米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.418975,
+  "lat": 39.823025,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MRZX4ORL",
+  "name": "北店公寓",
+  "address": "双北路与北曹路交叉口北200米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.481025,
+  "lat": 39.724225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MRPPI96D",
+  "name": "清龙宫北兴湖公寓",
+  "address": "德贤路辅路与南场路交叉口西南180米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.428075,
+  "lat": 39.808425,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MGZDIZ60",
+  "name": "吉利公寓",
+  "address": "小铺头后街与高野路交叉口西220米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.459596,
+  "lat": 39.718503,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MG5PWXHM",
+  "name": "西庄家园27号精品公寓",
+  "address": "西庄路与西政路交叉口南100米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.354875,
+  "lat": 39.661675,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MDTCCWO5",
+  "name": "庞各庄公寓",
+  "address": "隆新大街与瓜乡路交叉口西南80米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.324275,
+  "lat": 39.620225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MDFM8TS6",
+  "name": "万源街地铁口公寓",
+  "address": "荣华西一路与天华北街交叉口东南120米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.50175,
+  "lat": 39.8012,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MAFLTCT6",
+  "name": "北辛屯村南街9号公寓",
+  "address": "双北路与北辛屯环路交叉口东北340米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.473995,
+  "lat": 39.723378,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M3YRW1CD",
+  "name": "枣林公寓",
+  "address": "孙垡路与高野路交叉口西北280米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.461325,
+  "lat": 39.710225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M3SUCOPS",
+  "name": "鑫康公寓三号院",
+  "address": "双北路与北曹路交叉口北320米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.480375,
+  "lat": 39.725275,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M3PUSN7M",
+  "name": "青苹果公寓兴3区",
+  "address": "青云店镇",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.457856,
+  "lat": 39.725053,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M31AC3N4",
+  "name": "李宁公寓",
+  "address": "西枣路与西刘路交叉口西280米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.364875,
+  "lat": 39.657025,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M2CNGJQ0",
+  "name": "富士康公寓",
+  "address": "荣华西四路与地泽北街交叉口东南180米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.513825,
+  "lat": 39.784275,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M247HS6U",
+  "name": "大兴区向阳公寓",
+  "address": "北店中路与双北路交叉口北80米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.478004,
+  "lat": 39.722991,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M1CLCQXV",
+  "name": "理想公寓(枣林村)",
+  "address": "高野路80号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.461437,
+  "lat": 39.710038,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M1471O84",
+  "name": "金源公寓(3号院)",
+  "address": "青云店镇西大屯东巷5号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.497595,
+  "lat": 39.706173,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LUXAHUQS",
+  "name": "运动员公寓",
+  "address": "清源西路与芦宋路交叉口西140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.28938,
+  "lat": 39.743243,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LKJG1D27",
+  "name": "谷家公寓",
+  "address": "双北路与北店中路交叉口西北320米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.474763,
+  "lat": 39.723642,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LGRSD3O1",
+  "name": "金福世纪公寓",
+  "address": "京良路与欣美街交叉口北200米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.32349,
+  "lat": 39.796834,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LASL3A11",
+  "name": "中粮粮悦公寓",
+  "address": "天和西路与天华大街交叉口西北80米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.314925,
+  "lat": 39.692325,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L3ASSHCZ",
+  "name": "恒润公寓26号院",
+  "address": "通久路与德贤路辅路交叉口西260米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.419975,
+  "lat": 39.822475,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L3AOYSP8",
+  "name": "迪富公寓4号楼",
+  "address": "旧宫镇南环路39号北京市大兴区旧宫工业园",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.450072,
+  "lat": 39.799654,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L2COI4DV",
+  "name": "张兔子家公寓",
+  "address": "双北路与赵大路交叉口西160米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.481513,
+  "lat": 39.722922,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L276HYFO",
+  "name": "暖舍公寓(北京大学第一医院店)",
+  "address": "兴华大街与乐园路交叉口东南140米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.332205,
+  "lat": 39.765494,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1ZUNUFP",
+  "name": "新星旺公寓",
+  "address": "宏旭路与欣清巷交叉口南100米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.3456,
+  "lat": 39.786416,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1ZCO95L",
+  "name": "金福公寓1号楼",
+  "address": "京良路与欣美街交叉口北240米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.324322,
+  "lat": 39.797158,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1C76PK2",
+  "name": "恒润公寓7号院",
+  "address": "通久路与德贤路辅路交叉口西360米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.418975,
+  "lat": 39.823025,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L0UDVRIL",
+  "name": "二村四条中段置城公寓006号院",
+  "address": "黄村镇狼垡东路27号",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.282922,
+  "lat": 39.782069,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KKDZTW4V",
+  "name": "兴安健康公寓一组团",
+  "address": "榆津路与祥荣街交叉口西南120米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.332156,
+  "lat": 39.521361,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0K39CFRJJ",
+  "name": "兴安健康公寓",
+  "address": "榆创路与祥荣街交叉口西20米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.333361,
+  "lat": 39.520505,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0K2277EXX",
+  "name": "北京新航城兴航公寓",
+  "address": "嘉平路与开泰街交叉口东100米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.433954,
+  "lat": 39.546062,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JB31K5N6",
+  "name": "兴河公寓",
+  "address": "狼垡东桥与S50南五环交叉口西北200米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.297124,
+  "lat": 39.780223,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IRNLXYG7",
+  "name": "北京新航城兴航公寓B区",
+  "address": "礼贤镇西里路",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.432943,
+  "lat": 39.547302,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0IRNLVE35",
+  "name": "北京新航城兴航公寓C区",
+  "address": "礼贤镇嘉平路",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.436001,
+  "lat": 39.545077,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0I0LY9K1G",
+  "name": "中恒公寓",
+  "address": "龙泰路甲20号",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.449433,
+  "lat": 39.795199,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFKJ71SM",
+  "name": "王立庄新区公寓",
+  "address": "王桂路与龙兴街交叉口西北140米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.358081,
+  "lat": 39.70246,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFKFQ6O9",
+  "name": "南院公寓",
+  "address": "孙黄路与狼立路交叉口东500米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.284547,
+  "lat": 39.777734,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFKD373C",
+  "name": "北院公寓",
+  "address": "狼垡二村商业街路与狼垡东路交叉口西南480米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.28509,
+  "lat": 39.778217,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFIY0VIP",
+  "name": "佳海商贸城公寓",
+  "address": "科技路与旧宫东西大街交叉口西北160米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.450333,
+  "lat": 39.807681,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFI6ENQH",
+  "name": "幸福苑公寓",
+  "address": "长盛街与振兴巷交叉口东北40米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.342801,
+  "lat": 39.798097,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFH5DTMZ",
+  "name": "华宇公寓",
+  "address": "旧宫德茂庄",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.444332,
+  "lat": 39.779197,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFFADWYH",
+  "name": "南湖公寓",
+  "address": "佟前路与厚富路交叉口南150米",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.275418,
+  "lat": 39.718991,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MGVLFKPM",
+  "name": "中国人民公安大学学生公寓",
+  "address": "警知路与勤奋道交叉口西北100米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.365075,
+  "lat": 39.765875,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MDKXDFSG",
+  "name": "北京亦庄实验中学教师公寓",
+  "address": "兴海路与宏农路交叉口北240米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.492875,
+  "lat": 39.754525,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MDBOHZ23",
+  "name": "际华集团股份有限公司公寓楼",
+  "address": "金苑路与金科巷交叉口西北120米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.350375,
+  "lat": 39.760175,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M6XCS0G1",
+  "name": "北京公司职工公寓",
+  "address": "宏都路与欣宏北大街交叉口北180米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.343875,
+  "lat": 39.800541,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M3J71WIG",
+  "name": "大兴机场空港公寓2期1号宿舍",
+  "address": "航泰街与居泰路交叉口西北180米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.423475,
+  "lat": 39.529225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M3CPT03A",
+  "name": "大兴机场空港公寓二期5号楼女生宿舍楼",
+  "address": "",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.422775,
+  "lat": 39.528925,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LKBRUGZH",
+  "name": "城建北方瀛海国际人才公寓4号地生活区",
+  "address": "瀛亨街与瀛祥路交叉口南100米",
+  "adname": "大兴区",
+  "typecode": "120303|120302",
+  "lng": 116.444525,
+  "lat": 39.743725,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LBLUND0P",
+  "name": "中国人民公安大学团河校区学生公寓",
+  "address": "求实道与亲民路交叉口东20米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.370875,
+  "lat": 39.764375,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L3AOZGSY",
+  "name": "中国人民公安大学-学生公寓三",
+  "address": "正心路与求实道交叉口南60米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.371305,
+  "lat": 39.764011,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KR7XOXLF",
+  "name": "北京黄埔大学大学生公寓",
+  "address": "榆垡镇榆祥路北京八维研修学院(黄埔校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.312923,
+  "lat": 39.517289,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0KR7ONHAS",
+  "name": "北京林业大学职业技术学院学生公寓",
+  "address": "黄村火车站林校北路8号国家林业和草原局管理干部学院",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.339201,
+  "lat": 39.720597,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0JGK9UH53",
+  "name": "鑫方盛3库宿舍公寓",
+  "address": "海鑫北路与盛豫街交叉口东北20米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.41381,
+  "lat": 39.716951,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGBF0A8",
+  "name": "中国人民公安大学-学生公寓10",
+  "address": "正心路与求实道交汇处东100米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.372125,
+  "lat": 39.765396,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGBC4MK",
+  "name": "北京企业管理研修学院学生公寓A座",
+  "address": "佟前路与厚祥路交叉口东南300米",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.278937,
+  "lat": 39.718209,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0FFGBC1TX",
+  "name": "北京企业管理研修学院学生公寓B座",
+  "address": "黄村镇后辛庄村大兴一职院内北京贵仁国际武术表演团附近",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.279046,
+  "lat": 39.71794,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB9",
+  "name": "中国人民公安大学学生公寓四",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.370992,
+  "lat": 39.764307,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB8",
+  "name": "中国人民公安大学-学生公寓11",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.37205,
+  "lat": 39.765707,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB7",
+  "name": "中国人民公安大学-学生公寓12",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.372029,
+  "lat": 39.766168,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB6",
+  "name": "中国人民公安大学-学生公寓七",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.371835,
+  "lat": 39.764,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB5",
+  "name": "中国人民公安大学-学生公寓六",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.372035,
+  "lat": 39.763675,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB4",
+  "name": "中国人民公安大学-学生公寓9",
+  "address": "正心路附近",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.372237,
+  "lat": 39.764975,
+  "biz": ""
+ },
+ {
+  "poi_id": "B000A7RCB3",
+  "name": "中国人民公安大学学生公寓八",
+  "address": "金星路9号中国人民公安大学(团河校区)",
+  "adname": "大兴区",
+  "typecode": "120303",
+  "lng": 116.371837,
+  "lat": 39.764322,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MUMUW9LU",
+  "name": "安心公寓百花院",
+  "address": "刘二村桥与南六环交叉口东北200米",
+  "adname": "大兴区",
+  "typecode": "120302|100000",
+  "lng": 116.381025,
+  "lat": 39.717025,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LB9RSECO",
+  "name": "东海燕公寓",
+  "address": "黄村镇狼垡一村村民委会东侧140米",
+  "adname": "大兴区",
+  "typecode": "100200|120302",
+  "lng": 116.282025,
+  "lat": 39.778325,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L2S76NFD",
+  "name": "安心公寓·竹院",
+  "address": "黄马路与团桂路交叉口南180米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.378075,
+  "lat": 39.720075,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MRPRJS6K",
+  "name": "中星公寓",
+  "address": "和畅街与北兴路交叉口西南180米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.345775,
+  "lat": 39.774475,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MG9DOZHJ",
+  "name": "中街公寓",
+  "address": "双北路与北曹路交叉口西北260米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.479475,
+  "lat": 39.724375,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0MBHLIY4Y",
+  "name": "圣清公寓",
+  "address": "科技路与庑殿路交叉口东340米",
+  "adname": "大兴区",
+  "typecode": "100200|120302",
+  "lng": 116.447475,
+  "lat": 39.809225,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0M6TR65SC",
+  "name": "济民公寓",
+  "address": "忠诚道与警训路交叉口南100米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.363875,
+  "lat": 39.762575,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LRLKLF5L",
+  "name": "梅林公寓",
+  "address": "狼垡东路与富安街交叉口南300米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.28362,
+  "lat": 39.784918,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LR37DSBB",
+  "name": "长汀里公寓",
+  "address": "金苑路与广茂大街交叉口北140米",
+  "adname": "大兴区",
+  "typecode": "120302|100200",
+  "lng": 116.348697,
+  "lat": 39.760333,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0L1XCQKI6",
+  "name": "金福苑公寓",
+  "address": "吉百利路与小红门路交叉口西60米",
+  "adname": "大兴区",
+  "typecode": "100200|120302",
+  "lng": 116.454252,
+  "lat": 39.818742,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0J30XGDW7",
+  "name": "广厦公寓",
+  "address": "广厦路北2号院广厦公寓北幢1单元301室",
+  "adname": "大兴区",
+  "typecode": "120302",
+  "lng": 116.455146,
+  "lat": 39.817481,
+  "biz": ""
+ },
+ {
+  "poi_id": "B0LBRDGYNM",
+  "name": "万朵轻奢公寓",
+  "address": "瀛安街与京福路辅路交叉口东北180米",
+  "adname": "大兴区",
+  "typecode": "120300",
+  "lng": 116.451163,
+  "lat": 39.762849,
+  "biz": ""
+ }
+]
