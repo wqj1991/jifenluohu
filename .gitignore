@@ -1,8 +1,9 @@
 node_modules
 dist
 .env
-data/*.db
-data/*.db-*
+# sqlite 主库入库（含小区 / 房价 / 学校 / 积分档案）；只排除运行时副产物
+data/*.db-shm
+data/*.db-wal
 
 # 抓取凭证（链家登录态 cookie，明文，绝不入库）
 data/*.cookie
