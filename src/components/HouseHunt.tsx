@@ -289,7 +289,7 @@ export default function HouseHunt({ year, go }: { year: number; go: (v: string) 
         </div>
         {mode === "ai" ? (
           <div className="sans text-[11.5px] leading-[1.9] mt-2 max-w-[76ch]" style={{ color: "var(--color-ink-2)" }}>
-            先说要求（区域、单价、房龄、到一个公司的通勤上限、学区梯度和半径），程序在本地库里<b>硬筛</b>，
+            先说要求（区域、单价、房龄、到一两个公司各自的通勤上限、小学/初中的梯队和半径），程序在本地库里<b>硬筛</b>，
             再按通勤/学区/房龄/价格可信度打分排序；服务器自己的模型只负责<b>比较与取舍</b>那一段文字。
             价格是<b>挂牌均价</b>不是成交价，学区是<b>最近的学校 + 该校梯队</b>，不是官方对口。
           </div>

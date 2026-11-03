@@ -310,7 +310,10 @@ export function shortlist(db, cond) {
   const warnings = [];
   const commuteReqs = [];
   for (const x of cond.commutes) {
-    if (x.wpId == null) continue;
+    if (x.wpId == null) {
+      if (x.maxMin != null) warnings.push(`通勤上限 ${x.maxMin} 分没指定公司，这条要求没生效`);
+      continue;
+    }
     const wp = wpById.get(x.wpId);
     if (!wp) { warnings.push(`工作地点 #${x.wpId} 不在库里，这条通勤要求没生效`); continue; }
     commuteReqs.push({ wp, maxMin: x.maxMin });
@@ -393,7 +396,6 @@ export function shortlist(db, cond) {
     (cond.priceMin != null || cond.priceMax != null) && { k: "单价", v: `${cond.priceMin != null ? (cond.priceMin / 10000).toFixed(1) : "—"}–${cond.priceMax != null ? (cond.priceMax / 10000).toFixed(1) : "—"} 万/㎡` },
     cond.buildYearMin != null && { k: "建成年", v: `≥ ${cond.buildYearMin}` },
     ...commuteReqs.map((r) => r.maxMin != null && { k: "通勤", v: `到 ${placeName(r.wp)} ≤ ${r.maxMin} 分` }),
-    cond.commutes.some((x) => x.wpId == null && x.maxMin != null) && { k: "通勤", v: `上限 ${cond.commutes.find((x) => x.wpId == null)?.maxMin} 分（未指定公司，未生效）` },
     ...cond.schools.map((sc) => ({ k: "学区", v: `${sc.stage === "中学" ? "初中" : "小学"}${sc.tier ? ` ${sc.tier}以内` : ""}${sc.maxKm ? ` · ${sc.maxKm}km 内` : ""}` })),
   ].filter(Boolean);
 
