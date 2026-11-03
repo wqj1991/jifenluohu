@@ -33,7 +33,7 @@ export default function CommunityMaint({ initial = "price" }: { initial?: CommTa
 
   const tabs: { k: CommTab; no: string; l: string; n: string }[] = [
     { k: "price", no: "一", l: "挂牌房价", n: c ? `${c.withPrice} / ${c.n}` : "—" },
-    { k: "route", no: "二", l: "路线与时间", n: rt && c ? `${rt.n} / ${c.n}` : "—" },
+    { k: "route", no: "二", l: "路线与时间", n: rt ? `${rt.n} 条` : "—" },
   ];
 
   return (

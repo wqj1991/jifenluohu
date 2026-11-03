@@ -71,7 +71,8 @@ export default function RouteMaint({ bare }: { bare?: boolean }) {
   const pages = Math.max(1, Math.ceil(total / PAGE));
   const wp = data?.wp || null;
   const cover = data?.coverage;
-  const pct = cover && cover.communities ? Math.round((cover.recorded / cover.communities) * 100) : 0;
+  const pctRaw = cover && cover.communities ? (cover.recorded / cover.communities) * 100 : 0;
+  const pct = pctRaw > 0 && pctRaw < 1 ? "<1%" : `${Math.round(pctRaw)}%`;
 
   const districts = useMemo(
     () => [{ v: "", l: "全部区" }, ...(data?.byDistrict || []).map((b) => ({ v: b.district, l: b.district }))],
@@ -173,7 +174,7 @@ export default function RouteMaint({ bare }: { bare?: boolean }) {
       <Facts items={[
         { k: "选定公司", v: wp ? shortAddr(wp.address) : dash(null), tone: "mute" },
         { k: "已测小区", v: cover ? `${cover.recorded} / ${cover.communities}` : dash(null) },
-        { k: "覆盖率", v: cover ? `${pct}%` : dash(null), tone: pct >= 80 ? "green" : "seal" },
+        { k: "覆盖率", v: cover ? pct : dash(null), tone: pctRaw >= 80 ? "green" : "seal" },
         { k: "高德实测", v: data ? String(data.stats.amap) : dash(null) },
         { k: "手填", v: data ? String(data.stats.manual) : dash(null) },
         { k: "中位耗时", v: data?.stats.avgMin != null ? `${data.stats.avgMin}′` : dash(null) },

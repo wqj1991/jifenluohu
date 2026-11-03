@@ -109,11 +109,15 @@ export async function measureOne(db, communityId, wpId) {
   if (!c || !w) throw new Error("小区或工作地点不存在");
   if (c.lng == null || c.lat == null) throw new Error("小区没有坐标");
   if (w.lng == null || w.lat == null) throw new Error("工作地点没有坐标");
-  const t = await transitOnce(c, w);
-  if (!t) throw new Error("高德没有返回公交方案");
   const prev = db
     .prepare("SELECT * FROM community_route WHERE community_id = ? AND wp_id = ?")
     .get(communityId, wpId);
+  // 你亲自跑过并核实的那条，不能被接口结果悄悄顶掉
+  if (prev && prev.source === "manual" && prev.verified) {
+    throw new Error("这条是手填且已核实，重测会覆盖它；要重测先在「改」里取消核实");
+  }
+  const t = await transitOnce(c, w);
+  if (!t) throw new Error("高德没有返回公交方案");
   return upsert(db, {
     community_id: communityId,
     wp_id: wpId,
@@ -148,6 +152,9 @@ export async function measureBatch(db, b) {
   if (district) { where.push("c.district = ?"); args.push(district); }
   if (only === "missing") where.push("r.id IS NULL");
   if (only === "stale") where.push(`r.fetched_at < date('now','-${STALE_DAYS} day')`);
+  // 手填并核实过的不进批量队列：那是你亲自跑的数字
+  // 注意 LEFT JOIN 下没有记录时 r.source 是 NULL，`NOT (r.source = 'manual')` 会算成 NULL 把整行滤掉
+  if (only !== "all") where.push("(r.id IS NULL OR r.source <> 'manual' OR r.verified = 0)");
   const list = db
     .prepare(
       `SELECT c.id, c.name FROM community c

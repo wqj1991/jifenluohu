@@ -270,6 +270,12 @@ async function fetchList() {
       }
     }
     console.log(`[biz] ${circles.length} 个商圈 × ${LIANJIA_SORTS.length} 种排序 = ${tasks.length} 个列表页`);
+  } else if (has("slices")) {
+    // 5i5j 这类「无分页、每片 40 条上限」的站：按维度切片枚举，而不是翻页
+    if (typeof s.slices !== "function") throw new Error(`${siteKey} 没有 slices() 定义，--slices 仅 5i5j 支持`);
+    const slices = s.slices(district).filter((sl) => !flag("only") || sl.key.includes(flag("only")));
+    for (const sl of slices) tasks.push({ page: tasks.length + 1, label: sl.key, url: `https://m.5i5j.com/bj/xiaoqu/${sl.path}` });
+    console.log(`[slices] ${slices.length} 个切片（不限 / 排序 / 价格档 p1-8 / 楼龄档 y1-5 / 商圈），每片≤40 条`);
   } else {
     for (let p = p1; p <= p2; p++) tasks.push({ page: p, label: `p${p}`, url: s.listingUrl({ district, page: p }) });
   }
@@ -294,8 +300,8 @@ async function fetchList() {
         // 链家/贝壳的 geetest 是频率触发，冷却后大概率恢复；登录墙才是真断头
         const retriable = r.verdict.kind === "geetest-captcha" || r.verdict.kind === "empty-body";
         if (r.verdict.blocked && retriable && attempt < maxRetry) {
-          dumpRaw(`blocked_${siteKey}_${district}_p${page}_a${attempt}`, r.raw);
-          process.stdout.write(`p${page} ✗ ${r.verdict.kind}${tag} → 冷却 ${cooldown}s 后重试\n`);
+          dumpRaw(`blocked_${siteKey}_${district}_${task.label}_a${attempt}`, r.raw);
+          process.stdout.write(`${task.label} ✗ ${r.verdict.kind}${tag} → 冷却 ${cooldown}s 后重试\n`);
           await sleep(cooldown * 1000);
           continue;
         }
@@ -311,17 +317,17 @@ async function fetchList() {
             Object.assign(prev, row);
           }
         }
-        process.stdout.write(`p${page} ${r.verdict.blocked ? "✗ " + r.verdict.kind : "✓"} ${norm.length} 条（新增 ${fresh}）${tag}\n`);
+        process.stdout.write(`${task.label} ${r.verdict.blocked ? "✗ " + r.verdict.kind : "✓"} ${norm.length} 条（新增 ${fresh}）${tag}\n`);
         done = true;
         if (r.verdict.blocked) {
-          dumpRaw(`blocked_${siteKey}_${district}_p${page}`, r.raw);
+          dumpRaw(`blocked_${siteKey}_${district}_${task.label}`, r.raw);
           break;
         }
-        if (!has("biz") && norm.length === 0 && page > p1) break;
+        if (!has("biz") && !has("slices") && norm.length === 0 && page > p1) break;
         // m.5i5j 超出末页会「回卷」到第 1 页（200 + 正常列表），不是 404 也不是空页：
         // 整页零新增即视为到底，否则会白翻到 p100 并把全量重复拉一遍。
-        if (!has("biz") && norm.length > 0 && fresh === 0 && page > p1) {
-          process.stdout.write(`p${page} 无新增小区 → 判定已回卷/到底，停止翻页\n`);
+        if (!has("biz") && !has("slices") && norm.length > 0 && fresh === 0 && page > p1) {
+          process.stdout.write(`${task.label} 无新增小区 → 判定已回卷/到底，停止翻页\n`);
           break;
         }
         // 直连通道按真人节奏，翻太快链家直接上 geetest
@@ -329,7 +335,7 @@ async function fetchList() {
         await sleep(gap);
       } catch (e) {
         report.push({ page, url, error: String(e.message).split("\n")[0], attempt });
-        process.stdout.write(`p${page} 失败: ${String(e.message).split("\n")[0]}\n`);
+        process.stdout.write(`${task.label} 失败: ${String(e.message).split("\n")[0]}\n`);
         if (attempt >= maxRetry) {
           done = true;
           break;

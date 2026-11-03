@@ -13,6 +13,7 @@
     "fc:probe": "node scripts/fc/run.mjs probe",
     "fc:fetch": "node scripts/fc/run.mjs fetch",
     "fc:fetch-biz": "node scripts/fc/run.mjs fetch --biz",
+    "fc:fetch-5i5j": "node scripts/fc/run.mjs fetch --site 5i5j --slices",
     "fc:import": "node scripts/import_prices.mjs",
     "fc:login": "node scripts/fc/run.mjs login"
   },

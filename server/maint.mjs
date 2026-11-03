@@ -13,6 +13,7 @@ export function ensureMaintTables(db) {
       school_id INTEGER,
       school_name TEXT NOT NULL,
       stage TEXT NOT NULL,
+      region TEXT,
       year INTEGER NOT NULL,
       metric TEXT NOT NULL DEFAULT '综合',
       tier TEXT,
@@ -66,6 +67,32 @@ export function ensureMaintTables(db) {
   // 老库补列：梯队（一梯队/二梯队/三梯队/民办·国际/其他梯队）
   const rankCols = db.prepare("PRAGMA table_info(school_rank)").all().map((c) => c.name);
   if (!rankCols.includes("tier")) db.exec("ALTER TABLE school_rank ADD COLUMN tier TEXT");
+  // 老库补列：区域（通州/大兴/经开），有 school_id 的按 school.addr 反推
+  if (!rankCols.includes("region")) {
+    db.exec("ALTER TABLE school_rank ADD COLUMN region TEXT");
+    backfillRegion(db);
+  }
+}
+
+// 区域口径：经开区（亦庄）是独立招生单位，不与大兴混
+export function regionOfAddr(addr) {
+  const a = String(addr || "");
+  if (a.includes("经济技术开发区")) return "经开";
+  if (a.includes("通州")) return "通州";
+  if (a.includes("大兴")) return "大兴";
+  return null;
+}
+
+export function backfillRegion(db) {
+  const pick = db.prepare("SELECT id, addr FROM school").all();
+  const map = new Map(pick.map((s) => [s.id, regionOfAddr(s.addr)]));
+  const upd = db.prepare("UPDATE school_rank SET region=? WHERE school_id=? AND (region IS NULL OR region='')");
+  let n = 0;
+  for (const [sid, region] of map) {
+    if (!region) continue;
+    n += Number(upd.run(region, sid).changes || 0);
+  }
+  return n;
 }
 
 const num = (v) => (v === "" || v == null ? null : Number(v));
@@ -183,7 +210,7 @@ export function registerMaint(app, db) {
              (SELECT MAX(ym) FROM price_point p WHERE p.community_id = c.id) last_ym
         FROM community c
        WHERE ${where.join(" AND ")}
-       ORDER BY (c.price IS NULL) DESC, c.price DESC
+       ORDER BY (c.price IS NULL), c.price DESC
        LIMIT ? OFFSET ?`;
     const rows = db.prepare(sql).all(...args, Number(limit), Number(offset));
     attach(db, rows);
@@ -248,12 +275,13 @@ export function registerMaint(app, db) {
 
   /* ---------------- 学校排名台账 ---------------- */
   app.get("/api/maint/rank", async (req) => {
-    const { stage, year, q, verified = "", tier = "", limit = 300, offset = 0 } = req.query;
+    const { stage, year, q, verified = "", tier = "", region = "", limit = 300, offset = 0 } = req.query;
     const where = ["1=1"];
     const args = [];
     if (stage) { where.push("stage = ?"); args.push(stage); }
     if (year) { where.push("year = ?"); args.push(Number(year)); }
     if (tier) { where.push("tier = ?"); args.push(tier); }
+    if (region) { where.push("region = ?"); args.push(region); }
     if (q) { where.push("school_name LIKE ?"); args.push(`%${q}%`); }
     if (verified === "1") where.push("verified = 1");
     if (verified === "0") where.push("verified = 0");
@@ -274,7 +302,10 @@ export function registerMaint(app, db) {
     const byTier = db
       .prepare("SELECT COALESCE(tier,'未分档') t, COUNT(*) c FROM school_rank GROUP BY t ORDER BY c DESC")
       .all();
-    return { total, rows, years, byTier };
+    const byRegion = db
+      .prepare("SELECT COALESCE(region,'未分区') r, COUNT(*) c FROM school_rank GROUP BY r ORDER BY c DESC")
+      .all();
+    return { total, rows, years, byTier, byRegion };
   });
 
   app.post("/api/maint/rank", async (req) => {
@@ -285,14 +316,17 @@ export function registerMaint(app, db) {
     const metric = str(b.metric) || "综合";
     const sid = num(b.school_id);
     const id = num(b.id);
+    // 区域：有 school_id 时以学校地址为准，手填校名（无 school_id）时用手选值
+    const schoolAddr = sid ? db.prepare("SELECT addr FROM school WHERE id=?").get(sid)?.addr : null;
+    const region = regionOfAddr(schoolAddr) || str(b.region);
     const vals = [
-      sid, name, str(b.stage) || "小学", year, metric, str(b.tier),
+      sid, name, str(b.stage) || "小学", region, year, metric, str(b.tier),
       num(b.rank), num(b.score), str(b.source), str(b.source_url),
       b.verified ? 1 : 0, str(b.note), now(),
     ];
     if (id) {
       db.prepare(
-        `UPDATE school_rank SET school_id=?, school_name=?, stage=?, year=?, metric=?, tier=?,
+        `UPDATE school_rank SET school_id=?, school_name=?, stage=?, region=?, year=?, metric=?, tier=?,
            rank=?, score=?, source=?, source_url=?, verified=?, note=?, updated_at=? WHERE id=?`
       ).run(...vals, id);
       return { ok: true, id };
@@ -302,15 +336,15 @@ export function registerMaint(app, db) {
       : null;
     if (dup) {
       db.prepare(
-        `UPDATE school_rank SET school_name=?, stage=?, tier=?, rank=?, score=?, source=?, source_url=?,
+        `UPDATE school_rank SET school_name=?, stage=?, region=?, tier=?, rank=?, score=?, source=?, source_url=?,
            verified=?, note=?, updated_at=? WHERE id=?`
-      ).run(name, str(b.stage) || "小学", str(b.tier), num(b.rank), num(b.score), str(b.source), str(b.source_url), b.verified ? 1 : 0, str(b.note), now(), dup.id);
+      ).run(name, str(b.stage) || "小学", region, str(b.tier), num(b.rank), num(b.score), str(b.source), str(b.source_url), b.verified ? 1 : 0, str(b.note), now(), dup.id);
       return { ok: true, id: dup.id, merged: true };
     }
     const r = db.prepare(
-      `INSERT INTO school_rank(school_id, school_name, stage, year, metric, tier, rank, score,
+      `INSERT INTO school_rank(school_id, school_name, stage, region, year, metric, tier, rank, score,
          source, source_url, verified, note, updated_at)
-       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)`
+       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)`
     ).run(...vals);
     return { ok: true, id: Number(r.lastInsertRowid) };
   });

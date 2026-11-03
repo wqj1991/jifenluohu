@@ -10,6 +10,21 @@ export const DISTRICTS = {
   daxing: { name: "大兴", pinyin: "daxing", m5i5j: "daxingqu" },
 };
 
+// m.5i5j 商圈拼音（从区页筛选栏 `<ul class='weizhi-list' data-id='<区id>'>` 里抄，
+// 通州区 id=970、大兴区 id=990，2026-11-02 实测）。商圈是唯一能在 40 条上限内
+// 继续往下切的维度，区页 16~18 个商圈拼起来才能把每区几百个小区尽量取全。
+export const M5I5J_BIZ = {
+  tongzhou: [
+    "beiguan", "guoyuan", "jiukeshujialefu", "linheli", "liyuan", "lucheng", "luyuan", "majuqiao",
+    "qiaozhuang", "tongzhoubeiyuan", "tongzhouqita", "tuqiao", "wanda", "wuyihuayuan", "xinhuadajie", "yuqiao",
+  ],
+  daxing: [
+    "daxingjichangkonggang", "daxingqita", "daxingxinjichang", "gaomidian", "guanyinsi", "huangcun",
+    "huangcunbei", "huangcunhuochezhan", "huangcunzhong", "jiugong", "kejiyuanqu", "tiangongyuan",
+    "wanyuan", "xihongmen", "xinmeitichanyejidi", "yihezhuang", "yinghai", "zaoyuan",
+  ],
+};
+
 const num = (s) => {
   const n = Number(String(s ?? "").replace(/[^\d.]/g, ""));
   return Number.isFinite(n) && n > 0 ? n : null;
@@ -298,8 +313,10 @@ export const SITES = {
 
   // ---------- 我爱我家 ----------
   // 2026-11-02 实测：PC 站 bj.5i5j.com/xiaoqu/ 与 /ershoufang/ 已从「登录墙」升级为
-  // 直接 403 Forbidden（无 title、1455 字节），带 Cookie 也未必过；而移动站
-  // m.5i5j.com/bj/xiaoqu/<区slug>/p<N>/ **完全免登录**，SSR 每个小区一屏给全字段
+  // 直接 403 Forbidden（无 title、1455~2918 字节）。注意本机出口走公司 Zscaler：
+  // **桌面 UA 打 m.5i5j.com 会被 302 到 bj.5i5j.com 再吃 403**（响应里带 HMF_CI 拦截 cookie），
+  // 所以必须钉 iPhone UA 直取 m 站（见下面 ua 字段），否则会误判成「站点封了」。
+  // 移动站 m.5i5j.com/bj/xiaoqu/<区slug>/ **完全免登录**，SSR 每个小区一屏给全字段
   // （名字/id/挂牌均价/在售套数/在租套数/建成年/楼型/商圈）。
   // → 不需要账号、不需要 token、不需要 cookie。清单页每区 743 个（通州，2026-11-02）。
   // 坑：区 slug 必须带 qu（tongzhouqu），写 tongzhou 会 200 但回落成全北京推荐。
@@ -322,6 +339,24 @@ export const SITES = {
     parseHtml: (html, district) => {
       const rows = parse5i5jHtml(html, "https://m.5i5j.com", "5i5j", DISTRICTS[district]?.name ?? null);
       return rows.length ? rows : parseAnyXiaoquHtml(html, "https://m.5i5j.com", "5i5j");
+    },
+    // 2026-11-02 实测：**这个站没有分页**。列表页硬上限 40 条，翻页参数全试过
+    // （?page/?p/?pg/?pn/?curPage/?start/?offset/?pageindex 一律返回同一页；
+    //  /pN/ 不是页码而是「价格档」：p1=2万以下、p2=2-3万…p8=10万以上，
+    //  越界后 302 回第 1 页 / 直接吐「共找到 N 个」的不限页），也无「加载更多」ajax
+    // （list_xiaoqu.js 里只有筛选和滚动吸顶，没有拉列表的请求）。
+    // → 只能按**单维度切片**枚举，且维度之间不能组合（/tongzhouqu/liyuan/p2/ 一律 404）：
+    //     不限 · 价格档 p1..p8 · 楼龄档 y1..y5 · 商圈 16~18 个
+    // 每片最多 40 条，并集 ≈ 该区小区的可采上限（通州 743 个里取到 500+）。
+    slices: (district) => {
+      const slug = DISTRICTS[district]?.m5i5j ?? district;
+      const out = [{ key: "all", path: `${slug}/` }];
+      // order1 是唯一能被 URL 命中的排序页（order2/order3 会把区丢掉、回落成全北京 11273 个），
+      // 但实测它的 DOM 与默认列表不同，parse5i5jHtml 只命中 1~2 条 → 不纳入切片，免得白跑。
+      for (let i = 1; i <= 8; i++) out.push({ key: `price-p${i}`, path: `${slug}/p${i}/` });
+      for (let i = 1; i <= 5; i++) out.push({ key: `age-y${i}`, path: `${slug}/y${i}/` });
+      for (const b of M5I5J_BIZ[district] ?? []) out.push({ key: `biz-${b}`, path: `${slug}/${b}/` });
+      return out;
     },
     pageParam: "p",
   },
