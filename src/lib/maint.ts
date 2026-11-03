@@ -74,6 +74,7 @@ export type PriceResp = {
 
 export type RankRow = {
   id: number; school_id: number | null; school_name: string; stage: string;
+  region: string | null;
   year: number; metric: string; tier: string | null;
   rank: number | null; score: number | null;
   source: string | null; source_url: string | null; verified: number;
@@ -145,8 +146,11 @@ export const dropPriceSource = (communityId: number, source: string) =>
   delJSON<{ ok: boolean; removed?: number }>(`/api/maint/price?${qs({ community_id: communityId, source })}`);
 export const fetchPriceSources = () => getJSON<{ rows: PriceSourceStat[] }>("/api/maint/price-sources");
 
-export const fetchRanks = (p: { stage?: string; year?: string; q?: string; verified?: string; tier?: string }) =>
-  getJSON<{ total: number; rows: RankRow[]; years: number[]; byTier: { t: string; c: number }[] }>(
+export const fetchRanks = (p: { stage?: string; region?: string; year?: string; q?: string; verified?: string; tier?: string }) =>
+  getJSON<{
+    total: number; rows: RankRow[]; years: number[];
+    byTier: { t: string; c: number }[]; byRegion: { r: string; c: number }[];
+  }>(
     `/api/maint/rank?${qs({ ...p })}`
   );
 export const saveRank = (b: Partial<RankRow>) =>

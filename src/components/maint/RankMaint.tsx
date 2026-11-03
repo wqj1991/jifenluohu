@@ -13,9 +13,11 @@ const stages = [
 const metrics = ["综合", "中考平均分", "区排名", "市重点率", "优质高中录取率"];
 const tiers = ["一梯队", "二梯队", "三梯队", "民办/国际", "其他梯队"];
 const tierSeg = [{ v: "", l: "全部梯队" }, ...tiers.map((t) => ({ v: t, l: t }))];
+const regions = ["通州", "大兴", "经开"];
+const regionSeg = [{ v: "", l: "全部区域" }, ...regions.map((x) => ({ v: x, l: x }))];
 
 const blank = {
-  id: 0, school_id: 0, school_name: "", stage: "小学", year: String(new Date().getFullYear()),
+  id: 0, school_id: 0, school_name: "", stage: "小学", region: "", year: String(new Date().getFullYear()),
   metric: "综合", tier: "", rank: "", score: "", source: "", source_url: "", verified: 0, note: "",
 };
 
@@ -26,12 +28,13 @@ const tierTone = (t?: string | null) =>
 
 export default function RankMaint() {
   const [stage, setStage] = useState("");
+  const [region, setRegion] = useState("");
   const [year, setYear] = useState("");
   const [verified, setVerified] = useState("");
   const [tier, setTier] = useState("");
   const [q, setQ] = useState("");
 
-  const list = useApi(() => fetchRanks({ stage, year, q, verified, tier }), [stage, year, q, verified, tier]);
+  const list = useApi(() => fetchRanks({ stage, region, year, q, verified, tier }), [stage, region, year, q, verified, tier]);
   const sum = useApi(fetchSummary, []);
 
   const [form, setForm] = useState({ ...blank });
@@ -42,10 +45,11 @@ export default function RankMaint() {
   const r = sum.data?.rank;
   const rows = list.data?.rows || [];
 
-  const startNew = () => { setForm({ ...blank, stage: stage || "小学", year: year || String(new Date().getFullYear()), tier: tier || "" }); setMsg(""); setOpen(true); };
+  const startNew = () => { setForm({ ...blank, stage: stage || "小学", region: region || "", year: year || String(new Date().getFullYear()), tier: tier || "" }); setMsg(""); setOpen(true); };
   const startEdit = (row: RankRow) => {
     setForm({
       id: row.id, school_id: row.school_id || 0, school_name: row.school_name, stage: row.stage,
+      region: row.region || "",
       year: String(row.year), metric: row.metric, tier: row.tier || "",
       rank: row.rank == null ? "" : String(row.rank),
       score: row.score == null ? "" : String(row.score),
@@ -62,6 +66,7 @@ export default function RankMaint() {
       school_id: form.school_id || null,
       school_name: form.school_name,
       stage: form.stage,
+      region: form.region,
       year: Number(form.year),
       metric: form.metric,
       tier: form.tier,
@@ -139,6 +144,12 @@ export default function RankMaint() {
               {metrics.map((m) => <option key={m} value={m}>{m}</option>)}
             </select>
           </Field>
+          <Field label="区域" w="6rem">
+            <select className="m-input" value={form.region} onChange={(e) => setForm({ ...form, region: e.target.value })}>
+              <option value="">未分区</option>
+              {regions.map((x) => <option key={x} value={x}>{x}</option>)}
+            </select>
+          </Field>
           <Field label="梯队" w="7rem">
             <select className="m-input" value={form.tier} onChange={(e) => setForm({ ...form, tier: e.target.value })}>
               <option value="">未分档</option>
@@ -182,6 +193,7 @@ export default function RankMaint() {
         <div className="flex flex-wrap items-center gap-x-6 gap-y-2 py-3"
           style={{ borderTop: "1px solid var(--color-rule-2)", borderBottom: "1px solid var(--color-rule)" }}>
           <Seg value={stage} options={stages} onChange={setStage} />
+          <Seg value={region} options={regionSeg} onChange={setRegion} />
           <Seg value={tier} options={tierSeg} onChange={setTier} />
           <Seg value={verified} options={[{ v: "", l: "全部" }, { v: "1", l: "已核实" }, { v: "0", l: "待核实" }]} onChange={setVerified} />
           <label className="sans text-[11.5px] flex items-center gap-2" style={{ color: "var(--color-mute)" }}>
@@ -222,6 +234,7 @@ export default function RankMaint() {
                 <tr>
                   <th>学校</th>
                   <th>阶段</th>
+                  <th>区域</th>
                   <th className="text-right">年度</th>
                   <th>口径</th>
                   <th>梯队</th>
@@ -237,6 +250,7 @@ export default function RankMaint() {
                   <tr key={row.id} className="m-row" style={{ opacity: row.verified ? 1 : .72 }}>
                     <td style={{ color: row.verified ? "var(--color-ink)" : "var(--color-ink-2)" }}>{row.school_name}</td>
                     <td className="sans text-[10.5px]" style={{ color: "var(--color-mute)" }}>{row.stage}</td>
+                    <td className="sans text-[10.5px]" style={{ color: "var(--color-ink-2)" }}>{row.region || dash(null)}</td>
                     <td className="num text-right">{row.year}</td>
                     <td className="sans text-[11px]" style={{ color: "var(--color-ink-2)" }}>{row.metric}</td>
                     <td className="sans text-[11px]" style={{ color: tierTone(row.tier) }}>{row.tier || dash(null)}</td>

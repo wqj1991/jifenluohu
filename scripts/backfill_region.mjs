@@ -1,14 +1,15 @@
 // 给 school_rank 回填区域：通州 / 大兴 / 经开（经开区独立招生单位，不与大兴混）
 // 有 school_id 的按 school.addr 反推；手填校名（school_id 为空）的按下表指定
 import { DatabaseSync } from "node:sqlite";
-import { regionOfAddr } from "../server/maint.mjs";
+import { ensureMaintTables, regionOfAddr } from "../server/maint.mjs";
 
 const db = new DatabaseSync("data/luohu.db");
+ensureMaintTables(db); // 顺带补齐 region 列（幂等）
 
 // school_id 为空的 22 条，逐条标区域（依据：校址所属行政区/功能区，见各自 note）
 const MANUAL = {
-  通州: ["北京五中通州分校", "首师大附中通州实验学校", "北京市私立树人学校", "北京市通州区华仁学校",
-    "北京德闳学校", "北京市通州区东关小学", "北京市私立树人·瑞贝学校"],
+  通州: ["北京五中通州分校", "北京五中通州校区", "首师大附中通州实验学校", "北京市私立树人学校", "北京市通州区华仁学校",
+    "北京德闳学校", "北京中加学校", "北京市通州区东关小学", "北京市私立树人·瑞贝学校"],
   大兴: ["北师大实验中学大兴分校", "清华附中大兴学校", "大兴区实验学校", "北京一零一中大兴分校",
     "君谊中学", "北京市大兴区瀛海镇第二中心小学", "北京新世纪双语实验学校"],
   经开: ["人大附中北京经济技术开发区学校", "十一分", "中芯学校", "金融街润泽学校", "耀华亦庄"],
