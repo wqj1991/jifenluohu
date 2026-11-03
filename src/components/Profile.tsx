@@ -1,3 +1,4 @@
+import { apiFetch } from "../lib/http";
 import { useEffect, useState } from "react";
 
 type Emp = { start_ym: string; end_ym?: string | null; pay_district: string; is_municipal: number; backfill_months: number };
@@ -51,16 +52,20 @@ export function ProfileForm({ onSaved, onDone }: { onSaved: () => void; onDone?:
   const [p, setP] = useState<Profile>(blank);
   const [saving, setSaving] = useState(false);
   const [flashed, setFlashed] = useState(false);
+  const [err, setErr] = useState<string | null>(null);
   useEffect(() => {
-    fetch("/api/profile").then((r) => r.json()).then((d) => {
+    apiFetch("/api/profile").then((r) => r.json()).then((d) => {
       if (d && d.id) setP({ ...blank, ...d, residence: d.residence?.length ? d.residence : blank.residence });
     });
   }, []);
 
   const emp = p.employment[0] || blank.employment[0];
   const edu = p.education[0] || blank.education[0];
-  const setEmp = (k: string, v: any) => setP({ ...p, employment: [{ ...emp, [k]: v }] });
-  const setEdu = (k: string, v: any) => setP({ ...p, education: [{ ...edu, [k]: v }] });
+  // 只改第一条，其余段原样带回去——否则改一个字段就把多段就业/学历塌成一段，保存时被删掉
+  const setEmp = (k: string, v: any) =>
+    setP({ ...p, employment: (p.employment.length ? p.employment : [blank.employment[0]]).map((x, j) => (j === 0 ? { ...x, [k]: v } : x)) });
+  const setEdu = (k: string, v: any) =>
+    setP({ ...p, education: (p.education.length ? p.education : [blank.education[0]]).map((x, j) => (j === 0 ? { ...x, [k]: v } : x)) });
 
   const setRes = (i: number, k: string, v: any) => {
     const list = p.residence.map((r, j) => (j === i ? { ...r, [k]: v } : r));
@@ -74,15 +79,29 @@ export function ProfileForm({ onSaved, onDone }: { onSaved: () => void; onDone?:
 
   const save = async () => {
     setSaving(true);
+    setErr(null);
     const clean = { ...p, residence: p.residence.map((r) => ({ ...r, end_ym: r.end_ym || null })) };
-    await fetch("/api/profile", {
-      method: "POST", headers: { "content-type": "application/json" },
-      body: JSON.stringify(clean),
-    });
-    setSaving(false);
-    onSaved();
-    setFlashed(true);
-    onDone?.();
+    try {
+      const res = await apiFetch("/api/profile", {
+        method: "POST", headers: { "content-type": "application/json" },
+        body: JSON.stringify(clean),
+      });
+      const j = await res.json().catch(() => null);
+      if (!res.ok || !j || j.ok === false) {
+        setErr(j?.error || `保存失败（HTTP ${res.status}）`);
+        return;
+      }
+      setFlashed(true);
+      // 用服务端回读的结果覆盖本地状态，避免「界面改了、库里没改」的错觉
+      const fresh = await apiFetch("/api/profile").then((r) => r.json()).catch(() => null);
+      if (fresh && fresh.id) setP({ ...blank, ...fresh, residence: fresh.residence?.length ? fresh.residence : blank.residence });
+      onSaved();
+      onDone?.();
+    } catch (e) {
+      setErr(String(e));
+    } finally {
+      setSaving(false);
+    }
   };
 
   return (
@@ -191,8 +210,12 @@ export function ProfileForm({ onSaved, onDone }: { onSaved: () => void; onDone?:
         >
           {saving ? "保存中…" : "保存并重算"}
         </button>
-        <div className="sans text-[11px] mt-3 leading-[1.8]" style={{ color: "var(--color-mute)" }}>
-          {flashed ? "已写入本机并重算，条文页右侧的结算栏会跟着变。" : "分段按起止年月计月数，重叠部分按先出现的段算。数据只存本机 sqlite。"}
+        <div className="sans text-[11px] mt-3 leading-[1.8]" style={{ color: err ? "var(--color-seal)" : "var(--color-mute)" }}>
+          {err
+            ? `没写进去：${err}`
+            : flashed
+            ? "已写入本机并重算，条文页右侧的结算栏会跟着变。"
+            : "分段按起止年月计月数，重叠部分按先出现的段算。数据只存本机 sqlite。"}
         </div>
     </div>
   );

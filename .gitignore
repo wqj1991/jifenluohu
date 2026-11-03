@@ -1,9 +1,18 @@
 node_modules
 dist
 .env
+.env.local
+.env.localapi
+.env.mine
+# 线上库快照（pnpm db:pull 拉下来的只读副本）
+data/*.remote.db
+# db:push 合并中间库
+data/*.merge.db
 # sqlite 主库入库（含小区 / 房价 / 学校 / 积分档案）；只排除运行时副产物
 data/*.db-shm
 data/*.db-wal
+# 导入前的库备份（VACUUM INTO 产物，MB 级）
+data/*.bak-*
 
 # 抓取凭证（链家登录态 cookie，明文，绝不入库）
 data/*.cookie
@@ -15,3 +24,8 @@ tsconfig.tsbuildinfo
 
 # 设计/代理临时产物
 .impeccable
+# 一次性排查脚本（.tmp/cov.mjs 这类）
+.tmp/
+
+# 地图瓦片本地缓存（几十 MB 级，不进仓）
+data/tiles/

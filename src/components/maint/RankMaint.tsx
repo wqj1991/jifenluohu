@@ -7,6 +7,7 @@ import { PageHead, Facts, Band, Field, Seg, Suggest, Skeleton, Notice, Empty, da
 
 const stages = [
   { v: "", l: "全部" },
+  { v: "幼儿园", l: "幼儿园" },
   { v: "小学", l: "小学" },
   { v: "中学", l: "中学" },
 ];
@@ -26,8 +27,8 @@ const tierTone = (t?: string | null) =>
     : t === "二梯队" ? "var(--color-ink)"
       : t === "其他梯队" || !t ? "var(--color-mute)" : "var(--color-ink-2)";
 
-export default function RankMaint() {
-  const [stage, setStage] = useState("");
+export default function RankMaint({ initialStage = "" }: { initialStage?: string } = {}) {
+  const [stage, setStage] = useState(initialStage);
   const [region, setRegion] = useState("");
   const [year, setYear] = useState("");
   const [verified, setVerified] = useState("");
@@ -45,7 +46,7 @@ export default function RankMaint() {
   const r = sum.data?.rank;
   const rows = list.data?.rows || [];
 
-  const startNew = () => { setForm({ ...blank, stage: stage || "小学", region: region || "", year: year || String(new Date().getFullYear()), tier: tier || "" }); setMsg(""); setOpen(true); };
+  const startNew = () => { setForm({ ...blank, stage: stage || initialStage || "小学", region: region || "", year: year || String(new Date().getFullYear()), tier: tier || "" }); setMsg(""); setOpen(true); };
   const startEdit = (row: RankRow) => {
     setForm({
       id: row.id, school_id: row.school_id || 0, school_name: row.school_name, stage: row.stage,
@@ -108,7 +109,7 @@ export default function RankMaint() {
         { k: "梯队分布", v: list.data?.byTier?.length
           ? list.data.byTier.map((t) => `${t.t} ${t.c}`).join(" · ")
           : dash(null), tone: "mute" },
-        { k: "在册学校", v: sum.data ? `${sum.data.school.primary} 小 / ${sum.data.school.middle} 中` : dash(null), tone: "mute" },
+        { k: "在册学校", v: sum.data ? `${sum.data.school.primary} 小 / ${sum.data.school.middle} 中 / ${sum.data.school.kindergarten} 幼` : dash(null), tone: "mute" },
       ]} />
 
       {open ? (
@@ -131,6 +132,7 @@ export default function RankMaint() {
           />
           <Field label="阶段" w="6rem">
             <select className="m-input" value={form.stage} onChange={(e) => setForm({ ...form, stage: e.target.value })}>
+              <option value="幼儿园">幼儿园</option>
               <option value="小学">小学</option>
               <option value="中学">中学</option>
             </select>

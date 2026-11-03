@@ -183,7 +183,7 @@ export function rows(db, q) {
 
   const total = db.prepare(`SELECT COUNT(*) c FROM community WHERE ${W}`).get(...args).c;
 
-  // 商圈质心通勤
+  // 通勤：小区实测路线（community_route）优先，没测到的才退回商圈质心估计（transit_cache）
   const wpIds = String(wps).split(",").filter(Boolean).map(Number);
   const workplaces = wpIds.length
     ? db.prepare(`SELECT * FROM workplace WHERE id IN (${wpIds.map(() => "?").join(",")})`).all(...wpIds)
@@ -191,10 +191,27 @@ export function rows(db, q) {
   const bc = db.prepare("SELECT * FROM bizcenter").all();
   const centerMap = new Map(bc.map((b) => [`${b.district}|${b.bizcircle}`, b]));
   const getCache = db.prepare("SELECT * FROM transit_cache WHERE key = ?");
+  // 台账表由 route.mjs 建；万一还没建，退回纯估算，别让整页 500
+  let getRoute = null;
+  try {
+    getRoute = db.prepare("SELECT * FROM community_route WHERE community_id = ? AND wp_id = ?");
+  } catch { getRoute = null; }
   const today = new Date().toISOString().slice(0, 10);
 
   for (const r of list) {
     r.transit = workplaces.map((w) => {
+      const rt = getRoute ? getRoute.get(r.id, w.id) : null;
+      if (rt && rt.minutes_min != null) {
+        return {
+          wp: w.id, label: w.label,
+          min: rt.minutes_min, max: rt.minutes_max ?? rt.minutes_min,
+          distance_m: rt.distance_m, walk_m: rt.walk_m, transfers: rt.transfers,
+          line_text: rt.line_text,
+          source: rt.source === "manual" ? "实测" : "路线",
+          stale: rt.fetched_at !== today,
+          missing: false,
+        };
+      }
       const c = centerMap.get(`${r.district}|${r.bizcircle}`);
       if (!c) return { wp: w.id, label: w.label, min: null, max: null, stale: false, missing: true };
       const row = getCache.get(cacheKey(c, w));
@@ -203,6 +220,7 @@ export function rows(db, q) {
         min: row?.minutes_min ?? null,
         max: row?.minutes_max ?? null,
         distance_m: row?.distance_m ?? null,
+        source: row ? "商圈估算" : null,
         stale: row ? row.fetched_at !== today : false,
         missing: !row,
       };
@@ -232,6 +250,18 @@ export async function exactTransit(db, communityId, wpId) {
   const c = db.prepare("SELECT * FROM community WHERE id = ?").get(communityId);
   const w = db.prepare("SELECT * FROM workplace WHERE id = ?").get(wpId);
   if (!c || !w) throw new Error("参数无效");
+  // 台账里已经有这条实测（community_route），直接用它，不再打一次高德
+  let route = null;
+  try {
+    route = db.prepare("SELECT * FROM community_route WHERE community_id = ? AND wp_id = ?").get(communityId, wpId);
+  } catch { route = null; }
+  if (route && route.minutes_min != null) {
+    return {
+      min: route.minutes_min, max: route.minutes_max ?? route.minutes_min,
+      distance_m: route.distance_m, walk_m: route.walk_m, line_text: route.line_text,
+      source: route.source === "manual" ? "实测" : "路线", cached: true,
+    };
+  }
   const k = cacheKey(c, w);
   const prev = db.prepare("SELECT * FROM transit_cache WHERE key = ?").get(k);
   const today = new Date().toISOString().slice(0, 10);
@@ -246,6 +276,23 @@ export async function exactTransit(db, communityId, wpId) {
      minutes_min=excluded.minutes_min, minutes_max=excluded.minutes_max,
      distance_m=excluded.distance_m, fetched_at=excluded.fetched_at`
   ).run(k, t.min, t.max, t.distance_m, today);
+  // 同时写进台账，选房列表下次直接读实测值，不必再点「精确」
+  try {
+    db.prepare(
+      `INSERT INTO community_route(community_id, wp_id, mode, minutes_min, minutes_max, distance_m,
+          walk_m, transfers, line_text, depart_at, source, fetched_at, verified, updated_at)
+       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+       ON CONFLICT(community_id, wp_id) DO UPDATE SET
+         minutes_min=excluded.minutes_min, minutes_max=excluded.minutes_max,
+         distance_m=excluded.distance_m, walk_m=excluded.walk_m,
+         transfers=excluded.transfers, line_text=excluded.line_text,
+         source=excluded.source, fetched_at=excluded.fetched_at, updated_at=excluded.updated_at`
+    ).run(
+      communityId, wpId, "公交", t.min, t.max, t.distance_m ?? null,
+      t.walk_m ?? null, t.transfers ?? null, t.line_text ?? null,
+      "08:10", "amap", today, 0, new Date().toISOString().replace("T", " ").slice(0, 19)
+    );
+  } catch { /* 台账表不在时只落缓存，不影响这次返回 */ }
   return { ...t, cached: false };
 }
 

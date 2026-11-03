@@ -1,3 +1,4 @@
+import { apiFetch } from "./http";
 // 维护台账的接口客户端：一类数据一个 fetch，写法跟 lib/api.ts 保持一致。
 import { useEffect, useState } from "react";
 
@@ -12,10 +13,10 @@ const qs = (p: Record<string, string | number | undefined>) => {
   return u.toString();
 };
 
-export const getJSON = <T,>(path: string) => fetch(path).then((r) => read<T>(r));
+export const getJSON = <T,>(path: string) => apiFetch(path).then((r) => read<T>(r));
 
 export const postJSON = <T,>(path: string, body: unknown) =>
-  fetch(path, {
+  apiFetch(path, {
     method: "POST",
     headers: { "content-type": "application/json" },
     body: JSON.stringify(body),
@@ -43,7 +44,7 @@ export type Summary = {
     missing: number; points: number; sources: number; withMulti: number;
   };
   priceSources: PriceSourceStat[];
-  school: { primary: number; middle: number; total: number };
+  school: { kindergarten: number; primary: number; middle: number; total: number };
   rank: { n: number; verified: number; years: [number, number] | null };
   zone: { n: number; verified: number; communities: number };
   workplace: { n: number };
@@ -209,6 +210,35 @@ export const measureRoutes = (b: {
     requested?: number; hit?: number; fail?: number; sample?: string[];
     remaining?: number; seconds?: number;
   }>("/api/maint/route/measure", b);
+
+/* ---------------- 商圈名录 ---------------- */
+
+export type BizRow = {
+  id: number; district: string; name: string; alias: string | null;
+  bucket: number; active: number; note: string | null; updated_at: string | null;
+  communities: number; located: number; priced: number;
+  median: number | null; p25: number | null; p75: number | null;
+};
+
+export type BizResp = {
+  rows: BizRow[];
+  byDistrict: { district: string; n: number; communities: number; priced: number }[];
+  stats: {
+    n: number; comms: number; located: number; priced: number;
+    buckets: number; disabled: number; mapped: number; districts: number;
+  };
+};
+
+export const fetchBizCircles = (p: { district?: string; q?: string; flag?: string }) =>
+  getJSON<BizResp>(`/api/maint/biz?${qs({ ...p })}`);
+export const saveBizCircle = (b: {
+  id?: number; district: string; name: string; alias?: string;
+  bucket?: number; active?: number; note?: string;
+}) => postJSON<{ ok: boolean; error?: string; id?: number; moved?: number }>("/api/maint/biz", b);
+export const mergeBizCircle = (b: { from: string[]; to: string }) =>
+  postJSON<{ ok: boolean; error?: string; moved?: number; removed?: number }>("/api/maint/biz/merge", b);
+export const dropBizCircle = (id: number) =>
+  delJSON<{ ok: boolean; error?: string }>(`/api/maint/biz/${id}`);
 
 /* ---------------- 极小的数据钩子 ---------------- */
 

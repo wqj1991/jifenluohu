@@ -141,6 +141,7 @@ export function registerMaint(app, db) {
       },
       priceSources: src,
       school: {
+        kindergarten: sch.find((s) => s.stage === "幼儿园")?.n || 0,
         primary: sch.find((s) => s.stage === "小学")?.n || 0,
         middle: sch.find((s) => s.stage === "中学")?.n || 0,
         total: sch.reduce((a, s) => a + s.n, 0),

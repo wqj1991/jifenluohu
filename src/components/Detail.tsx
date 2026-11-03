@@ -24,32 +24,31 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-start justify-center overflow-y-auto px-4 py-[6vh]"
+      className="fixed inset-0 z-50 flex items-end md:items-start justify-center overflow-y-auto md:px-4 md:py-[6vh]"
       style={{ background: "rgba(27,27,26,.34)" }}
       onClick={onClose}
     >
       <div
-        className="relative w-[min(840px,96vw)]"
+        className="detail-doc relative w-full md:w-[min(840px,96vw)]"
         style={{
           background: "var(--color-paper)",
-          border: "1px solid var(--color-rule-2)",
           boxShadow: "0 24px 60px -18px rgba(27,27,26,.4)",
         }}
         onClick={(e) => e.stopPropagation()}
       >
         {/* 红头 */}
-        <div className="px-9 pt-7">
+        <div className="px-5 md:px-9 pt-7">
           <div className="flex items-start justify-between gap-6">
             <div>
               <div className="sans text-[11px] tracking-[.26em]" style={{ color: "var(--color-seal)" }}>
                 第{item.no}项 · 计算过程
               </div>
-              <h2 className="text-[27px] font-semibold tracking-[.06em] mt-2 leading-tight">
+              <h2 className="text-[21px] md:text-[27px] font-semibold tracking-[.06em] mt-2 leading-snug">
                 {item.title}
               </h2>
             </div>
             <div className="text-right shrink-0">
-              <div className="num leading-none" style={{ fontSize: 46, letterSpacing: "-.03em" }}>
+              <div className="num leading-none text-[34px] md:text-[46px]" style={{ letterSpacing: "-.03em" }}>
                 {fmt(item.score)}
               </div>
               <div className="sans text-[10.5px] tracking-[.2em] mt-1" style={{ color: "var(--color-mute)" }}>
@@ -62,7 +61,7 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
         </div>
 
         {/* 明细 */}
-        <div className="px-9 pt-5 pb-2">
+        <div className="px-5 md:px-9 pt-5 pb-2">
           <div className="sans text-[11px] tracking-[.22em] mb-2" style={{ color: "var(--color-mute)" }}>
             逐条演算
           </div>
@@ -95,7 +94,7 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
 
         {/* 公式 */}
         {item.formula ? (
-          <div className="px-9 pb-1">
+          <div className="px-5 md:px-9 pb-1">
             <div
               className="px-4 py-3 mt-2 num text-[14.5px]"
               style={{ background: "var(--color-paper-2)", border: "1px solid var(--color-rule)" }}
@@ -109,7 +108,7 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
         ) : null}
 
         {/* 条文原文 */}
-        <div className="px-9 pt-5 pb-1">
+        <div className="px-5 md:px-9 pt-5 pb-1">
           <div className="sans text-[11px] tracking-[.22em] mb-2" style={{ color: "var(--color-mute)" }}>
             条文原文
           </div>
@@ -122,7 +121,7 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
         </div>
 
         {/* 注 */}
-        <div className="px-9 pt-4 pb-8">
+        <div className="px-5 md:px-9 pt-4 pb-8">
           <div className="sans text-[11.5px] leading-[1.8]" style={{ color: "var(--color-mute)" }}>
             {item.unit ? <div><span className="num">{item.unit}</span></div> : null}
             {item.note ? <div>{item.note}</div> : null}
@@ -130,13 +129,11 @@ export default function Detail({ item, onClose }: { item: Item | null; onClose: 
           </div>
         </div>
 
-        <button
-          onClick={onClose}
-          className="absolute top-5 right-6 sans text-[12px] tracking-[.2em] px-2 py-1"
-          style={{ color: "var(--color-mute)" }}
-          aria-label="关闭"
-        >
-          ✕ 关闭
+        <button onClick={onClose} className="detail-x" aria-label="关闭">
+          <svg viewBox="0 0 16 16" aria-hidden>
+            <path d="M3 3l10 10M13 3L3 13" fill="none" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round" />
+          </svg>
+          <span>关闭</span>
         </button>
       </div>
     </div>

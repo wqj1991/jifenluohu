@@ -8,7 +8,11 @@ import { compute, project, round } from "./engine.mjs";
 import { ensureTables, geocode, precompute, rows as houseRows, exactTransit, nearbySchools, bizCenters } from "./house.mjs";
 import { ensureMaintTables, registerMaint } from "./maint.mjs";
 import { ensureRouteTable, registerRoute } from "./route.mjs";
+import { registerMap } from "./map.mjs";
+import { ensureBizcircle, registerBizcircle } from "./bizcircle.mjs";
 import { attach } from "./prices.mjs";
+import { registerAi } from "./ai.mjs";
+import { ensureAuthTables, registerAuth } from "./auth.mjs";
 
 const __dir = path.dirname(fileURLToPath(import.meta.url));
 try { process.loadEnvFile(path.join(__dir, "..", ".env")); } catch { /* 无 .env 时靠系统环境变量 */ }
@@ -17,10 +21,16 @@ const db = open();
 ensureTables(db);
 ensureMaintTables(db);
 ensureRouteTable(db);
-const app = Fastify({ logger: false });
-await app.register(cors, { origin: true });
+ensureAuthTables(db);
+ensureBizcircle(db);
+const app = Fastify({ logger: false, trustProxy: true });
+await app.register(cors, { origin: true, credentials: true });
+registerAuth(app, db);
 registerMaint(app, db);
 registerRoute(app, db);
+registerBizcircle(app, db);
+registerMap(app, db);
+registerAi(app, db);
 
 function loadPerson(id) {
   id = Number(id) || 1;
@@ -159,6 +169,20 @@ app.get("/api/bizcenters", async (req) => {
   return db.prepare("SELECT * FROM bizcenter ORDER BY district, bizcircle").all();
 });
 
+// 全量商圈清单：下拉候选用。与 /api/bizcenters 的区别是不要求有坐标
+// （那 16 个小区全无坐标的商圈算不出中心点，但在列表筛选里仍然要能选到）。
+app.get("/api/bizcircles", async () => {
+  return db
+    .prepare(
+      `SELECT district, bizcircle, COUNT(*) AS n
+         FROM community
+        WHERE bizcircle IS NOT NULL AND TRIM(bizcircle) <> ''
+        GROUP BY district, bizcircle
+        ORDER BY district, bizcircle`
+    )
+    .all();
+});
+
 app.post("/api/transit/precompute", async (req) => {
   const b = req.body || {};
   try {
@@ -238,30 +262,43 @@ app.get("/api/profile", async (req) => {
 
 app.post("/api/profile", async (req) => {
   const b = req.body || {};
-  const id = Number(b.person?.id || 1);
+  // body 可能是扁平档案（GET /api/profile 与前端提交都是扁平），也可能是 { person: {...} } 包裹
+  const p = b.person || b;
+  const id = Number(p.id || b.person_id || 1);
   db.exec("BEGIN");
   try {
+    const cur = db.prepare("SELECT name, birth_ym FROM person WHERE id = ?").get(id);
+    if (!cur) throw new Error(`申报人 ${id} 不存在`);
     db.prepare("UPDATE person SET name = ?, birth_ym = ? WHERE id = ?")
-      .run(b.person?.name || "我", b.person?.birth_ym || "1988-06", id);
+      .run(p.name || cur.name, p.birth_ym || cur.birth_ym, id);
     db.prepare("DELETE FROM employment WHERE person_id = ?").run(id);
     db.prepare("DELETE FROM residence WHERE person_id = ?").run(id);
     db.prepare("DELETE FROM education WHERE person_id = ?").run(id);
     db.prepare("DELETE FROM tax_record WHERE person_id = ?").run(id);
-    for (const e of b.employment || []) {
+    const list = (k) => (Array.isArray(b[k]) ? b[k] : Array.isArray(p[k]) ? p[k] : []);
+    for (const e of list("employment")) {
       db.prepare("INSERT INTO employment(person_id,start_ym,end_ym,pay_district,is_municipal,backfill_months,employer) VALUES(?,?,?,?,?,?,?)")
         .run(id, e.start_ym, e.end_ym || null, e.pay_district, e.is_municipal ? 1 : 0, Number(e.backfill_months) || 0, e.employer || null);
     }
-    for (const r of b.residence || []) {
+    for (const r of list("residence")) {
       db.prepare("INSERT INTO residence(person_id,kind,district,start_ym,end_ym,registered) VALUES(?,?,?,?,?,?)")
         .run(id, r.kind, r.district, r.start_ym, r.end_ym || null, r.registered ? 1 : 0);
     }
-    for (const e of b.education || []) {
+    for (const e of list("education")) {
       db.prepare("INSERT INTO education(person_id,level,has_degree,obtain_ym,study_months) VALUES(?,?,?,?,?)")
         .run(id, e.level, e.has_degree ? 1 : 0, e.obtain_ym || null, Number(e.study_months) || 0);
     }
-    for (const t of b.tax || []) {
+    for (const t of list("tax")) {
       db.prepare("INSERT INTO tax_record(person_id,year,amount) VALUES(?,?,?)")
         .run(id, Number(t.year), Number(t.amount) || 0);
+    }
+    // 荣誉段：只有明确传了才替换，避免前端没带这个字段时把已有记录清空
+    if (Array.isArray(b.honor) || Array.isArray(p.honor)) {
+      db.prepare("DELETE FROM honor WHERE person_id = ?").run(id);
+      for (const h of list("honor")) {
+        db.prepare("INSERT INTO honor(person_id,level,year) VALUES(?,?,?)")
+          .run(id, String(h.level ?? ""), h.year == null ? null : Number(h.year));
+      }
     }
     db.exec("COMMIT");
   } catch (e) {

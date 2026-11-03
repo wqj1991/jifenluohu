@@ -1,9 +1,11 @@
 import { DatabaseSync } from "node:sqlite";
+import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-export const DB_PATH = path.join(__dirname, "..", "data", "luohu.db");
+// LUOHU_DB 可指向别的库文件（跑测试或临时实例时用，别动正式库）
+export const DB_PATH = process.env.LUOHU_DB || path.join(__dirname, "..", "data", "luohu.db");
 
 const DDL = `
 PRAGMA journal_mode = WAL;
@@ -100,7 +102,7 @@ CREATE TABLE IF NOT EXISTS school (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   place_id TEXT UNIQUE,
   name TEXT NOT NULL,
-  stage TEXT NOT NULL,             -- 小学 | 中学
+  stage TEXT NOT NULL,             -- 幼儿园 | 小学 | 中学
   addr TEXT,
   lng REAL, lat REAL,
   region_id TEXT
@@ -122,6 +124,14 @@ CREATE TABLE IF NOT EXISTS setting (
 `;
 
 export function open() {
+  // 权威库在服务器 47.95.238.28:/opt/luohu/data/luohu.db；本地库已删除，别在本地攒数据
+  if (!existsSync(DB_PATH)) {
+    console.warn(
+      `[db] ${DB_PATH} 不存在，将新建空库（只有表结构、没有数据）。\n` +
+        `     要看线上数据：pnpm db:pull 然后 cp data/luohu.remote.db data/luohu.db，` +
+        `或用 LUOHU_DB=data/luohu.remote.db 指向快照。`,
+    );
+  }
   const db = new DatabaseSync(DB_PATH);
   db.exec(DDL);
   // 轻量迁移：老库补列

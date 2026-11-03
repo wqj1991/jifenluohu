@@ -32,6 +32,7 @@ Vite + React + TypeScript + shadcn/ui（前端）；Fastify + better-sqlite3（�
 ## Operating Context
 
 - 数据全部落在本地 sqlite，不依赖云服务；单机运行。
+- 单人一个账号：`/api/*` 全量鉴权，静态资源放行以便加载登录页；密码 scrypt 加盐存 sqlite，会话走 30 天 HttpOnly cookie——公网那份副本因此不会被路人翻到档案。
 - 政策以官方文件为唯一证据源（京政办发〔2020〕9 号 + 京人社开发发〔2020〕8 号），未核实项一律挂「未核实」标记，不硬编码猜测值。
 - 通勤时间通过高德地图 API 实测采集（早高峰调用），结果确定、可缓存；高德不建模时刻表，因此只能反推到达时刻。
 - 学区来自区教委官方划片文件与年度实施细则附件，按年更新，逐条确认后入档。
@@ -55,13 +56,17 @@ Vite + React + TypeScript + shadcn/ui（前端）；Fastify + better-sqlite3（�
 
 **房价数据源（多源，实测结论 2026-11-02）**
 - 表结构：`community_price(community_id, source, price, online, ym, url, source_id, note, fetched_at)`，每个「小区 × 来源」一行；`community` 只存聚合值——`price` 取各源**中位数**、`price_low/price_high` 为最小/最大、`price_src_n` 为源数，多源时 `community.source='multi'`。**不取平均**：各站口径本来就不同，平均只把差价抹平，不消除。
-- 可用：安居客移动站 `https://m.anjuke.com/bj/community/<区拼音>/` —— 200、SSR、免登录免验证码，25 条/页，现役主力源（2098 个小区）。列表含小区名、商圈、建成年、**挂牌均价**、在售套数、坐标、建筑类型、物业费、绿化率、总户数；详情页另含容积率、车位比、开发商。
+- 可用：安居客移动站 `https://m.anjuke.com/bj/community/<区拼音>/` —— 200、SSR、免登录免验证码，25 条/页，现役主力源（2098 个小区）。列表含小区名、商圈、建成年、**挂牌均价**、在售套数、坐标、建筑类型、物业费、绿化率、总户数；详情页另含容积率、车位比、开发商。**必须用 iPhone UA**（桌面 UA 会被 58 网关甩 720 字节 `@@xxzlGatewayUrl` 壳 → `callback.58.com/antibot`，是 UA 不是 IP 封禁，换 UA 即恢复）。
 - 可用（需登录态）：链家 —— 浏览器登录 bj.lianjia.com 后导出 cookie 存 `data/lianjia.cookie`（Cookie-Editor JSON，登录态 7 天），`pnpm fc:fetch-biz --district tongzhou` 走「商圈 × 排序」拿数：14 个商圈 × （默认序 / cro21 价升 / cro22 价降）三种首页，42/42 零失败，通州去重 558 个小区（该区约 900，覆盖 62%）。**深分页 `pg2`+ 恒被连接重置，翻页这条路彻底走不通**（见 `docs/firecrawl-fangchan.md`）；已导入 257 条链家价与安居客并存、不覆盖。贝壳、安居客 PC（58 antibot）、房天下（521 + 加速乐，`xiaoqu` 维度已下线）、中国房价行情（验证码）仍需登录态或直接不可用。
-- 可用（免登录）：我爱我家移动站 `https://m.5i5j.com/bj/xiaoqu/<区slug>/`（slug 必须带 `qu`：`tongzhouqu`/`daxingqu`，写 `tongzhou` 会 200 但静默回落成「全北京推荐」）。**不需要账号/token/cookie，但必须用 iPhone UA**——桌面 UA 会被 302 到 `bj.5i5j.com` 再吃 403（本机出口走 Zscaler，响应带 `HMF_CI`，别误判成站点封禁）。每个小区一屏给全：名字/详情页 id/挂牌均价/在售套数/在租套数/建成年/楼型/商圈。`pnpm fc:fetch --site 5i5j --district <区> --slices` 走「维度切片」：通州 30 片、大兴 32 片，去重得通州 487 / 大兴 415 个小区（通州官方 743，覆盖 66%）；`--only <切片名>` 可单跑一片。
-- 我爱我家的硬限制：**没有分页**。列表页硬上限 40 条/页，`?page/?p/?pg/?pn/?curPage/?start/?offset/?pageindex` 一律返回同一页，`/pN/` 不是页码而是**价格档**（p1=2万以下、p2=2-3万…p8=10万以上，越界即 302 回首页），`list_xiaoqu.js` 里也没有「加载更多」的请求。只能按**单维度切片**枚举，且维度之间不可组合（`/tongzhouqu/liyuan/p2/` 一律 404）：不限 / 价格档 p1-p8 / 楼龄档 y1-y5 / 商圈（通州 16 个、大兴 18 个，见 `M5I5J_BIZ`）。
-- 导入：`pnpm prices:import --all`（或 `--file/--site/--district/--dry`）读 `data/fc_*.json`、`data/ajk_full_*.json`，按 source_id → 区+归一化名 → 区+商圈包含匹配到已有小区，**只补价不新建小区**（新小区缺坐标，进不了选房结果）。
-- 已知缺陷：安居客分页上限 50 页且深页回卷，通州官方 1320 条实测只能取到 510 条；载荷是变量别名化的 nuxt 对象，只能解析渲染文本，不能 JSON.parse；配建学校名被脱敏。
+- 可用（免登录）：我爱我家移动站 `https://m.5i5j.com/bj/xiaoqu/<区slug>/`（slug 必须带 `qu`：`tongzhouqu`/`daxingqu`，写 `tongzhou` 会 200 但静默回落成「全北京推荐」）。**不需要账号/token/cookie，但必须用 iPhone UA**——桌面 UA 会被 302 到 `bj.5i5j.com` 再吃 403（本机出口走 Zscaler，响应带 `HMF_CI`，别误判成站点封禁）。每个小区一屏给全：名字/详情页 id/挂牌均价/在售套数/在租套数/建成年/楼型/商圈。`pnpm fc:fetch --site 5i5j --district <区> --slices` 走「维度切片」：通州 30 片、大兴 32 片，去重得通州 487 / 大兴 415 个小区（官方 743 / 550，覆盖 69.8%）；`--only <切片名>` 可单跑一片。入库后覆盖 **760** 个小区（通州 410、大兴 350），其中 442 个同时有安居客价可交叉验证，两源偏差中位 9.1%。
+- 我爱我家的硬限制：**没有分页**。列表页硬上限 40 条/页，`?page/?p/?pg/?pn/?curPage/?start/?offset/?pageindex` 一律返回同一页，`/pN/` 不是页码而是**价格档**（p1=2万以下、p2=2-3万…p8=10万以上，越界即 302 回首页），`list_xiaoqu.js` 里也没有「加载更多」的请求。只能按**单维度切片**枚举，且维度之间不可组合（`/tongzhouqu/liyuan/p2/` 一律 404）：不限 / 价格档 p1-p8 / 楼龄档 y1-y5 / 商圈（通州 16 个、大兴 18 个，见 `M5I5J_BIZ`）。楼型维度试过不通：`/tongzhouqu/type1..5/`、`banlou`/`talou`/`bieyuan` 等 16 个 URL 全部 200 但内容是同一份「共找到11273个北京小区」（丢区回落、id 集合 md5 全等），拿不到新 id。
+- 导入：`pnpm prices:import --all`（或 `--file/--site/--district/--dry/--create`）读 `data/fc_*.json`、`data/ajk_full_*.json`。匹配四级：同源 source_id → 区+归一化名 → 区+商圈+名字包含 → 同名多候选取（逐字同名优先，其次商圈一致，最后 id 最小并记 `name-only` 便于回查）。默认只补价不新建；加 **`--create`** 时，站上有价但库里查无此名的会补建成**无坐标记录**（id 取负的站点 id 避开安居客正整数 id，`property_type` 按名字推断住宅/别墅/商住/公寓/商业）。选房查询固定带 `lng IS NOT NULL`，所以这些记录不会混进选房结果，等后续拿到坐标自动转正。**source 标签必须归一**：安居客一律写 `anjuke-mobile`（与历史档同名），否则同一站点两行并存会把「多源小区」统计虚高（实测 601 → 1752）、前端重复显示两个「安居客」徽标。
+- 已知缺陷：安居客深页会回卷（`--pages 1-55` 实测通州 1133 条、大兴 1152 条，再往后整页零新增会自动停；官方口径通州约 1320 条）；载荷是变量别名化的 nuxt 对象，只能解析渲染文本，不能 JSON.parse；配建学校名被脱敏。
 - 因此房价按「可插拔 provider + 每源抓取时点 + 区间展示」设计，不承诺实时；主口径中位数 + 区间，抓不全时明示覆盖率，缺价留空不估算。
+- 定时刷新（**两地分工**，2026-11-03 上线）：权威数据只在服务器 `/opt/luohu/data/luohu.db`，本地库是历史快照。
+  ① **服务器 crontab**（`0 3 * * 0`，每周日 03:00）跑 `/opt/luohu/scripts/fc/weekly.mjs --only 5i5j --delay 1200`，套 `/usr/bin/flock -n /tmp/luohu-weekly.lock` 防重叠、追加 `/opt/luohu/data/logs/cron-weekly.log`；我爱我家抓完直接写权威库，服务器实测 4/4 成功、133 秒（通州 487 条→匹配 442，大兴 413 条→匹配 378，幂等）。
+  ② **安居客不能放服务器**：云厂商 IP 段被 58 风控列进风险名单，`m.anjuke.com` 一律返回约 5KB「安全验证」页、`c-li-item` 计数 0（Android UA / 微信 UA / 带或去 Referer / 伪造 `X-Forwarded-For` 五个变体全灭；首次 probe 能过，之后必然触发）。故安居客走**本机 Windows 计划任务**（任务名 `luohu-price-weekly`，每周日 **00:00**，`scripts/fc/install-weekly-task.ps1` 注册，默认参数 `--only anjuke --push`）：抓完用 `scripts/deploy.mjs --import` 经 1Panel API 推权威库，本地只留 JSON 缓存。它与服务器 03:00 的 5i5j 任务错开三小时，不会撞写库锁。
+  ③ `pnpm fc:weekly` 保持「全量一键」（安居客 + 我爱我家 + 本地 import），用于手动核对；`--only`、`--district`、`--dry`、`--push` 控制范围与落点。本机任务 `-Time` 调时间、`-Remove` 卸载，非管理员注册为 Interactive（锁屏跑、注销不跑）。日志落 `data/logs/fc-weekly-<时间戳>.log`（只留 26 周），任一环节失败退出码 1。
 
 ## Evidence on Hand
 
@@ -73,7 +78,11 @@ Vite + React + TypeScript + shadcn/ui（前端）；Fastify + better-sqlite3（�
 - 官方划片口径已核：通州、昌平、顺义、大兴的区级实施细则全文为纯 HTML，无附件表格，**正文里没有「小区→学校」的映射**（「小区」一词在通州、大兴文件中出现 0 次）。城六区外不存在朝阳 `xqcx.bjchyedu.cn` 那样的居住地反查系统。
 - 政策参数、未核实项（教育折分细则、创新创业附件细分、荣誉档位）目前只有扫描件，尚未结构化。
 
-**初中梯队（2026-11-02 入库）**：`school_rank.tier`，取值 `一梯队 / 二梯队 / 三梯队 / 民办·国际 / 其他梯队`。来源是家长整理的《通州区初中梯队》《大兴区初中梯队》（非官方，`verified=0`，source_url 指向学区网同主题文章）；与学区网口径不一致处写进 `note`（如首师附中通州被标「强加工校、前 500 名占全区约 10.4%」、大兴五中已改名北京建筑大学附属中学、十一实验即宋庄中学）。未列入该表的在册初中统一归「其他梯队」，不臆造名次；小学不录（原表只覆盖初中）。录入脚本 `scripts/seed_ranks.mjs`，按 (校名, 年度, 口径) 幂等。
+**初中梯队（2026-11-02 入库）**：`school_rank.tier`，取值 `一梯队 / 二梯队 / 三梯队 / 民办·国际 / 其他梯队`。来源是家长整理的《通州区初中梯队》《大兴区初中梯队》（非官方，`verified=0`，source_url 指向学区网同主题文章）；与学区网口径不一致处写进 `note`（如首师附中通州被标「强加工校、前 500 名占全区约 10.4%」、大兴五中已改名北京建筑大学附属中学、十一实验即宋庄中学）。未列入该表的在册初中统一归「其他梯队」，不臆造名次。录入脚本 `scripts/seed_ranks.mjs`，按 (校名, 年度, 口径) 幂等。
+
+**小学梯队（2026-11-03 入库）**：小学没有任何官方或第三方的排名榜（学区网全站只有「初中热度排名」和「高中热度排名+分数线」），所以小学档位是按可核事实推出来的推断值，`source` 写明「推断档位」、`verified=0`：依据是 ①是否名校办分校（西城/东城名校血统）②所属教育集团是否为集团龙头或成员（决定有无确定的初中通道）③校址属城区老牌还是乡镇中心校。通州 20 所、大兴 10 所来自用户自定清单；两区榜单口径以 `https://www.xschu.com/zhengcezixun/87842.html`（通州 12 集团）与 `87845.html`（大兴 10 集团）为准。脚本 `scripts/seed_primary_ranks.mjs`（通州）、`scripts/seed_primary_ranks_dx.mjs`（大兴）。
+
+**区域口径（2026-11-03 入库）**：`school_rank.region` 取值 `通州 / 大兴 / 经开`，台账页顶部可一键筛选。有 `school_id` 的行由 `school.addr` 反推（地址含「经济技术开发区」→ 经开，否则按通州/大兴），手填校名（`school_id` 为空）的行在 `scripts/backfill_region.mjs` 的白名单里逐条指定。经开区是独立招生单位，不与大兴合并统计——所以二中亦庄学校会出现南校区算经开、北校区算大兴的情况，这是按实际校址分的，不是错。
 
 **不可编造**：房价、学校排名、中考成绩、小区容积率与物业费。以上均无可靠来源。
 

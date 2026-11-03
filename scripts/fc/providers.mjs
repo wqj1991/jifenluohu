@@ -367,7 +367,10 @@ export const SITES = {
     access: "both",
     directOk: true,
     directReferer: "https://m.anjuke.com/bj/community/",
-    directRisk: "本机出口已被 58 标记：返回 720 字节 @@xxzlGatewayUrl 跳转壳 → callback.58.com/antibot/verifycode",
+    // 桌面 UA 会被 58 网关甩 720 字节 @@xxzlGatewayUrl 壳（callback.58.com/antibot）；
+    // 换 iPhone UA 后同一 URL 返回真实列表页（~405KB、25 条/页）。必须钉死。
+    ua: "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    directRisk: "桌面 UA 返回 720 字节 @@xxzlGatewayUrl 跳转壳 → callback.58.com/antibot/verifycode；改用 iPhone UA（ua 字段）即恢复正常",
     risk: "Firecrawl 出口 US/JP → callback.58.com/antibot 直接拦截（出口 IP 被识别）",
     listingUrl: ({ district, page = 1 }) => `https://m.anjuke.com/bj/community/${district}/p${page}/`,
     detailUrl: (id) => `https://m.anjuke.com/bj/community/${id}/`,
@@ -390,12 +393,12 @@ export const SITES = {
           bizcircle: spans[1] ?? null,
           district: district ? DISTRICTS[district]?.name : null,
           url: `https://m.anjuke.com/bj/community/${id}/`,
-          source: "anjuke",
+          source: "anjuke-mobile",
         });
       }
       return rows;
     },
-    parse: (md) => parseByLinks(md, { idRe: "\\/bj\\/community\\/(\\d+)\\/?", baseUrl: "https://m.anjuke.com", source: "anjuke" }),
+    parse: (md) => parseByLinks(md, { idRe: "\\/bj\\/community\\/(\\d+)\\/?", baseUrl: "https://m.anjuke.com", source: "anjuke-mobile" }),
     pageParam: "p",
   },
 
